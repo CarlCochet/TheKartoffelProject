@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93688896-4F28-4FE6-92AB-63DAC74578CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WorldEditor</RootNamespace>
+    <AssemblyName>WorldEditor</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WorldEditor.App</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Libraries\MySql.Data.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Libraries\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Stump 2.38\Stump.Server.WorldServer\bin\Debug\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net, Version=2.0.0.668, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Stump 2.38\Stump.Server.WorldServer\bin\Debug\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Libraries\System.Windows.Interactivity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Xceed.Wpf.Toolkit">
+      <HintPath>..\..\Libraries\Xceed.Wpf.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Config\ConfigDialog.xaml.cs">
+      <DependentUpon>ConfigDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Config\ConfigDialogModelView.cs" />
+    <Compile Include="Config\Configuration\Config\XmlConfig.cs" />
+    <Compile Include="Config\Configuration\Config\XmlConfigNode.cs" />
+    <Compile Include="Config\Configuration\Docs\DocEntry.cs" />
+    <Compile Include="Config\Configuration\Docs\DotNetDocumentation.cs" />
+    <Compile Include="Config\Configuration\Docs\MemberType.cs" />
+    <Compile Include="Config\Configuration\VariableAttribute.cs" />
+    <Compile Include="Config\Configuration\XmlUtils.cs" />
+    <Compile Include="Config\DbFactoryInformation.cs" />
+    <Compile Include="Config\LoaderSettings.cs" />
+    <Compile Include="Config\PathExistsRule.cs" />
+    <Compile Include="Config\Settings.cs" />
+    <Compile Include="Helpers\Behaviors\IgnoreMouseWheelBehavior.cs" />
+    <Compile Include="Helpers\Extentions\CollectionExtensions.cs" />
+    <Compile Include="Helpers\IO\BigEndianReader.cs" />
+    <Compile Include="Helpers\IO\BigEndianWriter.cs" />
+    <Compile Include="Helpers\IO\FormatterExtensions.cs" />
+    <Compile Include="Helpers\Pattern\InvalidPatternException.cs" />
+    <Compile Include="Helpers\Pattern\StringPatternDecoder.cs" />
+    <Compile Include="Helpers\Reflection\DynamicExtension.cs" />
+    <Compile Include="Helpers\Reflection\ReflectionExtensions.cs" />
+    <Compile Include="Helpers\Reflection\Singleton.cs" />
+    <Compile Include="Helpers\Sql\KeyValueListBase.cs" />
+    <Compile Include="Helpers\Sql\RawData.cs" />
+    <Compile Include="Helpers\Sql\SqlBuilder.cs" />
+    <Compile Include="Helpers\Sql\UpdateKeyValueList.cs" />
+    <Compile Include="Editors\D2I\D2IEditor.xaml.cs">
+      <DependentUpon>D2IEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\D2I\D2IEditorModelView.cs" />
+    <Compile Include="Editors\D2I\D2IGridRow.cs" />
+    <Compile Include="Editors\D2I\D2ITextRow.cs" />
+    <Compile Include="Editors\D2I\D2ITextUiRow.cs" />
+    <Compile Include="Editors\D2I\RowState.cs" />
+    <Compile Include="Editors\D2O\CellTemplateSelector.cs" />
+    <Compile Include="Editors\D2O\CollectionEditorResolver.cs" />
+    <Compile Include="Editors\D2O\D2OEditor.xaml.cs">
+      <DependentUpon>D2OEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\D2O\D2OEditorModelView.cs" />
+    <Compile Include="Editors\D2O\DoubleCollectionEditor.cs" />
+    <Compile Include="Editors\D2O\DoublePrimitiveCollectionEditor.cs" />
+    <Compile Include="Editors\D2O\EditorDialog.xaml.cs">
+      <DependentUpon>EditorDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\D2O\IPersistableChanged.cs" />
+    <Compile Include="Editors\D2O\ObjectState.cs" />
+    <Compile Include="Editors\D2O\SerializePropertyOnlyResolver.cs" />
+    <Compile Include="Editors\D2P\D2PEditor.xaml.cs">
+      <DependentUpon>D2PEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\D2P\D2PEditorModelView.cs" />
+    <Compile Include="Editors\D2P\D2PFileRow.cs" />
+    <Compile Include="Editors\D2P\D2PFolderRow.cs" />
+    <Compile Include="Editors\D2P\D2PGridRow.cs" />
+    <Compile Include="Editors\D2P\D2PLastFolderRow.cs" />
+    <Compile Include="Editors\EditedObject.cs" />
+    <Compile Include="Editors\Items\EffectEditorDialog.xaml.cs">
+      <DependentUpon>EffectEditorDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Items\Effects\EffectDiceWrapper.cs" />
+    <Compile Include="Editors\Items\Effects\EffectValueWrapper.cs" />
+    <Compile Include="Editors\Items\EffectWrapper.cs" />
+    <Compile Include="Editors\Items\IconSelectionDialog.xaml.cs">
+      <DependentUpon>IconSelectionDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Items\ItemEditor.xaml.cs">
+      <DependentUpon>ItemEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Items\ItemEditorModelView.cs" />
+    <Compile Include="Editors\Items\ItemsWrapper.cs" />
+    <Compile Include="Editors\Items\WeaponWrapper.cs" />
+    <Compile Include="Editors\Langs\LangEditor.xaml.cs">
+      <DependentUpon>LangEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\Langs\LangEditorModelView.cs" />
+    <Compile Include="Editors\Langs\LangGridRow.cs" />
+    <Compile Include="Editors\Langs\LangTextRow.cs" />
+    <Compile Include="Editors\Langs\LangTextUiRow.cs" />
+    <Compile Include="Editors\Langs\RowState.cs" />
+    <Compile Include="Helpers\ApplicationInfo.cs" />
+    <Compile Include="Helpers\BindingProxy.cs" />
+    <Compile Include="Helpers\CanvasAutoSize.cs" />
+    <Compile Include="Helpers\Collections\AsyncVirtualizingCollection.cs" />
+    <Compile Include="Helpers\Collections\IItemsProvider.cs" />
+    <Compile Include="Helpers\Collections\VirtualizingCollection.cs" />
+    <Compile Include="Helpers\ControlExtensions.cs" />
+    <Compile Include="Helpers\Controls\I18NTextBox.xaml.cs">
+      <DependentUpon>I18NTextBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Converters\CurrentLangConverter.cs" />
+    <Compile Include="Helpers\Converters\EmptyIfZeroConverter.cs" />
+    <Compile Include="Helpers\Converters\IdToI18NTextConverter.cs" />
+    <Compile Include="Helpers\Converters\IdToIconConverter.cs" />
+    <Compile Include="Helpers\Converters\IsGreaterThanConverter.cs" />
+    <Compile Include="Helpers\Converters\IsTypeOfConverter.cs" />
+    <Compile Include="Helpers\Converters\ItemTypeIdToTypeNameConverter.cs" />
+    <Compile Include="Helpers\Converters\LangToFlagConverter.cs" />
+    <Compile Include="Helpers\DataResource.cs" />
+    <Compile Include="Helpers\DataResourceBindingExtension.cs" />
+    <Compile Include="Helpers\DelegateCommand.cs" />
+    <Compile Include="Helpers\EnumerableItemProvider.cs" />
+    <Compile Include="Helpers\LambdaBinding.cs" />
+    <Compile Include="Helpers\LambdaConverter.cs" />
+    <Compile Include="Helpers\LambdaMultiConverter.cs" />
+    <Compile Include="Helpers\Markups\EnumValuesExtension.cs" />
+    <Compile Include="Helpers\Markups\EventCommandArgs.cs" />
+    <Compile Include="Helpers\Markups\EventToCommand.cs" />
+    <Compile Include="Helpers\MessageService.cs" />
+    <Compile Include="Helpers\ObservableCollectionRange.cs" />
+    <Compile Include="Helpers\OpaqueClickableImage.cs" />
+    <Compile Include="Helpers\ReadOnlyObservableCollectionRange.cs" />
+    <Compile Include="Helpers\StyleTriggerCollection.cs" />
+    <Compile Include="Helpers\SynchronizationCallback.cs" />
+    <Compile Include="Helpers\VirtualizingWrapPanel.cs" />
+    <Compile Include="Loaders\AnimFunData.cs" />
+    <Compile Include="Loaders\AnimFunMonsterData.cs" />
+    <Compile Include="Loaders\AnimFunNpcData.cs" />
+    <Compile Include="Loaders\Classes\abuse\AbuseReasons.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentBalance.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentEffect.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentGift.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentOrder.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentRank.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentRankJntGift.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentSide.cs" />
+    <Compile Include="Loaders\Classes\alignments\AlignmentTitle.cs" />
+    <Compile Include="Loaders\Classes\almanax\AlmanaxCalendar.cs" />
+    <Compile Include="Loaders\Classes\ambientSounds\AmbientSound.cs" />
+    <Compile Include="Loaders\Classes\ambientSounds\PlaylistSound.cs" />
+    <Compile Include="Loaders\Classes\appearance\Appearance.cs" />
+    <Compile Include="Loaders\Classes\appearance\CreatureBoneOverride.cs" />
+    <Compile Include="Loaders\Classes\appearance\CreatureBoneType.cs" />
+    <Compile Include="Loaders\Classes\appearance\Ornament.cs" />
+    <Compile Include="Loaders\Classes\appearance\SkinMapping.cs" />
+    <Compile Include="Loaders\Classes\appearance\SkinPosition.cs" />
+    <Compile Include="Loaders\Classes\appearance\Title.cs" />
+    <Compile Include="Loaders\Classes\appearance\TitleCategory.cs" />
+    <Compile Include="Loaders\Classes\bonus\Bonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusAreaCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusEquippedItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusMonsterCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusMonsterFamilyCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusQuestCategoryCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\criterion\BonusSubAreaCriterion.cs" />
+    <Compile Include="Loaders\Classes\bonus\MonsterBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\MonsterDropChanceBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\MonsterLightBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\MonsterStarRateBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\MonsterXPBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\MountBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\QuestBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\QuestKamasBonus.cs" />
+    <Compile Include="Loaders\Classes\bonus\QuestXPBonus.cs" />
+    <Compile Include="Loaders\Classes\breeds\Breed.cs" />
+    <Compile Include="Loaders\Classes\breeds\BreedRole.cs" />
+    <Compile Include="Loaders\Classes\breeds\BreedRoleByBreed.cs" />
+    <Compile Include="Loaders\Classes\breeds\Head.cs" />
+    <Compile Include="Loaders\Classes\challenges\Challenge.cs" />
+    <Compile Include="Loaders\Classes\characteristics\Characteristic.cs" />
+    <Compile Include="Loaders\Classes\characteristics\CharacteristicCategory.cs" />
+    <Compile Include="Loaders\Classes\communication\CensoredWord.cs" />
+    <Compile Include="Loaders\Classes\communication\ChatChannel.cs" />
+    <Compile Include="Loaders\Classes\communication\Emoticon.cs" />
+    <Compile Include="Loaders\Classes\communication\InfoMessage.cs" />
+    <Compile Include="Loaders\Classes\communication\Smiley.cs" />
+    <Compile Include="Loaders\Classes\communication\SmileyCategory.cs" />
+    <Compile Include="Loaders\Classes\communication\SmileyPack.cs" />
+    <Compile Include="Loaders\Classes\dare\DareCriteria.cs" />
+    <Compile Include="Loaders\Classes\documents\Comic.cs" />
+    <Compile Include="Loaders\Classes\documents\Document.cs" />
+    <Compile Include="Loaders\Classes\effects\Effect.cs" />
+    <Compile Include="Loaders\Classes\effects\EffectInstance.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceCreature.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceDate.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceDice.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceDuration.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceInteger.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceLadder.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceMinMax.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceMount.cs" />
+    <Compile Include="Loaders\Classes\effects\instances\EffectInstanceString.cs" />
+    <Compile Include="Loaders\Classes\externalnotifications\ExternalNotification.cs" />
+    <Compile Include="Loaders\Classes\guild\EmblemBackground.cs" />
+    <Compile Include="Loaders\Classes\guild\EmblemSymbol.cs" />
+    <Compile Include="Loaders\Classes\guild\EmblemSymbolCategory.cs" />
+    <Compile Include="Loaders\Classes\guild\RankName.cs" />
+    <Compile Include="Loaders\Classes\houses\HavenbagFurniture.cs" />
+    <Compile Include="Loaders\Classes\houses\HavenbagTheme.cs" />
+    <Compile Include="Loaders\Classes\houses\House.cs" />
+    <Compile Include="Loaders\Classes\idols\Idol.cs" />
+    <Compile Include="Loaders\Classes\idols\IdolsPresetIcon.cs" />
+    <Compile Include="Loaders\Classes\interactives\Interactive.cs" />
+    <Compile Include="Loaders\Classes\interactives\SkillName.cs" />
+    <Compile Include="Loaders\Classes\interactives\StealthBones.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AccountRightsItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AchievementItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AlignmentItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AlignmentLevelItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AllianceAvAItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AllianceItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AllianceRightsItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\AreaItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ArenaMaxSoloRankCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ArenaMaxTeamRankCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ArenaSoloRankCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ArenaTeamRankCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\BonesItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\BonusSetItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\BreedItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\CommunityItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\DayItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\EmoteItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\FriendlistItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\GiftItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\GroupItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\GuildItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\GuildLevelItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\GuildRightsItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ItemCriterionFactory.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ItemCriterionOperator.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\JobItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\KamaItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\LevelItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\MapCharactersItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\MariedItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\MonthItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\MountFamilyItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\NameItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ObjectItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\PremiumAccountItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\PrestigeLevelItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\PVPRankItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\QuestItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\RideItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\ServerItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SexItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SkillItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SmileyPackItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SoulStoneItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SpecializationItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SpellItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\StaticCriterionItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SubareaItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SubscribeItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\SubscriptionDurationItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\UnusableItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\criterion\WeightItemCriterion.cs" />
+    <Compile Include="Loaders\Classes\items\Incarnation.cs" />
+    <Compile Include="Loaders\Classes\items\IncarnationLevel.cs" />
+    <Compile Include="Loaders\Classes\items\Item.cs" />
+    <Compile Include="Loaders\Classes\items\ItemSet.cs" />
+    <Compile Include="Loaders\Classes\items\ItemType.cs" />
+    <Compile Include="Loaders\Classes\items\PresetIcon.cs" />
+    <Compile Include="Loaders\Classes\items\VeteranReward.cs" />
+    <Compile Include="Loaders\Classes\items\Weapon.cs" />
+    <Compile Include="Loaders\Classes\jobs\Job.cs" />
+    <Compile Include="Loaders\Classes\jobs\Recipe.cs" />
+    <Compile Include="Loaders\Classes\jobs\Skill.cs" />
+    <Compile Include="Loaders\Classes\livingObjects\LivingObjectSkinJntMood.cs" />
+    <Compile Include="Loaders\Classes\livingObjects\Pet.cs" />
+    <Compile Include="Loaders\Classes\livingObjects\SpeakingItemsTrigger.cs" />
+    <Compile Include="Loaders\Classes\livingObjects\SpeakingItemText.cs" />
+    <Compile Include="Loaders\Classes\misc\ActionDescription.cs" />
+    <Compile Include="Loaders\Classes\misc\CensoredContent.cs" />
+    <Compile Include="Loaders\Classes\misc\Month.cs" />
+    <Compile Include="Loaders\Classes\misc\OptionalFeature.cs" />
+    <Compile Include="Loaders\Classes\misc\Pack.cs" />
+    <Compile Include="Loaders\Classes\misc\Tips.cs" />
+    <Compile Include="Loaders\Classes\misc\TypeAction.cs" />
+    <Compile Include="Loaders\Classes\misc\Url.cs" />
+    <Compile Include="Loaders\Classes\monsters\Companion.cs" />
+    <Compile Include="Loaders\Classes\monsters\CompanionCharacteristic.cs" />
+    <Compile Include="Loaders\Classes\monsters\CompanionSpell.cs" />
+    <Compile Include="Loaders\Classes\monsters\Monster.cs" />
+    <Compile Include="Loaders\Classes\monsters\MonsterDrop.cs" />
+    <Compile Include="Loaders\Classes\monsters\MonsterGrade.cs" />
+    <Compile Include="Loaders\Classes\monsters\MonsterMiniBoss.cs" />
+    <Compile Include="Loaders\Classes\monsters\MonsterRace.cs" />
+    <Compile Include="Loaders\Classes\monsters\MonsterSuperRace.cs" />
+    <Compile Include="Loaders\Classes\mounts\Mount.cs" />
+    <Compile Include="Loaders\Classes\mounts\MountBehavior.cs" />
+    <Compile Include="Loaders\Classes\mounts\MountBone.cs" />
+    <Compile Include="Loaders\Classes\mounts\MountFamily.cs" />
+    <Compile Include="Loaders\Classes\mounts\RideFood.cs" />
+    <Compile Include="Loaders\Classes\notifications\Notification.cs" />
+    <Compile Include="Loaders\Classes\npcs\Npc.cs" />
+    <Compile Include="Loaders\Classes\npcs\NpcAction.cs" />
+    <Compile Include="Loaders\Classes\npcs\NpcMessage.cs" />
+    <Compile Include="Loaders\Classes\npcs\TaxCollectorFirstname.cs" />
+    <Compile Include="Loaders\Classes\npcs\TaxCollectorName.cs" />
+    <Compile Include="Loaders\Classes\playlists\Playlist.cs" />
+    <Compile Include="Loaders\Classes\quest\Achievement.cs" />
+    <Compile Include="Loaders\Classes\quest\AchievementCategory.cs" />
+    <Compile Include="Loaders\Classes\quest\AchievementObjective.cs" />
+    <Compile Include="Loaders\Classes\quest\AchievementReward.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveBringItemToNpc.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveBringSoulToNpc.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveCraftItem.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveDiscoverMap.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveDiscoverSubArea.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveDuelSpecificPlayer.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveFightMonster.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveFightMonstersOnMap.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveFreeForm.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveGoToNpc.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveMultiFightMonster.cs" />
+    <Compile Include="Loaders\Classes\quest\objectives\QuestObjectiveParameters.cs" />
+    <Compile Include="Loaders\Classes\quest\Quest.cs" />
+    <Compile Include="Loaders\Classes\quest\QuestCategory.cs" />
+    <Compile Include="Loaders\Classes\quest\QuestObjective.cs" />
+    <Compile Include="Loaders\Classes\quest\QuestObjectiveType.cs" />
+    <Compile Include="Loaders\Classes\quest\QuestStep.cs" />
+    <Compile Include="Loaders\Classes\quest\QuestStepRewards.cs" />
+    <Compile Include="Loaders\Classes\quest\treasureHunt\LegendaryTreasureHunt.cs" />
+    <Compile Include="Loaders\Classes\quest\treasureHunt\PointOfInterest.cs" />
+    <Compile Include="Loaders\Classes\quest\treasureHunt\PointOfInterestCategory.cs" />
+    <Compile Include="Loaders\Classes\servers\Server.cs" />
+    <Compile Include="Loaders\Classes\servers\ServerCommunity.cs" />
+    <Compile Include="Loaders\Classes\servers\ServerGameType.cs" />
+    <Compile Include="Loaders\Classes\servers\ServerPopulation.cs" />
+    <Compile Include="Loaders\Classes\sounds\SoundAnimation.cs" />
+    <Compile Include="Loaders\Classes\sounds\SoundBones.cs" />
+    <Compile Include="Loaders\Classes\sounds\SoundUi.cs" />
+    <Compile Include="Loaders\Classes\sounds\SoundUiElement.cs" />
+    <Compile Include="Loaders\Classes\sounds\SoundUiHook.cs" />
+    <Compile Include="Loaders\Classes\spells\FinishMove.cs" />
+    <Compile Include="Loaders\Classes\spells\Spell.cs" />
+    <Compile Include="Loaders\Classes\spells\SpellBomb.cs" />
+    <Compile Include="Loaders\Classes\spells\SpellLevel.cs" />
+    <Compile Include="Loaders\Classes\spells\SpellPair.cs" />
+    <Compile Include="Loaders\Classes\spells\SpellState.cs" />
+    <Compile Include="Loaders\Classes\spells\SpellType.cs" />
+    <Compile Include="Loaders\Classes\world\Area.cs" />
+    <Compile Include="Loaders\Classes\world\Dungeon.cs" />
+    <Compile Include="Loaders\Classes\world\Hint.cs" />
+    <Compile Include="Loaders\Classes\world\HintCategory.cs" />
+    <Compile Include="Loaders\Classes\world\MapCoordinates.cs" />
+    <Compile Include="Loaders\Classes\world\MapPosition.cs" />
+    <Compile Include="Loaders\Classes\world\MapReference.cs" />
+    <Compile Include="Loaders\Classes\world\MapScrollAction.cs" />
+    <Compile Include="Loaders\Classes\world\Phoenix.cs" />
+    <Compile Include="Loaders\Classes\world\SubArea.cs" />
+    <Compile Include="Loaders\Classes\world\SuperArea.cs" />
+    <Compile Include="Loaders\Classes\world\Waypoint.cs" />
+    <Compile Include="Loaders\Classes\world\WorldMap.cs" />
+    <Compile Include="Loaders\D2p\D2pDirectory.cs" />
+    <Compile Include="Loaders\D2p\D2pEntry.cs" />
+    <Compile Include="Loaders\D2p\D2pEntryState.cs" />
+    <Compile Include="Loaders\D2p\D2pFile.cs" />
+    <Compile Include="Loaders\D2p\D2pIndexTable.cs" />
+    <Compile Include="Loaders\D2p\D2pProperty.cs" />
+    <Compile Include="Loaders\Database\DatabaseManager.cs" />
+    <Compile Include="Loaders\Data\D2OClassAttribute.cs" />
+    <Compile Include="Loaders\Data\D2OClassDefinition.cs" />
+    <Compile Include="Loaders\Data\D2OFieldAttribute.cs" />
+    <Compile Include="Loaders\Data\D2OFieldDefinition.cs" />
+    <Compile Include="Loaders\Data\D2OFieldType.cs" />
+    <Compile Include="Loaders\Data\D2OIgnore.cs" />
+    <Compile Include="Loaders\Data\D2OReader.cs" />
+    <Compile Include="Loaders\Data\D2OTable.cs" />
+    <Compile Include="Loaders\Data\D2OWriter.cs" />
+    <Compile Include="Loaders\Data\I18NFieldAttribute.cs" />
+    <Compile Include="Loaders\Data\ObjectDataManager.cs" />
+    <Compile Include="Loaders\I18N\D2IFile.cs" />
+    <Compile Include="Loaders\I18N\I18NDataManager.cs" />
+    <Compile Include="Loaders\I18N\LangText.cs" />
+    <Compile Include="Loaders\I18N\LangTextUi.cs" />
+    <Compile Include="Loaders\I18N\Languages.cs" />
+    <Compile Include="Loaders\Icons\Icon.cs" />
+    <Compile Include="Loaders\Icons\IconsManager.cs" />
+    <Compile Include="Loaders\Icons\IconType.cs" />
+    <Compile Include="Loaders\IDataObject.cs" />
+    <Compile Include="Loaders\IIndexedData.cs" />
+    <Compile Include="Loaders\Objetcs\EffectTemplate.cs" />
+    <Compile Include="Loaders\Objetcs\Enums\ItemSuperTypeEnum.cs" />
+    <Compile Include="Loaders\Objetcs\Enums\ItemTypeEnum.cs" />
+    <Compile Include="Loaders\Objetcs\Enums\SpellShapeEnum.cs" />
+    <Compile Include="Loaders\Objetcs\IObject.cs" />
+    <Compile Include="Loaders\Objetcs\ItemSetTemplate.cs" />
+    <Compile Include="Loaders\Objetcs\ItemTemplate.cs" />
+    <Compile Include="Loaders\Objetcs\ItemTypeRecord.cs" />
+    <Compile Include="Loaders\Objetcs\WeaponTemplate.cs" />
+    <Compile Include="Loaders\Point.cs" />
+    <Compile Include="Loaders\Proxy.cs" />
+    <Compile Include="Loaders\Rectangle.cs" />
+    <Compile Include="Loaders\TransformData.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Search\CriteriaOperator.cs" />
+    <Compile Include="Search\Items\ColorByOperatorConverter.cs" />
+    <Compile Include="Search\Items\ItemEffectStyleSelector.cs" />
+    <Compile Include="Search\Items\ItemSearchDialog.xaml.cs">
+      <DependentUpon>ItemSearchDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Search\Items\ItemSearchDialogModelView.cs" />
+    <Compile Include="Search\OperatorToStringConverter.cs" />
+    <Compile Include="Search\SearchCriteria.cs" />
+    <Compile Include="Search\SearchDialog.xaml.cs">
+      <DependentUpon>SearchDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Search\SearchDialogModelView.cs" />
+    <Compile Include="StartModelView.cs" />
+    <Page Include="Config\ConfigDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\D2I\D2IEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\D2O\D2OEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\D2O\EditorDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\D2O\Template.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\D2P\D2PEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\Items\EffectEditorDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\Items\IconSelectionDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\Items\ItemEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\Langs\LangEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Helpers\Controls\I18NTextBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoadingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LoadingWindow.xaml.cs">
+      <DependentUpon>LoadingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Search\Items\ItemSearchDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Search\SearchDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\action_add_16xlg.png" />
+    <Resource Include="Images\action_cancel_16xlg.png" />
+    <Resource Include="Images\add.png" />
+    <Resource Include="Images\addmark_10580.png" />
+    <Resource Include="Images\brick_edit.png" />
+    <Resource Include="Images\copy_6524.png" />
+    <Resource Include="Images\delete.png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\gear_32xlg.png" />
+    <Resource Include="Images\hammer_builder_32xlg.png" />
+    <Resource Include="Images\magnifier_16xlg.png" />
+    <Resource Include="Images\nextrequest_10302.png" />
+    <Resource Include="Images\page_white.png" />
+    <Resource Include="Images\pencil_003_16xmd.png" />
+    <Resource Include="Images\refresh_16xlg.png" />
+    <Resource Include="Images\relation_8467_32x.png" />
+    <Resource Include="Images\savehs.png" />
+    <Resource Include="Images\save_6530.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Flags\all.png" />
+    <Resource Include="Images\Flags\de.png" />
+    <Resource Include="Images\Flags\es.png" />
+    <Resource Include="Images\Flags\fr.png" />
+    <Resource Include="Images\Flags\gb.png" />
+    <Resource Include="Images\Flags\it.png" />
+    <Resource Include="Images\Flags\jp.png" />
+    <Resource Include="Images\Flags\nl.png" />
+    <Resource Include="Images\Flags\pt.png" />
+    <Resource Include="Images\Flags\ru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Stump.ORM\Stump.ORM.csproj">
+      <Project>{e7406629-e127-4b96-8f29-287947075631}</Project>
+      <Name>Stump.ORM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DofusProtocol\D2oClasses\Stump.DofusProtocol.D2oClasses.csproj">
+      <Project>{33093793-C4BA-4B89-AC82-6E9D00437452}</Project>
+      <Name>Stump.DofusProtocol.D2oClasses</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

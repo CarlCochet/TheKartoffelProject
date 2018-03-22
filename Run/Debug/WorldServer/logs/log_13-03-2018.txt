@@ -1,0 +1,1245 @@
+[Info] <03/13/2018 17:52:46> Initializing Configuration...
+[Info] <03/13/2018 17:52:47> Initialize Task Pool
+[Info] <03/13/2018 17:52:47> Register Plugins...
+[Info] <03/13/2018 17:52:55> Loading Plugins...
+[Info] <03/13/2018 17:52:55> Initializing Database...
+[Info] <03/13/2018 17:52:55> Opening Database...
+[Info] <03/13/2018 17:52:57> Register Messages...
+[Info] <03/13/2018 17:52:57> Register Packet Handlers...
+[Info] <03/13/2018 17:52:57> Register Commands...
+[Info] <03/13/2018 17:52:57> Initialize 'ApproachHandler'
+[Info] <03/13/2018 17:52:57> Initialize 'ChatManager'
+[Info] <03/13/2018 17:52:57> Register id providers
+[Info] <03/13/2018 17:52:57> Initialize 'TextManager'
+[Info] <03/13/2018 17:52:59> Initialize DataManagers
+[Info] <03/13/2018 17:52:59> Initialize 'BreedManager'
+[Info] <03/13/2018 17:52:59> Initialize 'EffectManager'
+[Info] <03/13/2018 17:52:59> Initialize 'SpellManager'
+[Info] <03/13/2018 17:53:01> Initialize 'CellTriggerManager'
+[Info] <03/13/2018 17:53:01> Initialize 'ItemManager'
+[Info] <03/13/2018 17:53:03> Initialize 'PetManager'
+[Info] <03/13/2018 17:53:03> Initialize 'TeleportPotionManager'
+[Info] <03/13/2018 17:53:03> Initialize 'BidHouseManager'
+[Info] <03/13/2018 17:53:03> Initialize 'RuneManager'
+[Info] <03/13/2018 17:53:03> Initialize 'InteractiveManager'
+[Info] <03/13/2018 17:53:03> Initialize 'IdolManager'
+[Info] <03/13/2018 17:53:03> Initialize 'ChallengeManager'
+[Info] <03/13/2018 17:53:03> Initialize 'ExperienceManager'
+[Info] <03/13/2018 17:53:03> Initialize 'TinselManager'
+[Info] <03/13/2018 17:53:03> Initialize 'BrainManager'
+[Info] <03/13/2018 17:53:03> Initialize 'MongoLogger'
+[Info] <03/13/2018 17:53:03> Initialize 'JobManager'
+[Info] <03/13/2018 17:53:04> Initialize 'RuneManager'
+[Info] <03/13/2018 17:53:04> Initialize 'ArenaManager'
+[Info] <03/13/2018 17:53:04> Initialize 'NpcManager'
+[Info] <03/13/2018 17:53:04> Initialize 'GuildManager'
+[Info] <03/13/2018 17:53:04> Initialize 'MountManager'
+[Info] <03/13/2018 17:53:04> Initialize 'MonsterManager'
+[Info] <03/13/2018 17:53:05> Initialize 'MerchantManager'
+[Info] <03/13/2018 17:53:05> Initialize 'AchievementManager'
+[Info] <03/13/2018 17:53:05> Initialize 'World'
+[Info] <03/13/2018 17:53:05> Load maps...
+[Info] <03/13/2018 17:53:14> Load maps scrolls...
+[Info] <03/13/2018 17:53:14> Load sub areas...
+[Info] <03/13/2018 17:53:14> Load areas...
+[Info] <03/13/2018 17:53:14> Load super areas...
+[Info] <03/13/2018 17:53:14> Load graveyards...
+[Info] <03/13/2018 17:53:15> Spawn npcs ...
+[Info] <03/13/2018 17:53:15> Spawn interactives ...
+[Info] <03/13/2018 17:53:24> Spawn cell triggers ...
+[Info] <03/13/2018 17:53:24> Spawn monsters ...
+[Info] <03/13/2018 17:53:26> Spawn merchants ...
+[Info] <03/13/2018 17:53:26> Initialize 'DopeulManager'
+[Info] <03/13/2018 17:53:26> Initialize 'PaddockManager'
+[Info] <03/13/2018 17:53:26> Initialize 'TaxCollectorManager'
+[Info] <03/13/2018 17:53:26> Synchronize id providers
+[Info] <03/13/2018 17:53:26> Initialize 'QuestManager'
+[Info] <03/13/2018 17:53:26> Initialize 'WebServer'
+[Info] <03/13/2018 17:53:26> Start Auto-Save Cyclic Task
+[Info] <03/13/2018 17:53:26> Starting Console Handler Interface...
+[Info] <03/13/2018 17:53:26> Starting IPC Communications ...
+[Info] <03/13/2018 17:53:26> Start listening on port : 5555...
+[Info] <03/13/2018 17:53:36> Attempt connection
+[Info] <03/13/2018 17:53:36> IPC connection etablished
+[Debug] <03/13/2018 17:53:36> TaskPool 'IPCAccessor Task Pool' update lagged (186ms) (msg:0, timers:1/3)
+[Info] <03/13/2018 17:53:37> Access to auth. server granted
+[Debug] <03/13/2018 17:53:37> TaskPool 'IPCAccessor Task Pool' update lagged (220ms) (msg:1, timers:0/3)
+[Debug] <03/13/2018 17:53:37> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <03/13/2018 17:53:37> TaskPool 'IO Task Pool' update lagged (202ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 17:53:37> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Info] <03/13/2018 17:55:26> Saving world ...
+[Info] <03/13/2018 17:55:26> World server saved ! (28 ms)
+[Debug] <03/13/2018 17:55:26> TaskPool 'IO Task Pool' update lagged (62ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 17:55:26> TaskPool 'IO Task Pool' update lagged (73ms) (msg:125, timers:1/4)
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:26> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:27> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:27> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:27> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 17:55:27> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Info] <03/13/2018 17:57:26> Saving world ...
+[Info] <03/13/2018 17:57:26> World server saved ! (6 ms)
+[Debug] <03/13/2018 17:57:26> TaskPool 'IO Task Pool' update lagged (53ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 17:59:26> Saving world ...
+[Info] <03/13/2018 17:59:26> World server saved ! (1 ms)
+[Info] <03/13/2018 18:01:27> Saving world ...
+[Info] <03/13/2018 18:01:27> World server saved ! (4 ms)
+[Debug] <03/13/2018 18:01:27> TaskPool 'IO Task Pool' update lagged (51ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 19:03:22> Initializing Configuration...
+[Info] <03/13/2018 19:03:23> Initialize Task Pool
+[Info] <03/13/2018 19:03:23> Register Plugins...
+[Info] <03/13/2018 19:03:31> Loading Plugins...
+[Info] <03/13/2018 19:03:31> Initializing Database...
+[Info] <03/13/2018 19:03:31> Opening Database...
+[Info] <03/13/2018 19:03:34> Register Messages...
+[Info] <03/13/2018 19:03:34> Register Packet Handlers...
+[Info] <03/13/2018 19:03:34> Register Commands...
+[Info] <03/13/2018 19:03:34> Initialize 'ApproachHandler'
+[Info] <03/13/2018 19:03:34> Initialize 'ChatManager'
+[Info] <03/13/2018 19:03:34> Register id providers
+[Info] <03/13/2018 19:03:34> Initialize 'TextManager'
+[Info] <03/13/2018 19:03:36> Initialize DataManagers
+[Info] <03/13/2018 19:03:36> Initialize 'BreedManager'
+[Info] <03/13/2018 19:03:36> Initialize 'EffectManager'
+[Info] <03/13/2018 19:03:36> Initialize 'SpellManager'
+[Info] <03/13/2018 19:03:38> Initialize 'CellTriggerManager'
+[Info] <03/13/2018 19:03:38> Initialize 'ItemManager'
+[Info] <03/13/2018 19:03:40> Initialize 'PetManager'
+[Info] <03/13/2018 19:03:40> Initialize 'TeleportPotionManager'
+[Info] <03/13/2018 19:03:40> Initialize 'BidHouseManager'
+[Info] <03/13/2018 19:03:40> Initialize 'RuneManager'
+[Info] <03/13/2018 19:03:40> Initialize 'InteractiveManager'
+[Info] <03/13/2018 19:03:41> Initialize 'IdolManager'
+[Info] <03/13/2018 19:03:41> Initialize 'ChallengeManager'
+[Info] <03/13/2018 19:03:41> Initialize 'ExperienceManager'
+[Info] <03/13/2018 19:03:41> Initialize 'TinselManager'
+[Info] <03/13/2018 19:03:41> Initialize 'BrainManager'
+[Info] <03/13/2018 19:03:41> Initialize 'MongoLogger'
+[Info] <03/13/2018 19:03:41> Initialize 'JobManager'
+[Info] <03/13/2018 19:03:41> Initialize 'RuneManager'
+[Info] <03/13/2018 19:03:41> Initialize 'ArenaManager'
+[Info] <03/13/2018 19:03:41> Initialize 'NpcManager'
+[Info] <03/13/2018 19:03:41> Initialize 'GuildManager'
+[Info] <03/13/2018 19:03:41> Initialize 'MountManager'
+[Info] <03/13/2018 19:03:42> Initialize 'MonsterManager'
+[Info] <03/13/2018 19:03:43> Initialize 'MerchantManager'
+[Info] <03/13/2018 19:03:43> Initialize 'AchievementManager'
+[Info] <03/13/2018 19:03:43> Initialize 'World'
+[Info] <03/13/2018 19:03:43> Load maps...
+[Info] <03/13/2018 19:03:52> Load maps scrolls...
+[Info] <03/13/2018 19:03:52> Load sub areas...
+[Info] <03/13/2018 19:03:52> Load areas...
+[Info] <03/13/2018 19:03:52> Load super areas...
+[Info] <03/13/2018 19:03:52> Load graveyards...
+[Info] <03/13/2018 19:03:52> Spawn npcs ...
+[Info] <03/13/2018 19:03:52> Spawn interactives ...
+[Info] <03/13/2018 19:04:13> Spawn cell triggers ...
+[Info] <03/13/2018 19:04:13> Spawn monsters ...
+[Info] <03/13/2018 19:04:15> Spawn merchants ...
+[Info] <03/13/2018 19:04:15> Initialize 'DopeulManager'
+[Info] <03/13/2018 19:04:15> Initialize 'PaddockManager'
+[Info] <03/13/2018 19:04:15> Initialize 'TaxCollectorManager'
+[Info] <03/13/2018 19:04:15> Synchronize id providers
+[Info] <03/13/2018 19:04:16> Initialize 'QuestManager'
+[Info] <03/13/2018 19:04:16> Initialize 'WebServer'
+[Info] <03/13/2018 19:04:16> Start Auto-Save Cyclic Task
+[Info] <03/13/2018 19:04:16> Starting Console Handler Interface...
+[Info] <03/13/2018 19:04:16> Starting IPC Communications ...
+[Info] <03/13/2018 19:04:16> Start listening on port : 5555...
+[Info] <03/13/2018 19:04:26> Attempt connection
+[Info] <03/13/2018 19:04:26> IPC connection etablished
+[Debug] <03/13/2018 19:04:26> TaskPool 'IPCAccessor Task Pool' update lagged (212ms) (msg:0, timers:1/3)
+[Info] <03/13/2018 19:04:27> Access to auth. server granted
+[Debug] <03/13/2018 19:04:27> TaskPool 'IPCAccessor Task Pool' update lagged (231ms) (msg:1, timers:0/3)
+[Debug] <03/13/2018 19:04:27> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <03/13/2018 19:04:27> TaskPool 'IO Task Pool' update lagged (161ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:04:27> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Info] <03/13/2018 19:06:16> Saving world ...
+[Info] <03/13/2018 19:06:16> World server saved ! (74 ms)
+[Debug] <03/13/2018 19:06:16> TaskPool 'IO Task Pool' update lagged (107ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:06:18> TaskPool 'IO Task Pool' update lagged (1734ms) (msg:2715, timers:2/4)
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:06:18> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/13/2018 19:07:46> Client request ticket AQJTLZNDFSLSXKBCEUYXWOZEPTGLFUPN
+[Debug] <03/13/2018 19:07:46> TaskPool 'IO Task Pool' update lagged (56ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:07:46> AuthenticationTicketMessage
+[Debug] <03/13/2018 19:07:47> TaskPool 'IO Task Pool' update lagged (223ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:07:47> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_1.<HandleAuthenticationTicketMessage>b__3
+[Debug] <03/13/2018 19:07:47> TaskPool 'IO Task Pool' update lagged (75ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:07:47> CharactersListRequestMessage
+[Debug] <03/13/2018 19:07:56> TaskPool 'IO Task Pool' update lagged (295ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:07:56> CharacterSelectionMessage
+[Info] <03/13/2018 19:07:58> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 19:07:58> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 19:07:59> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 19:07:59> Area 'Île de Frigost (48)' update lagged (324ms) (msg:58ms, timers:265ms, timerProc:2017/1946)
+[Debug] <03/13/2018 19:07:59> Area 'Île de Frigost (48)' update lagged (94ms) (msg:94ms, timers:0ms, timerProc:0/1946)
+[Debug] <03/13/2018 19:08:10> Received Unknown packet : SequenceNumberMessage
+[Info] <03/13/2018 19:08:16> Saving world ...
+[Info] <03/13/2018 19:08:16> World server saved ! (173 ms)
+[Debug] <03/13/2018 19:08:16> TaskPool 'IO Task Pool' update lagged (198ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:08:24> Area 'Île de Frigost (48)' update lagged (633ms) (msg:633ms, timers:0ms, timerProc:0/1946)
+[Debug] <03/13/2018 19:08:29> Area 'Île de Frigost (48)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:1008/1946)
+[Info] <03/13/2018 19:08:45> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 19:10:16> Saving world ...
+[Info] <03/13/2018 19:10:16> World server saved ! (2 ms)
+[Info] <03/13/2018 19:12:16> Saving world ...
+[Info] <03/13/2018 19:12:16> World server saved ! (4 ms)
+[Info] <03/13/2018 19:14:17> Saving world ...
+[Info] <03/13/2018 19:14:17> World server saved ! (2 ms)
+[Debug] <03/13/2018 19:14:17> TaskPool 'IO Task Pool' update lagged (54ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 19:16:17> Saving world ...
+[Info] <03/13/2018 19:16:17> World server saved ! (3 ms)
+[Debug] <03/13/2018 19:16:18> Client request ticket OVINNSGJAVXVKSJWNGLEXMUJKGLSUPAJ
+[Info] <03/13/2018 19:16:26> Area 'Saharach (61)' started
+[Debug] <03/13/2018 19:16:26> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 19:16:26> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 19:16:31> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 19:16:43> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/13/2018 19:18:17> Saving world ...
+[Info] <03/13/2018 19:18:17> World server saved ! (26 ms)
+[Debug] <03/13/2018 19:18:17> TaskPool 'IO Task Pool' update lagged (64ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 19:20:17> Saving world ...
+[Info] <03/13/2018 19:20:17> World server saved ! (14 ms)
+[Info] <03/13/2018 19:22:17> Saving world ...
+[Info] <03/13/2018 19:22:17> World server saved ! (7 ms)
+[Debug] <03/13/2018 19:24:01> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:24:09> Area 'Saharach (61)' stopped
+[Info] <03/13/2018 19:24:09> Area 'Astrub (18)' started
+[Debug] <03/13/2018 19:24:09> Area 'Saharach (61)' update lagged (1114ms) (msg:1114ms, timers:0ms, timerProc:0/103)
+[Debug] <03/13/2018 19:24:09> Area 'Astrub (18)' update lagged (65ms) (msg:1ms, timers:64ms, timerProc:555/545)
+[Debug] <03/13/2018 19:24:09> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:24:17> Saving world ...
+[Info] <03/13/2018 19:24:17> World server saved ! (8 ms)
+[Debug] <03/13/2018 19:24:20> Area 'Astrub (18)' update lagged (55ms) (msg:55ms, timers:0ms, timerProc:0/545)
+[Debug] <03/13/2018 19:24:41> Area 'Astrub (18)' update lagged (112ms) (msg:112ms, timers:0ms, timerProc:0/545)
+[Debug] <03/13/2018 19:25:28> Area 'Astrub (18)' update lagged (122ms) (msg:122ms, timers:0ms, timerProc:0/545)
+[Debug] <03/13/2018 19:25:33> Area 'Astrub (18)' update lagged (72ms) (msg:71ms, timers:0ms, timerProc:0/545)
+[Debug] <03/13/2018 19:25:35> Area 'Astrub (18)' update lagged (134ms) (msg:134ms, timers:0ms, timerProc:0/545)
+[Info] <03/13/2018 19:25:37> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 19:25:37> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 19:25:37> Area 'Astrub (18)' update lagged (133ms) (msg:132ms, timers:0ms, timerProc:0/545)
+[Debug] <03/13/2018 19:25:38> Area 'Île de Frigost (48)' update lagged (407ms) (msg:3ms, timers:403ms, timerProc:1946/1009)
+[Debug] <03/13/2018 19:25:59> Area 'Île de Frigost (48)' update lagged (122ms) (msg:0ms, timers:122ms, timerProc:923/1008)
+[Debug] <03/13/2018 19:26:05> Area 'Île de Frigost (48)' update lagged (67ms) (msg:0ms, timers:67ms, timerProc:863/1008)
+[Debug] <03/13/2018 19:26:17> Area 'Île de Frigost (48)' update lagged (65ms) (msg:0ms, timers:65ms, timerProc:862/1007)
+[Info] <03/13/2018 19:26:17> Saving world ...
+[Info] <03/13/2018 19:26:17> World server saved ! (50 ms)
+[Debug] <03/13/2018 19:26:17> TaskPool 'IO Task Pool' update lagged (85ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:26:21> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:26:35> Area 'Île de Frigost (48)' update lagged (62ms) (msg:0ms, timers:61ms, timerProc:922/1007)
+[Debug] <03/13/2018 19:26:38> Area 'Île de Frigost (48)' update lagged (59ms) (msg:0ms, timers:58ms, timerProc:922/1007)
+[Debug] <03/13/2018 19:26:41> Area 'Île de Frigost (48)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:922/1007)
+[Debug] <03/13/2018 19:26:50> Area 'Île de Frigost (48)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:922/1007)
+[Debug] <03/13/2018 19:27:02> Area 'Île de Frigost (48)' update lagged (54ms) (msg:0ms, timers:53ms, timerProc:1005/1007)
+[Debug] <03/13/2018 19:27:05> Area 'Île de Frigost (48)' update lagged (52ms) (msg:0ms, timers:51ms, timerProc:1005/1007)
+[Debug] <03/13/2018 19:27:08> Area 'Île de Frigost (48)' update lagged (53ms) (msg:0ms, timers:52ms, timerProc:1005/1007)
+[Debug] <03/13/2018 19:27:27> Area 'Île de Frigost (48)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:859/1007)
+[Info] <03/13/2018 19:27:33> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 19:27:33> Area 'Astrub (18)' started
+[Debug] <03/13/2018 19:27:33> Area 'Île de Frigost (48)' update lagged (1058ms) (msg:1034ms, timers:24ms, timerProc:1005/1007)
+[Debug] <03/13/2018 19:27:33> Area 'Astrub (18)' update lagged (59ms) (msg:0ms, timers:58ms, timerProc:545/279)
+[Debug] <03/13/2018 19:27:33> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:27:43> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 19:27:43> Area 'Îlots de la mer d'Asse (51)' started
+[Debug] <03/13/2018 19:28:14> TaskPool 'IO Task Pool' update lagged (52ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 19:28:14> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow
+[Info] <03/13/2018 19:28:17> Saving world ...
+[Info] <03/13/2018 19:28:17> World server saved ! (63 ms)
+[Debug] <03/13/2018 19:28:17> TaskPool 'IO Task Pool' update lagged (100ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:30:02> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:30:08> Area 'Îlots de la mer d'Asse (51)' stopped
+[Info] <03/13/2018 19:30:08> Area 'Astrub (18)' started
+[Debug] <03/13/2018 19:30:08> Area 'Îlots de la mer d'Asse (51)' update lagged (1046ms) (msg:1046ms, timers:0ms, timerProc:0/8)
+[Debug] <03/13/2018 19:30:08> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:30:17> Saving world ...
+[Info] <03/13/2018 19:30:17> World server saved ! (47 ms)
+[Debug] <03/13/2018 19:30:17> TaskPool 'IO Task Pool' update lagged (71ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:30:45> Area 'Astrub (18)' update lagged (66ms) (msg:66ms, timers:0ms, timerProc:0/278)
+[Info] <03/13/2018 19:31:00> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 19:31:00> Area 'Amakna (0)' started
+[Debug] <03/13/2018 19:31:01> Area 'Amakna (0)' update lagged (210ms) (msg:3ms, timers:206ms, timerProc:1700/1665)
+[Debug] <03/13/2018 19:31:25> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:849/1665)
+[Debug] <03/13/2018 19:31:28> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:849/1665)
+[Debug] <03/13/2018 19:32:04> Area 'Amakna (0)' update lagged (108ms) (msg:0ms, timers:108ms, timerProc:849/1664)
+[Debug] <03/13/2018 19:32:10> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:752/1664)
+[Debug] <03/13/2018 19:32:11> Area 'Amakna (0)' update lagged (115ms) (msg:115ms, timers:0ms, timerProc:0/1664)
+[Info] <03/13/2018 19:32:17> Saving world ...
+[Info] <03/13/2018 19:32:17> World server saved ! (50 ms)
+[Debug] <03/13/2018 19:32:17> TaskPool 'IO Task Pool' update lagged (75ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:32:20> Area 'Amakna (0)' update lagged (395ms) (msg:395ms, timers:0ms, timerProc:0/1665)
+[Debug] <03/13/2018 19:32:22> Area 'Amakna (0)' update lagged (58ms) (msg:0ms, timers:57ms, timerProc:399/1664)
+[Debug] <03/13/2018 19:32:28> Area 'Amakna (0)' update lagged (165ms) (msg:0ms, timers:165ms, timerProc:399/1664)
+[Debug] <03/13/2018 19:32:36> Area 'Amakna (0)' update lagged (323ms) (msg:321ms, timers:1ms, timerProc:7/1585)
+[Debug] <03/13/2018 19:32:40> Area 'Amakna (0)' update lagged (195ms) (msg:194ms, timers:0ms, timerProc:3/1510)
+[Debug] <03/13/2018 19:32:49> Area 'Amakna (0)' update lagged (141ms) (msg:129ms, timers:11ms, timerProc:451/1366)
+[Debug] <03/13/2018 19:33:19> Area 'Amakna (0)' update lagged (118ms) (msg:117ms, timers:0ms, timerProc:2/967)
+[Debug] <03/13/2018 19:33:22> Area 'Amakna (0)' update lagged (121ms) (msg:0ms, timers:121ms, timerProc:1/938)
+[Debug] <03/13/2018 19:33:46> Area 'Amakna (0)' update lagged (64ms) (msg:64ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 19:33:48> Area 'Amakna (0)' update lagged (57ms) (msg:57ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 19:33:53> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:399/853)
+[Info] <03/13/2018 19:34:17> Saving world ...
+[Info] <03/13/2018 19:34:18> World server saved ! (49 ms)
+[Debug] <03/13/2018 19:34:18> TaskPool 'IO Task Pool' update lagged (97ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:34:20> Area 'Amakna (0)' update lagged (70ms) (msg:0ms, timers:70ms, timerProc:843/853)
+[Debug] <03/13/2018 19:34:23> Area 'Amakna (0)' update lagged (111ms) (msg:0ms, timers:111ms, timerProc:616/852)
+[Debug] <03/13/2018 19:34:36> Area 'Amakna (0)' update lagged (87ms) (msg:0ms, timers:87ms, timerProc:407/854)
+[Debug] <03/13/2018 19:35:00> Area 'Amakna (0)' update lagged (75ms) (msg:0ms, timers:74ms, timerProc:311/853)
+[Debug] <03/13/2018 19:35:24> Area 'Amakna (0)' update lagged (71ms) (msg:0ms, timers:70ms, timerProc:314/854)
+[Debug] <03/13/2018 19:35:45> Area 'Amakna (0)' update lagged (253ms) (msg:212ms, timers:40ms, timerProc:843/853)
+[Debug] <03/13/2018 19:35:48> Area 'Amakna (0)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:843/853)
+[Debug] <03/13/2018 19:36:07> Area 'Amakna (0)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:843/852)
+[Debug] <03/13/2018 19:36:13> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:843/852)
+[Debug] <03/13/2018 19:36:16> Area 'Amakna (0)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:843/852)
+[Info] <03/13/2018 19:36:18> Saving world ...
+[Info] <03/13/2018 19:36:18> World server saved ! (56 ms)
+[Debug] <03/13/2018 19:36:18> TaskPool 'IO Task Pool' update lagged (90ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:36:25> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:843/851)
+[Debug] <03/13/2018 19:36:28> Area 'Amakna (0)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:843/851)
+[Debug] <03/13/2018 19:36:34> Area 'Amakna (0)' update lagged (92ms) (msg:0ms, timers:92ms, timerProc:843/850)
+[Info] <03/13/2018 19:37:37> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 19:37:37> Area 'Îlots de la mer d'Asse (51)' started
+[Debug] <03/13/2018 19:37:37> Area 'Amakna (0)' update lagged (56ms) (msg:55ms, timers:0ms, timerProc:0/850)
+[Debug] <03/13/2018 19:37:43> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:37:56> Area 'Îlots de la mer d'Asse (51)' stopped
+[Info] <03/13/2018 19:37:56> Area 'Amakna (0)' started
+[Debug] <03/13/2018 19:37:56> Area 'Îlots de la mer d'Asse (51)' update lagged (1042ms) (msg:1042ms, timers:0ms, timerProc:7/9)
+[Debug] <03/13/2018 19:37:56> Area 'Amakna (0)' update lagged (94ms) (msg:1ms, timers:92ms, timerProc:849/850)
+[Debug] <03/13/2018 19:37:56> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:38:18> Saving world ...
+[Info] <03/13/2018 19:38:18> World server saved ! (78 ms)
+[Debug] <03/13/2018 19:38:18> TaskPool 'IO Task Pool' update lagged (179ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:39:03> Area 'Amakna (0)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:422/850)
+[Debug] <03/13/2018 19:39:48> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:422/850)
+[Info] <03/13/2018 19:40:18> Saving world ...
+[Info] <03/13/2018 19:40:18> World server saved ! (33 ms)
+[Debug] <03/13/2018 19:40:18> TaskPool 'IO Task Pool' update lagged (65ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:41:25> Area 'Amakna (0)' update lagged (78ms) (msg:0ms, timers:78ms, timerProc:305/850)
+[Info] <03/13/2018 19:42:18> Saving world ...
+[Info] <03/13/2018 19:42:18> World server saved ! (45 ms)
+[Debug] <03/13/2018 19:42:18> TaskPool 'IO Task Pool' update lagged (75ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:44:09> Area 'Amakna (0)' update lagged (79ms) (msg:0ms, timers:79ms, timerProc:396/850)
+[Info] <03/13/2018 19:44:18> Saving world ...
+[Info] <03/13/2018 19:44:18> World server saved ! (38 ms)
+[Debug] <03/13/2018 19:44:18> TaskPool 'IO Task Pool' update lagged (60ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:45:10> Area 'Amakna (0)' update lagged (219ms) (msg:184ms, timers:34ms, timerProc:848/853)
+[Debug] <03/13/2018 19:45:13> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:848/853)
+[Debug] <03/13/2018 19:45:16> Area 'Amakna (0)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:848/853)
+[Debug] <03/13/2018 19:45:22> Area 'Amakna (0)' update lagged (77ms) (msg:0ms, timers:77ms, timerProc:848/852)
+[Debug] <03/13/2018 19:45:25> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:848/852)
+[Debug] <03/13/2018 19:45:31> Area 'Amakna (0)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:848/854)
+[Debug] <03/13/2018 19:45:49> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:848/851)
+[Debug] <03/13/2018 19:45:52> Area 'Amakna (0)' update lagged (64ms) (msg:0ms, timers:63ms, timerProc:848/851)
+[Debug] <03/13/2018 19:45:55> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:848/851)
+[Debug] <03/13/2018 19:45:58> Area 'Amakna (0)' update lagged (52ms) (msg:11ms, timers:41ms, timerProc:848/852)
+[Debug] <03/13/2018 19:45:58> Area 'Amakna (0)' update lagged (108ms) (msg:108ms, timers:0ms, timerProc:0/854)
+[Debug] <03/13/2018 19:46:04> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:848/853)
+[Debug] <03/13/2018 19:46:11> Area 'Amakna (0)' update lagged (65ms) (msg:0ms, timers:65ms, timerProc:848/853)
+[Info] <03/13/2018 19:46:18> Saving world ...
+[Info] <03/13/2018 19:46:18> World server saved ! (54 ms)
+[Debug] <03/13/2018 19:46:18> TaskPool 'IO Task Pool' update lagged (86ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:46:20> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:848/853)
+[Debug] <03/13/2018 19:46:29> Area 'Amakna (0)' update lagged (76ms) (msg:0ms, timers:76ms, timerProc:848/854)
+[Debug] <03/13/2018 19:46:35> Area 'Amakna (0)' update lagged (72ms) (msg:0ms, timers:71ms, timerProc:848/852)
+[Debug] <03/13/2018 19:46:41> Area 'Amakna (0)' update lagged (94ms) (msg:0ms, timers:94ms, timerProc:848/851)
+[Debug] <03/13/2018 19:46:44> Area 'Amakna (0)' update lagged (76ms) (msg:0ms, timers:76ms, timerProc:444/851)
+[Debug] <03/13/2018 19:46:50> Area 'Amakna (0)' update lagged (91ms) (msg:0ms, timers:90ms, timerProc:848/850)
+[Debug] <03/13/2018 19:46:59> Area 'Amakna (0)' update lagged (139ms) (msg:0ms, timers:139ms, timerProc:848/850)
+[Debug] <03/13/2018 19:47:02> Area 'Amakna (0)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:586/850)
+[Debug] <03/13/2018 19:47:17> Area 'Amakna (0)' update lagged (129ms) (msg:0ms, timers:129ms, timerProc:845/850)
+[Info] <03/13/2018 19:48:18> Saving world ...
+[Info] <03/13/2018 19:48:18> World server saved ! (75 ms)
+[Debug] <03/13/2018 19:48:18> TaskPool 'IO Task Pool' update lagged (124ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:49:16> Area 'Amakna (0)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:390/850)
+[Info] <03/13/2018 19:49:32> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 19:49:32> Area 'Astrub (18)' started
+[Debug] <03/13/2018 19:49:49> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:49:51> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 19:49:51> Area 'Amakna (0)' started
+[Debug] <03/13/2018 19:49:51> Area 'Astrub (18)' update lagged (1028ms) (msg:1028ms, timers:0ms, timerProc:0/279)
+[Debug] <03/13/2018 19:49:51> Area 'Amakna (0)' update lagged (109ms) (msg:1ms, timers:108ms, timerProc:849/851)
+[Debug] <03/13/2018 19:49:51> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:49:54> Area 'Amakna (0)' update lagged (117ms) (msg:0ms, timers:116ms, timerProc:848/851)
+[Info] <03/13/2018 19:50:18> Saving world ...
+[Info] <03/13/2018 19:50:18> World server saved ! (45 ms)
+[Debug] <03/13/2018 19:50:18> TaskPool 'IO Task Pool' update lagged (75ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:50:19> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:53ms, timerProc:649/851)
+[Debug] <03/13/2018 19:50:25> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:848/851)
+[Debug] <03/13/2018 19:51:19> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:848/851)
+[Debug] <03/13/2018 19:51:22> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:848/851)
+[Info] <03/13/2018 19:51:28> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 19:51:28> Area 'Plaines de Cania (8)' started
+[Debug] <03/13/2018 19:51:28> Area 'Amakna (0)' update lagged (71ms) (msg:41ms, timers:30ms, timerProc:848/851)
+[Debug] <03/13/2018 19:51:29> Area 'Plaines de Cania (8)' update lagged (152ms) (msg:2ms, timers:149ms, timerProc:2059/2050)
+[Debug] <03/13/2018 19:51:51> Area 'Plaines de Cania (8)' update lagged (1002ms) (msg:1002ms, timers:0ms, timerProc:0/2050)
+[Debug] <03/13/2018 19:52:05> Area 'Plaines de Cania (8)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:1027/2048)
+[Info] <03/13/2018 19:52:18> Saving world ...
+[Info] <03/13/2018 19:52:19> World server saved ! (32 ms)
+[Debug] <03/13/2018 19:52:19> TaskPool 'IO Task Pool' update lagged (55ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:52:26> Area 'Plaines de Cania (8)' update lagged (87ms) (msg:0ms, timers:87ms, timerProc:1027/2048)
+[Debug] <03/13/2018 19:52:36> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:52:39> Area 'Plaines de Cania (8)' stopped
+[Info] <03/13/2018 19:52:39> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 19:52:39> Area 'Plaines de Cania (8)' update lagged (1075ms) (msg:1041ms, timers:34ms, timerProc:1027/2048)
+[Debug] <03/13/2018 19:52:39> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:52:39> Area 'Île de Frigost (48)' update lagged (198ms) (msg:1ms, timers:196ms, timerProc:1008/1008)
+[Info] <03/13/2018 19:52:43> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 19:52:43> Area 'Plaines de Cania (8)' started
+[Debug] <03/13/2018 19:52:58> Area 'Plaines de Cania (8)' update lagged (78ms) (msg:0ms, timers:78ms, timerProc:1027/2049)
+[Info] <03/13/2018 19:53:20> Area 'Plaines de Cania (8)' stopped
+[Info] <03/13/2018 19:53:20> Area 'Saharach (61)' started
+[Info] <03/13/2018 19:54:19> Saving world ...
+[Info] <03/13/2018 19:54:19> World server saved ! (41 ms)
+[Debug] <03/13/2018 19:54:19> TaskPool 'IO Task Pool' update lagged (75ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 19:54:50> Area 'Saharach (61)' stopped
+[Info] <03/13/2018 19:54:50> Area 'Forêt des Abraknydes (6)' started
+[Info] <03/13/2018 19:56:10> Area 'Forêt des Abraknydes (6)' stopped
+[Info] <03/13/2018 19:56:10> Area 'Amakna (0)' started
+[Debug] <03/13/2018 19:56:10> Area 'Amakna (0)' update lagged (209ms) (msg:2ms, timers:206ms, timerProc:852/852)
+[Info] <03/13/2018 19:56:19> Saving world ...
+[Info] <03/13/2018 19:56:19> World server saved ! (42 ms)
+[Debug] <03/13/2018 19:56:19> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:56:19> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:56:22> Area 'Amakna (0)' update lagged (1002ms) (msg:1002ms, timers:0ms, timerProc:0/852)
+[Debug] <03/13/2018 19:56:22> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 19:58:04> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 19:58:04> Area 'Incarnam (45)' started
+[Info] <03/13/2018 19:58:14> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 19:58:14> Area 'Amakna (0)' started
+[Debug] <03/13/2018 19:58:14> Area 'Amakna (0)' update lagged (89ms) (msg:1ms, timers:88ms, timerProc:849/853)
+[Info] <03/13/2018 19:58:19> Saving world ...
+[Info] <03/13/2018 19:58:19> World server saved ! (40 ms)
+[Debug] <03/13/2018 19:58:19> TaskPool 'IO Task Pool' update lagged (72ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 19:58:49> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:58:52> Area 'Amakna (0)' update lagged (1003ms) (msg:1003ms, timers:0ms, timerProc:0/853)
+[Debug] <03/13/2018 19:58:52> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 19:58:57> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:848/853)
+[Debug] <03/13/2018 19:59:15> Area 'Amakna (0)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:848/853)
+[Debug] <03/13/2018 19:59:21> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:848/853)
+[Debug] <03/13/2018 19:59:24> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:848/853)
+[Info] <03/13/2018 20:00:19> Saving world ...
+[Info] <03/13/2018 20:00:19> World server saved ! (55 ms)
+[Debug] <03/13/2018 20:00:19> TaskPool 'IO Task Pool' update lagged (79ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 20:00:25> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:848/853)
+[Debug] <03/13/2018 20:01:44> Area 'Amakna (0)' update lagged (62ms) (msg:0ms, timers:62ms, timerProc:816/853)
+[Debug] <03/13/2018 20:01:50> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:816/853)
+[Debug] <03/13/2018 20:01:59> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:816/853)
+[Debug] <03/13/2018 20:02:14> Area 'Amakna (0)' update lagged (58ms) (msg:0ms, timers:57ms, timerProc:812/853)
+[Info] <03/13/2018 20:02:19> Saving world ...
+[Info] <03/13/2018 20:02:19> World server saved ! (38 ms)
+[Debug] <03/13/2018 20:02:19> TaskPool 'IO Task Pool' update lagged (79ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 20:02:20> Area 'Amakna (0)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:812/853)
+[Debug] <03/13/2018 20:02:29> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:812/853)
+[Info] <03/13/2018 20:04:19> Saving world ...
+[Info] <03/13/2018 20:04:19> World server saved ! (38 ms)
+[Debug] <03/13/2018 20:04:19> TaskPool 'IO Task Pool' update lagged (60ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:06:19> Saving world ...
+[Info] <03/13/2018 20:06:19> World server saved ! (33 ms)
+[Debug] <03/13/2018 20:06:19> TaskPool 'IO Task Pool' update lagged (90ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:08:19> Saving world ...
+[Info] <03/13/2018 20:08:19> World server saved ! (29 ms)
+[Info] <03/13/2018 20:10:19> Saving world ...
+[Info] <03/13/2018 20:10:19> World server saved ! (50 ms)
+[Debug] <03/13/2018 20:10:19> TaskPool 'IO Task Pool' update lagged (88ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:12:19> Saving world ...
+[Info] <03/13/2018 20:12:20> World server saved ! (40 ms)
+[Debug] <03/13/2018 20:12:20> TaskPool 'IO Task Pool' update lagged (77ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:14:20> Saving world ...
+[Info] <03/13/2018 20:14:20> World server saved ! (37 ms)
+[Debug] <03/13/2018 20:14:20> TaskPool 'IO Task Pool' update lagged (72ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:16:20> Saving world ...
+[Info] <03/13/2018 20:16:20> World server saved ! (42 ms)
+[Debug] <03/13/2018 20:16:20> TaskPool 'IO Task Pool' update lagged (79ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:17:39> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 20:17:39> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 20:17:39> Area 'Île de Frigost (48)' update lagged (266ms) (msg:1ms, timers:264ms, timerProc:1009/1009)
+[Info] <03/13/2018 20:18:20> Saving world ...
+[Info] <03/13/2018 20:18:20> World server saved ! (37 ms)
+[Debug] <03/13/2018 20:18:20> TaskPool 'IO Task Pool' update lagged (57ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 20:19:45> Area 'Île de Frigost (48)' update lagged (68ms) (msg:68ms, timers:0ms, timerProc:0/1009)
+[Debug] <03/13/2018 20:20:08> Area 'Île de Frigost (48)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:467/1009)
+[Info] <03/13/2018 20:20:20> Saving world ...
+[Info] <03/13/2018 20:20:20> World server saved ! (31 ms)
+[Debug] <03/13/2018 20:20:20> TaskPool 'IO Task Pool' update lagged (56ms) (msg:0, timers:2/4)
+[Info] <03/13/2018 20:21:21> Area 'Île de Frigost (48)' stopped
+[Debug] <03/13/2018 20:21:26> Client request ticket AONWPMBVBWKERWKPIFGKAWCDYGTGBGIP
+[Info] <03/13/2018 20:21:34> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 20:21:34> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 20:21:34> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 20:21:34> Area 'Île de Frigost (48)' update lagged (126ms) (msg:2ms, timers:123ms, timerProc:1005/1009)
+[Debug] <03/13/2018 20:21:36> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 20:21:37> Area 'Île de Frigost (48)' update lagged (78ms) (msg:65ms, timers:13ms, timerProc:278/1009)
+[Info] <03/13/2018 20:21:48> Area 'Île de Frigost (48)' stopped
+[Debug] <03/13/2018 20:21:48> TaskPool 'IO Task Pool' update lagged (65ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 20:21:48> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__644_0
+[Info] <03/13/2018 20:22:20> Saving world ...
+[Info] <03/13/2018 20:22:20> World server saved ! (2 ms)
+[Info] <03/13/2018 20:24:20> Saving world ...
+[Info] <03/13/2018 20:24:20> World server saved ! (2 ms)
+[Info] <03/13/2018 20:26:20> Saving world ...
+[Info] <03/13/2018 20:26:20> World server saved ! (2 ms)
+[Info] <03/13/2018 20:28:20> Saving world ...
+[Info] <03/13/2018 20:28:20> World server saved ! (3 ms)
+[Info] <03/13/2018 20:30:20> Saving world ...
+[Info] <03/13/2018 20:30:20> World server saved ! (6 ms)
+[Info] <03/13/2018 20:32:20> Saving world ...
+[Info] <03/13/2018 20:32:20> World server saved ! (7 ms)
+[Info] <03/13/2018 20:34:20> Saving world ...
+[Info] <03/13/2018 20:34:20> World server saved ! (7 ms)
+[Debug] <03/13/2018 20:34:20> TaskPool 'IO Task Pool' update lagged (69ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:36:20> Saving world ...
+[Info] <03/13/2018 20:36:20> World server saved ! (3 ms)
+[Info] <03/13/2018 20:38:20> Saving world ...
+[Info] <03/13/2018 20:38:20> World server saved ! (2 ms)
+[Info] <03/13/2018 20:40:20> Saving world ...
+[Info] <03/13/2018 20:40:20> World server saved ! (7 ms)
+[Debug] <03/13/2018 20:40:21> TaskPool 'IO Task Pool' update lagged (56ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:42:21> Saving world ...
+[Info] <03/13/2018 20:42:21> World server saved ! (9 ms)
+[Info] <03/13/2018 20:44:21> Saving world ...
+[Info] <03/13/2018 20:44:21> World server saved ! (8 ms)
+[Debug] <03/13/2018 20:44:21> TaskPool 'IO Task Pool' update lagged (51ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 20:44:44> Client request ticket HTPEVJSMIYDDTRTHFCPVUOEZLSLRVCFZ
+[Info] <03/13/2018 20:44:52> Area 'Bonta (7)' started
+[Debug] <03/13/2018 20:44:52> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 20:44:52> Area 'Bonta (7)' update lagged (78ms) (msg:11ms, timers:66ms, timerProc:593/588)
+[Debug] <03/13/2018 20:44:53> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 20:44:53> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 20:45:33> Client request ticket JKMGKENXUZMGGPUCASYRBXFRBNWDSXDJ
+[Debug] <03/13/2018 20:45:48> Character Xurug created
+[Info] <03/13/2018 20:45:51> Area 'Incarnam (45)' started
+[Debug] <03/13/2018 20:45:51> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 20:45:51> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 20:45:52> Received Unknown packet : SequenceNumberMessage
+[Info] <03/13/2018 20:46:21> Saving world ...
+[Info] <03/13/2018 20:46:21> World server saved ! (2 ms)
+[Info] <03/13/2018 20:48:21> Saving world ...
+[Info] <03/13/2018 20:48:21> World server saved ! (2 ms)
+[Debug] <03/13/2018 20:48:32> Client request ticket CNEEQWTAKQBPYBBSBJETIXJCBTGYEPXH
+[Debug] <03/13/2018 20:48:39> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 20:48:39> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 20:48:45> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 20:48:56> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/13/2018 20:49:18> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 20:49:18> Area 'Amakna (0)' started
+[Debug] <03/13/2018 20:49:18> Area 'Amakna (0)' update lagged (201ms) (msg:1ms, timers:200ms, timerProc:853/853)
+[Info] <03/13/2018 20:50:21> Saving world ...
+[Info] <03/13/2018 20:50:21> World server saved ! (18 ms)
+[Info] <03/13/2018 20:50:25> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 20:50:25> Area 'Incarnam (45)' started
+[Info] <03/13/2018 20:50:34> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 20:50:34> Area 'Amakna (0)' started
+[Debug] <03/13/2018 20:50:49> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 20:50:54> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 20:50:54> Area 'Astrub (18)' started
+[Debug] <03/13/2018 20:50:54> Area 'Amakna (0)' update lagged (1041ms) (msg:1041ms, timers:0ms, timerProc:0/854)
+[Debug] <03/13/2018 20:50:54> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 20:52:21> Saving world ...
+[Info] <03/13/2018 20:52:21> World server saved ! (44 ms)
+[Debug] <03/13/2018 20:52:21> TaskPool 'IO Task Pool' update lagged (69ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:53:40> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 20:54:21> Saving world ...
+[Info] <03/13/2018 20:54:21> World server saved ! (4 ms)
+[Info] <03/13/2018 20:56:21> Saving world ...
+[Info] <03/13/2018 20:56:21> World server saved ! (4 ms)
+[Debug] <03/13/2018 20:57:29> Client request ticket IULVJQFZRHZPFAQISAENZPESGJCLOJQD
+[Info] <03/13/2018 20:57:39> Area 'Astrub (18)' started
+[Debug] <03/13/2018 20:57:39> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 20:57:39> Area 'Astrub (18)' update lagged (68ms) (msg:1ms, timers:66ms, timerProc:281/281)
+[Debug] <03/13/2018 20:57:39> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 20:57:42> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 20:57:56> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/13/2018 20:58:21> Saving world ...
+[Info] <03/13/2018 20:58:21> World server saved ! (53 ms)
+[Debug] <03/13/2018 20:58:21> TaskPool 'IO Task Pool' update lagged (84ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 20:58:40> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 20:58:40> Area 'Enutrosor (53)' started
+[Info] <03/13/2018 20:59:08> Area 'Enutrosor (53)' stopped
+[Info] <03/13/2018 20:59:08> Area 'Srambad (54)' started
+[Info] <03/13/2018 21:00:21> Saving world ...
+[Info] <03/13/2018 21:00:21> World server saved ! (53 ms)
+[Debug] <03/13/2018 21:00:21> TaskPool 'IO Task Pool' update lagged (128ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:01:51> Area 'Srambad (54)' update lagged (56ms) (msg:55ms, timers:0ms, timerProc:0/92)
+[Debug] <03/13/2018 21:01:58> Area 'Srambad (54)' update lagged (174ms) (msg:174ms, timers:0ms, timerProc:1/91)
+[Info] <03/13/2018 21:02:21> Saving world ...
+[Info] <03/13/2018 21:02:21> World server saved ! (27 ms)
+[Debug] <03/13/2018 21:02:21> TaskPool 'IO Task Pool' update lagged (55ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:02:28> Area 'Srambad (54)' update lagged (160ms) (msg:160ms, timers:0ms, timerProc:0/94)
+[Debug] <03/13/2018 21:02:30> Area 'Srambad (54)' update lagged (67ms) (msg:65ms, timers:1ms, timerProc:0/98)
+[Debug] <03/13/2018 21:02:31> Area 'Srambad (54)' update lagged (81ms) (msg:77ms, timers:3ms, timerProc:70/99)
+[Debug] <03/13/2018 21:03:06> Area 'Srambad (54)' update lagged (85ms) (msg:84ms, timers:0ms, timerProc:0/99)
+[Debug] <03/13/2018 21:03:13> Area 'Srambad (54)' update lagged (142ms) (msg:142ms, timers:0ms, timerProc:0/97)
+[Debug] <03/13/2018 21:03:21> Area 'Srambad (54)' update lagged (76ms) (msg:76ms, timers:0ms, timerProc:0/97)
+[Debug] <03/13/2018 21:03:40> Area 'Srambad (54)' update lagged (55ms) (msg:55ms, timers:0ms, timerProc:0/100)
+[Debug] <03/13/2018 21:03:45> Area 'Srambad (54)' update lagged (103ms) (msg:103ms, timers:0ms, timerProc:0/98)
+[Info] <03/13/2018 21:03:48> Area 'Incarnam (45)' started
+[Info] <03/13/2018 21:04:21> Saving world ...
+[Info] <03/13/2018 21:04:22> World server saved ! (29 ms)
+[Debug] <03/13/2018 21:04:22> TaskPool 'IO Task Pool' update lagged (56ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 21:06:22> Saving world ...
+[Info] <03/13/2018 21:06:22> World server saved ! (39 ms)
+[Debug] <03/13/2018 21:06:22> TaskPool 'IO Task Pool' update lagged (80ms) (msg:0, timers:2/4)
+[Info] <03/13/2018 21:08:22> Saving world ...
+[Info] <03/13/2018 21:08:22> World server saved ! (29 ms)
+[Debug] <03/13/2018 21:08:22> TaskPool 'IO Task Pool' update lagged (58ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:09:11> Area 'Bonta (7)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:289/297)
+[Info] <03/13/2018 21:10:22> Saving world ...
+[Info] <03/13/2018 21:10:22> World server saved ! (22 ms)
+[Info] <03/13/2018 21:12:22> Saving world ...
+[Info] <03/13/2018 21:12:22> World server saved ! (29 ms)
+[Debug] <03/13/2018 21:12:22> TaskPool 'IO Task Pool' update lagged (71ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 21:14:22> Saving world ...
+[Info] <03/13/2018 21:14:22> World server saved ! (21 ms)
+[Debug] <03/13/2018 21:14:54> Area 'Bonta (7)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:139/297)
+[Info] <03/13/2018 21:16:22> Saving world ...
+[Info] <03/13/2018 21:16:22> World server saved ! (21 ms)
+[Debug] <03/13/2018 21:17:25> Area 'Bonta (7)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:187/297)
+[Info] <03/13/2018 21:18:02> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 21:18:02> Area 'Amakna (0)' started
+[Debug] <03/13/2018 21:18:02> Area 'Amakna (0)' update lagged (219ms) (msg:2ms, timers:216ms, timerProc:855/855)
+[Info] <03/13/2018 21:18:22> Saving world ...
+[Info] <03/13/2018 21:18:22> World server saved ! (30 ms)
+[Debug] <03/13/2018 21:18:22> TaskPool 'IO Task Pool' update lagged (54ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 21:18:26> Area 'Amakna (0)' stopped
+[Warn] <03/13/2018 21:19:08> 1 disconnected characters removed from Srambad (54)
+[Debug] <03/13/2018 21:19:09> Area 'Srambad (54)' update lagged (493ms) (msg:0ms, timers:494ms, timerProc:87/88)
+[Debug] <03/13/2018 21:19:54> Client request ticket PASSOMSVXVBHDEKIRRYXVORPJLQQYKCV
+[Info] <03/13/2018 21:19:59> Area 'Amakna (0)' started
+[Debug] <03/13/2018 21:19:59> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 21:19:59> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 21:19:59> Area 'Amakna (0)' update lagged (291ms) (msg:2ms, timers:288ms, timerProc:847/855)
+[Debug] <03/13/2018 21:20:03> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 21:20:10> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/13/2018 21:20:22> Saving world ...
+[Info] <03/13/2018 21:20:22> World server saved ! (43 ms)
+[Debug] <03/13/2018 21:20:22> TaskPool 'IO Task Pool' update lagged (70ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:20:38> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:727/855)
+[Debug] <03/13/2018 21:20:57> Area 'Amakna (0)' update lagged (53ms) (msg:0ms, timers:52ms, timerProc:727/855)
+[Debug] <03/13/2018 21:21:39> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:767/855)
+[Debug] <03/13/2018 21:21:48> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:760/855)
+[Debug] <03/13/2018 21:22:13> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:745/855)
+[Info] <03/13/2018 21:22:22> Saving world ...
+[Info] <03/13/2018 21:22:22> World server saved ! (23 ms)
+[Debug] <03/13/2018 21:22:22> TaskPool 'IO Task Pool' update lagged (52ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:22:37> Area 'Amakna (0)' update lagged (61ms) (msg:0ms, timers:61ms, timerProc:837/855)
+[Debug] <03/13/2018 21:23:01> Area 'Amakna (0)' update lagged (71ms) (msg:0ms, timers:70ms, timerProc:838/855)
+[Debug] <03/13/2018 21:23:19> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:56ms, timerProc:823/855)
+[Debug] <03/13/2018 21:23:37> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:823/855)
+[Debug] <03/13/2018 21:23:59> Area 'Amakna (0)' update lagged (109ms) (msg:0ms, timers:109ms, timerProc:823/855)
+[Debug] <03/13/2018 21:24:14> Area 'Amakna (0)' update lagged (88ms) (msg:0ms, timers:87ms, timerProc:523/855)
+[Info] <03/13/2018 21:24:22> Saving world ...
+[Info] <03/13/2018 21:24:22> World server saved ! (18 ms)
+[Info] <03/13/2018 21:26:22> Saving world ...
+[Info] <03/13/2018 21:26:22> World server saved ! (19 ms)
+[Debug] <03/13/2018 21:27:04> Area 'Amakna (0)' update lagged (79ms) (msg:0ms, timers:79ms, timerProc:704/855)
+[Info] <03/13/2018 21:28:22> Saving world ...
+[Info] <03/13/2018 21:28:22> World server saved ! (27 ms)
+[Debug] <03/13/2018 21:28:22> TaskPool 'IO Task Pool' update lagged (61ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 21:30:23> Saving world ...
+[Info] <03/13/2018 21:30:23> World server saved ! (21 ms)
+[Debug] <03/13/2018 21:31:58> Area 'Amakna (0)' update lagged (76ms) (msg:0ms, timers:76ms, timerProc:710/855)
+[Debug] <03/13/2018 21:32:16> Area 'Amakna (0)' update lagged (103ms) (msg:0ms, timers:102ms, timerProc:710/855)
+[Info] <03/13/2018 21:32:23> Saving world ...
+[Info] <03/13/2018 21:32:23> World server saved ! (25 ms)
+[Debug] <03/13/2018 21:32:23> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:32:49> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:53ms, timerProc:687/855)
+[Info] <03/13/2018 21:34:23> Saving world ...
+[Info] <03/13/2018 21:34:23> World server saved ! (19 ms)
+[Debug] <03/13/2018 21:35:06> Area 'Amakna (0)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:662/855)
+[Debug] <03/13/2018 21:35:51> Area 'Amakna (0)' update lagged (163ms) (msg:0ms, timers:163ms, timerProc:782/855)
+[Info] <03/13/2018 21:36:23> Saving world ...
+[Info] <03/13/2018 21:36:23> World server saved ! (15 ms)
+[Debug] <03/13/2018 21:36:31> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:664/855)
+[Debug] <03/13/2018 21:36:40> Area 'Amakna (0)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:664/855)
+[Debug] <03/13/2018 21:37:13> Area 'Amakna (0)' update lagged (61ms) (msg:0ms, timers:60ms, timerProc:751/855)
+[Debug] <03/13/2018 21:37:31> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:787/855)
+[Debug] <03/13/2018 21:37:44> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:787/855)
+[Debug] <03/13/2018 21:38:14> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:787/855)
+[Debug] <03/13/2018 21:38:20> Area 'Amakna (0)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:787/855)
+[Info] <03/13/2018 21:38:23> Saving world ...
+[Info] <03/13/2018 21:38:23> World server saved ! (24 ms)
+[Debug] <03/13/2018 21:38:23> TaskPool 'IO Task Pool' update lagged (81ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:38:29> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:774/855)
+[Debug] <03/13/2018 21:39:57> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:51ms, timerProc:712/855)
+[Debug] <03/13/2018 21:40:00> Area 'Amakna (0)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:712/855)
+[Debug] <03/13/2018 21:40:15> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:51ms, timerProc:705/855)
+[Info] <03/13/2018 21:40:23> Saving world ...
+[Info] <03/13/2018 21:40:23> World server saved ! (19 ms)
+[Debug] <03/13/2018 21:40:49> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:53ms, timerProc:695/855)
+[Debug] <03/13/2018 21:40:52> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:695/855)
+[Debug] <03/13/2018 21:41:37> Area 'Amakna (0)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:695/855)
+[Debug] <03/13/2018 21:41:40> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:695/855)
+[Debug] <03/13/2018 21:41:41> Area 'Bonta (7)' update lagged (61ms) (msg:0ms, timers:60ms, timerProc:172/297)
+[Debug] <03/13/2018 21:42:11> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:703/855)
+[Info] <03/13/2018 21:42:23> Saving world ...
+[Info] <03/13/2018 21:42:23> World server saved ! (22 ms)
+[Debug] <03/13/2018 21:42:23> TaskPool 'IO Task Pool' update lagged (55ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:43:20> Area 'Amakna (0)' update lagged (52ms) (msg:0ms, timers:51ms, timerProc:703/855)
+[Info] <03/13/2018 21:44:23> Saving world ...
+[Info] <03/13/2018 21:44:23> World server saved ! (36 ms)
+[Debug] <03/13/2018 21:44:23> TaskPool 'IO Task Pool' update lagged (69ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:45:00> Area 'Amakna (0)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:703/855)
+[Info] <03/13/2018 21:45:32> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 21:46:23> Saving world ...
+[Info] <03/13/2018 21:46:23> World server saved ! (6 ms)
+[Info] <03/13/2018 21:48:23> Saving world ...
+[Info] <03/13/2018 21:48:23> World server saved ! (7 ms)
+[Info] <03/13/2018 21:50:23> Saving world ...
+[Info] <03/13/2018 21:50:23> World server saved ! (5 ms)
+[Info] <03/13/2018 21:52:23> Saving world ...
+[Info] <03/13/2018 21:52:23> World server saved ! (3 ms)
+[Info] <03/13/2018 21:54:23> Saving world ...
+[Info] <03/13/2018 21:54:23> World server saved ! (2 ms)
+[Info] <03/13/2018 21:56:24> Saving world ...
+[Info] <03/13/2018 21:56:24> World server saved ! (4 ms)
+[Info] <03/13/2018 21:58:24> Saving world ...
+[Info] <03/13/2018 21:58:24> World server saved ! (8 ms)
+[Debug] <03/13/2018 21:58:24> TaskPool 'IO Task Pool' update lagged (76ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 21:59:12> Client request ticket MIHBBSFUTRVWHHJIRBETXMOOZTGBWODY
+[Info] <03/13/2018 21:59:20> Area 'Amakna (0)' started
+[Debug] <03/13/2018 21:59:20> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/13/2018 21:59:20> Received Unknown packet : ClientKeyMessage
+[Debug] <03/13/2018 21:59:21> Area 'Amakna (0)' update lagged (419ms) (msg:8ms, timers:411ms, timerProc:856/856)
+[Debug] <03/13/2018 21:59:24> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/13/2018 21:59:37> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/13/2018 21:59:48> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 21:59:48> Area 'Ecaflipus (59)' started
+[Debug] <03/13/2018 21:59:51> Area 'Ecaflipus (59)' update lagged (559ms) (msg:559ms, timers:0ms, timerProc:0/130)
+[Info] <03/13/2018 21:59:59> Area 'Ecaflipus (59)' stopped
+[Info] <03/13/2018 22:00:18> Area 'Srambad (54)' stopped
+[Info] <03/13/2018 22:00:18> Area 'Enutrosor (53)' started
+[Info] <03/13/2018 22:00:24> Saving world ...
+[Info] <03/13/2018 22:00:24> World server saved ! (77 ms)
+[Debug] <03/13/2018 22:00:24> TaskPool 'IO Task Pool' update lagged (112ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:01:02> Area 'Enutrosor (53)' update lagged (86ms) (msg:0ms, timers:86ms, timerProc:1/65)
+[Debug] <03/13/2018 22:01:28> Area 'Enutrosor (53)' update lagged (51ms) (msg:51ms, timers:0ms, timerProc:0/72)
+[Debug] <03/13/2018 22:01:38> Area 'Enutrosor (53)' update lagged (160ms) (msg:160ms, timers:0ms, timerProc:0/75)
+[Debug] <03/13/2018 22:02:11> Area 'Enutrosor (53)' update lagged (191ms) (msg:191ms, timers:0ms, timerProc:0/75)
+[Info] <03/13/2018 22:02:24> Saving world ...
+[Info] <03/13/2018 22:02:24> World server saved ! (72 ms)
+[Debug] <03/13/2018 22:02:24> TaskPool 'IO Task Pool' update lagged (120ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:02:41> Area 'Enutrosor (53)' update lagged (79ms) (msg:79ms, timers:0ms, timerProc:0/75)
+[Debug] <03/13/2018 22:02:44> Area 'Enutrosor (53)' update lagged (90ms) (msg:89ms, timers:0ms, timerProc:0/74)
+[Info] <03/13/2018 22:02:47> Area 'Incarnam (45)' started
+[Info] <03/13/2018 22:03:42> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 22:03:42> Area 'Xélorium (55)' started
+[Debug] <03/13/2018 22:03:44> Area 'Xélorium (55)' update lagged (381ms) (msg:381ms, timers:0ms, timerProc:0/150)
+[Info] <03/13/2018 22:04:24> Saving world ...
+[Info] <03/13/2018 22:04:24> World server saved ! (34 ms)
+[Debug] <03/13/2018 22:04:24> TaskPool 'IO Task Pool' update lagged (56ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:06:12> Area 'Bonta (7)' update lagged (62ms) (msg:0ms, timers:62ms, timerProc:92/297)
+[Info] <03/13/2018 22:06:24> Saving world ...
+[Info] <03/13/2018 22:06:24> World server saved ! (93 ms)
+[Debug] <03/13/2018 22:06:24> Area 'Bonta (7)' update lagged (72ms) (msg:0ms, timers:71ms, timerProc:76/297)
+[Debug] <03/13/2018 22:06:24> TaskPool 'IO Task Pool' update lagged (379ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:06:30> Area 'Bonta (7)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:76/297)
+[Info] <03/13/2018 22:08:24> Saving world ...
+[Info] <03/13/2018 22:08:25> World server saved ! (58 ms)
+[Debug] <03/13/2018 22:08:25> TaskPool 'IO Task Pool' update lagged (123ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:10:14> Area 'Xélorium (55)' stopped
+[Info] <03/13/2018 22:10:14> Area 'Ecaflipus (59)' started
+[Debug] <03/13/2018 22:10:14> Area 'Xélorium (55)' update lagged (128ms) (msg:127ms, timers:0ms, timerProc:0/77)
+[Debug] <03/13/2018 22:10:16> Area 'Ecaflipus (59)' update lagged (445ms) (msg:445ms, timers:0ms, timerProc:0/67)
+[Info] <03/13/2018 22:10:25> Saving world ...
+[Info] <03/13/2018 22:10:25> World server saved ! (63 ms)
+[Debug] <03/13/2018 22:10:25> TaskPool 'IO Task Pool' update lagged (103ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:10:42> Area 'Ecaflipus (59)' update lagged (361ms) (msg:361ms, timers:0ms, timerProc:0/66)
+[Info] <03/13/2018 22:10:59> Area 'Ecaflipus (59)' stopped
+[Info] <03/13/2018 22:10:59> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:11:00> Area 'Ecaflipus (59)' update lagged (51ms) (msg:51ms, timers:0ms, timerProc:0/66)
+[Debug] <03/13/2018 22:11:00> Area 'Amakna (0)' update lagged (192ms) (msg:2ms, timers:190ms, timerProc:857/857)
+[Debug] <03/13/2018 22:11:02> Area 'Amakna (0)' update lagged (424ms) (msg:424ms, timers:0ms, timerProc:0/857)
+[Debug] <03/13/2018 22:11:24> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 22:11:30> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 22:11:57> Area 'Amakna (0)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:592/857)
+[Info] <03/13/2018 22:12:22> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:12:22> Area 'Forêt des Abraknydes (6)' started
+[Debug] <03/13/2018 22:12:22> Area 'Amakna (0)' update lagged (1053ms) (msg:1024ms, timers:29ms, timerProc:845/856)
+[Debug] <03/13/2018 22:12:22> Area 'Forêt des Abraknydes (6)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:315/166)
+[Info] <03/13/2018 22:12:25> Saving world ...
+[Info] <03/13/2018 22:12:25> World server saved ! (32 ms)
+[Debug] <03/13/2018 22:12:25> TaskPool 'IO Task Pool' update lagged (54ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:14:25> Saving world ...
+[Info] <03/13/2018 22:14:25> World server saved ! (27 ms)
+[Debug] <03/13/2018 22:15:18> Area 'Forêt des Abraknydes (6)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:154/166)
+[Info] <03/13/2018 22:16:25> Saving world ...
+[Info] <03/13/2018 22:16:25> World server saved ! (26 ms)
+[Info] <03/13/2018 22:18:25> Saving world ...
+[Info] <03/13/2018 22:18:25> World server saved ! (68 ms)
+[Debug] <03/13/2018 22:18:25> TaskPool 'IO Task Pool' update lagged (209ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:19:08> Area 'Forêt des Abraknydes (6)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:120/166)
+[Info] <03/13/2018 22:20:25> Saving world ...
+[Info] <03/13/2018 22:20:25> World server saved ! (37 ms)
+[Debug] <03/13/2018 22:20:25> TaskPool 'IO Task Pool' update lagged (70ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:22:25> Saving world ...
+[Info] <03/13/2018 22:22:25> World server saved ! (36 ms)
+[Debug] <03/13/2018 22:22:25> TaskPool 'IO Task Pool' update lagged (58ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:24:25> Saving world ...
+[Info] <03/13/2018 22:24:25> World server saved ! (53 ms)
+[Debug] <03/13/2018 22:24:25> TaskPool 'IO Task Pool' update lagged (115ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:24:48> Area 'Forêt des Abraknydes (6)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:138/166)
+[Info] <03/13/2018 22:25:29> Area 'Forêt des Abraknydes (6)' stopped
+[Info] <03/13/2018 22:25:29> Area 'Foire du Trool (15)' started
+[Info] <03/13/2018 22:25:49> Area 'Foire du Trool (15)' stopped
+[Info] <03/13/2018 22:25:49> Area 'Île de Nowel (42)' started
+[Debug] <03/13/2018 22:25:49> Area 'Foire du Trool (15)' update lagged (56ms) (msg:55ms, timers:0ms, timerProc:0/6)
+[Debug] <03/13/2018 22:25:51> Area 'Île de Nowel (42)' update lagged (456ms) (msg:456ms, timers:0ms, timerProc:0/192)
+[Debug] <03/13/2018 22:26:19> Area 'Île de Nowel (42)' update lagged (81ms) (msg:81ms, timers:0ms, timerProc:0/191)
+[Info] <03/13/2018 22:26:26> Saving world ...
+[Info] <03/13/2018 22:26:26> World server saved ! (49 ms)
+[Debug] <03/13/2018 22:26:26> TaskPool 'IO Task Pool' update lagged (75ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:27:23> Area 'Île de Nowel (42)' stopped
+[Debug] <03/13/2018 22:27:25> Area 'Enutrosor (53)' update lagged (69ms) (msg:69ms, timers:0ms, timerProc:0/63)
+[Info] <03/13/2018 22:27:46> Area 'Île de Moon (2)' started
+[Debug] <03/13/2018 22:27:46> Area 'Enutrosor (53)' update lagged (75ms) (msg:75ms, timers:0ms, timerProc:0/63)
+[Debug] <03/13/2018 22:27:48> Area 'Île de Moon (2)' update lagged (60ms) (msg:60ms, timers:0ms, timerProc:0/126)
+[Info] <03/13/2018 22:28:08> Area 'Île de Moon (2)' stopped
+[Info] <03/13/2018 22:28:08> Area 'Pandala Donjon (24)' started
+[Debug] <03/13/2018 22:28:10> Area 'Pandala Donjon (24)' update lagged (61ms) (msg:61ms, timers:0ms, timerProc:0/6)
+[Info] <03/13/2018 22:28:26> Saving world ...
+[Info] <03/13/2018 22:28:26> World server saved ! (26 ms)
+[Info] <03/13/2018 22:29:01> Area 'Pandala Donjon (24)' stopped
+[Info] <03/13/2018 22:29:01> Area 'Donjon des Bworks (39)' started
+[Info] <03/13/2018 22:29:30> Area 'Donjon des Bworks (39)' stopped
+[Info] <03/13/2018 22:29:30> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:29:31> Area 'Amakna (0)' update lagged (282ms) (msg:2ms, timers:279ms, timerProc:857/857)
+[Debug] <03/13/2018 22:29:32> Area 'Amakna (0)' update lagged (52ms) (msg:52ms, timers:0ms, timerProc:0/857)
+[Debug] <03/13/2018 22:29:36> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 22:29:38> Area 'Amakna (0)' update lagged (1002ms) (msg:1002ms, timers:0ms, timerProc:0/857)
+[Debug] <03/13/2018 22:29:38> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <03/13/2018 22:29:44> Area 'Amakna (0)' update lagged (60ms) (msg:60ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 22:30:10> Area 'Amakna (0)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:515/855)
+[Info] <03/13/2018 22:30:26> Saving world ...
+[Info] <03/13/2018 22:30:26> World server saved ! (35 ms)
+[Debug] <03/13/2018 22:30:26> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:30:34> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:30:34> Area 'Donjon des Tofus (29)' started
+[Debug] <03/13/2018 22:30:34> Area 'Amakna (0)' update lagged (51ms) (msg:51ms, timers:0ms, timerProc:0/855)
+[Debug] <03/13/2018 22:30:36> Area 'Donjon des Tofus (29)' update lagged (424ms) (msg:424ms, timers:0ms, timerProc:0/11)
+[Debug] <03/13/2018 22:31:50> Area 'Donjon des Tofus (29)' update lagged (53ms) (msg:53ms, timers:0ms, timerProc:0/13)
+[Info] <03/13/2018 22:32:26> Saving world ...
+[Info] <03/13/2018 22:32:26> World server saved ! (95 ms)
+[Debug] <03/13/2018 22:32:26> TaskPool 'IO Task Pool' update lagged (146ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:32:34> Area 'Donjon des Tofus (29)' update lagged (57ms) (msg:57ms, timers:0ms, timerProc:0/19)
+[Debug] <03/13/2018 22:32:46> Area 'Donjon des Tofus (29)' update lagged (90ms) (msg:90ms, timers:0ms, timerProc:0/16)
+[Debug] <03/13/2018 22:32:50> Area 'Donjon des Tofus (29)' update lagged (106ms) (msg:106ms, timers:0ms, timerProc:0/18)
+[Info] <03/13/2018 22:32:52> Area 'Île d'Otomaï (46)' started
+[Debug] <03/13/2018 22:32:52> Area 'Donjon des Tofus (29)' update lagged (71ms) (msg:70ms, timers:0ms, timerProc:0/18)
+[Debug] <03/13/2018 22:32:52> Area 'Île d'Otomaï (46)' update lagged (228ms) (msg:3ms, timers:224ms, timerProc:805/777)
+[Info] <03/13/2018 22:33:01> Area 'Île d'Otomaï (46)' stopped
+[Info] <03/13/2018 22:33:01> Area 'Astrub (18)' started
+[Debug] <03/13/2018 22:33:29> Area 'Astrub (18)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:228/282)
+[Debug] <03/13/2018 22:34:02> Area 'Astrub (18)' update lagged (101ms) (msg:0ms, timers:101ms, timerProc:252/282)
+[Info] <03/13/2018 22:34:26> Saving world ...
+[Info] <03/13/2018 22:34:26> World server saved ! (81 ms)
+[Debug] <03/13/2018 22:34:26> TaskPool 'IO Task Pool' update lagged (122ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:35:03> Area 'Astrub (18)' update lagged (61ms) (msg:0ms, timers:61ms, timerProc:252/282)
+[Debug] <03/13/2018 22:35:42> Area 'Astrub (18)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:252/282)
+[Debug] <03/13/2018 22:36:25> Area 'Astrub (18)' update lagged (74ms) (msg:0ms, timers:73ms, timerProc:245/282)
+[Info] <03/13/2018 22:36:26> Saving world ...
+[Info] <03/13/2018 22:36:26> World server saved ! (40 ms)
+[Debug] <03/13/2018 22:36:26> TaskPool 'IO Task Pool' update lagged (65ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:37:04> Area 'Astrub (18)' update lagged (61ms) (msg:0ms, timers:61ms, timerProc:251/282)
+[Debug] <03/13/2018 22:38:05> Area 'Astrub (18)' update lagged (75ms) (msg:0ms, timers:74ms, timerProc:251/282)
+[Debug] <03/13/2018 22:38:22> Area 'Bonta (7)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:91/297)
+[Info] <03/13/2018 22:38:26> Saving world ...
+[Info] <03/13/2018 22:38:26> World server saved ! (35 ms)
+[Debug] <03/13/2018 22:38:26> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:39:57> Area 'Astrub (18)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:250/282)
+[Info] <03/13/2018 22:40:26> Saving world ...
+[Info] <03/13/2018 22:40:26> World server saved ! (35 ms)
+[Debug] <03/13/2018 22:40:26> TaskPool 'IO Task Pool' update lagged (59ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:41:14> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 22:41:14> Area 'Plaines de Cania (8)' started
+[Debug] <03/13/2018 22:41:15> Area 'Plaines de Cania (8)' update lagged (376ms) (msg:4ms, timers:371ms, timerProc:1633/1032)
+[Debug] <03/13/2018 22:41:18> Area 'Plaines de Cania (8)' update lagged (529ms) (msg:486ms, timers:42ms, timerProc:1029/1032)
+[Debug] <03/13/2018 22:41:39> Area 'Plaines de Cania (8)' update lagged (74ms) (msg:0ms, timers:74ms, timerProc:1028/1031)
+[Debug] <03/13/2018 22:41:40> Area 'Plaines de Cania (8)' update lagged (433ms) (msg:432ms, timers:0ms, timerProc:0/1031)
+[Debug] <03/13/2018 22:41:45> Area 'Plaines de Cania (8)' update lagged (57ms) (msg:0ms, timers:56ms, timerProc:1028/1031)
+[Debug] <03/13/2018 22:41:48> Area 'Plaines de Cania (8)' update lagged (78ms) (msg:0ms, timers:78ms, timerProc:1028/1031)
+[Debug] <03/13/2018 22:41:51> Area 'Plaines de Cania (8)' update lagged (114ms) (msg:0ms, timers:114ms, timerProc:1028/1031)
+[Debug] <03/13/2018 22:42:00> Area 'Plaines de Cania (8)' update lagged (425ms) (msg:425ms, timers:0ms, timerProc:0/1031)
+[Debug] <03/13/2018 22:42:07> Area 'Plaines de Cania (8)' update lagged (74ms) (msg:0ms, timers:73ms, timerProc:1003/1030)
+[Debug] <03/13/2018 22:42:10> Area 'Plaines de Cania (8)' update lagged (70ms) (msg:0ms, timers:70ms, timerProc:1001/1030)
+[Debug] <03/13/2018 22:42:16> Area 'Plaines de Cania (8)' update lagged (533ms) (msg:445ms, timers:88ms, timerProc:1026/1029)
+[Debug] <03/13/2018 22:42:19> Area 'Plaines de Cania (8)' update lagged (90ms) (msg:0ms, timers:90ms, timerProc:1026/1029)
+[Debug] <03/13/2018 22:42:22> Area 'Plaines de Cania (8)' update lagged (85ms) (msg:0ms, timers:85ms, timerProc:839/1029)
+[Info] <03/13/2018 22:42:26> Saving world ...
+[Info] <03/13/2018 22:42:26> World server saved ! (66 ms)
+[Debug] <03/13/2018 22:42:26> TaskPool 'IO Task Pool' update lagged (121ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:42:28> Area 'Plaines de Cania (8)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:726/1029)
+[Debug] <03/13/2018 22:42:34> Area 'Plaines de Cania (8)' update lagged (179ms) (msg:0ms, timers:179ms, timerProc:974/1029)
+[Debug] <03/13/2018 22:42:40> Area 'Plaines de Cania (8)' update lagged (66ms) (msg:0ms, timers:66ms, timerProc:692/1029)
+[Info] <03/13/2018 22:42:41> Area 'Plaines de Cania (8)' stopped
+[Info] <03/13/2018 22:42:41> Area 'Astrub (18)' started
+[Debug] <03/13/2018 22:42:41> Area 'Plaines de Cania (8)' update lagged (52ms) (msg:52ms, timers:0ms, timerProc:0/1029)
+[Debug] <03/13/2018 22:42:41> Area 'Astrub (18)' update lagged (76ms) (msg:3ms, timers:72ms, timerProc:276/283)
+[Debug] <03/13/2018 22:42:47> Area 'Bonta (7)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:119/297)
+[Info] <03/13/2018 22:42:57> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 22:42:57> Area 'Srambad (54)' started
+[Debug] <03/13/2018 22:42:57> Area 'Astrub (18)' update lagged (62ms) (msg:62ms, timers:0ms, timerProc:0/283)
+[Info] <03/13/2018 22:43:10> Area 'Srambad (54)' stopped
+[Debug] <03/13/2018 22:43:13> Area 'Enutrosor (53)' update lagged (442ms) (msg:441ms, timers:0ms, timerProc:4/62)
+[Info] <03/13/2018 22:44:00> Area 'Baie de Sufokia (5)' started
+[Debug] <03/13/2018 22:44:01> Area 'Baie de Sufokia (5)' update lagged (85ms) (msg:1ms, timers:84ms, timerProc:397/389)
+[Debug] <03/13/2018 22:44:05> Area 'Baie de Sufokia (5)' update lagged (581ms) (msg:581ms, timers:0ms, timerProc:0/389)
+[Info] <03/13/2018 22:44:26> Saving world ...
+[Info] <03/13/2018 22:44:26> World server saved ! (45 ms)
+[Debug] <03/13/2018 22:44:27> TaskPool 'IO Task Pool' update lagged (77ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:44:35> Area 'Baie de Sufokia (5)' stopped
+[Info] <03/13/2018 22:44:35> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:44:35> Area 'Amakna (0)' update lagged (257ms) (msg:2ms, timers:255ms, timerProc:856/856)
+[Debug] <03/13/2018 22:44:38> Area 'Amakna (0)' update lagged (647ms) (msg:647ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 22:45:02> Area 'Amakna (0)' update lagged (181ms) (msg:0ms, timers:181ms, timerProc:589/856)
+[Debug] <03/13/2018 22:45:05> Area 'Amakna (0)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:254/856)
+[Debug] <03/13/2018 22:45:05> Area 'Amakna (0)' update lagged (124ms) (msg:0ms, timers:124ms, timerProc:506/856)
+[Debug] <03/13/2018 22:45:08> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:335/856)
+[Debug] <03/13/2018 22:45:39> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:404/856)
+[Debug] <03/13/2018 22:45:48> Area 'Amakna (0)' update lagged (82ms) (msg:0ms, timers:82ms, timerProc:333/856)
+[Debug] <03/13/2018 22:46:09> Area 'Amakna (0)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:324/856)
+[Debug] <03/13/2018 22:46:09> Area 'Amakna (0)' update lagged (65ms) (msg:0ms, timers:65ms, timerProc:319/856)
+[Info] <03/13/2018 22:46:27> Saving world ...
+[Info] <03/13/2018 22:46:27> World server saved ! (71 ms)
+[Debug] <03/13/2018 22:46:27> TaskPool 'IO Task Pool' update lagged (132ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:46:30> Area 'Amakna (0)' update lagged (64ms) (msg:0ms, timers:64ms, timerProc:319/856)
+[Debug] <03/13/2018 22:46:51> Area 'Amakna (0)' update lagged (77ms) (msg:0ms, timers:77ms, timerProc:378/856)
+[Debug] <03/13/2018 22:46:52> Area 'Amakna (0)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:265/856)
+[Debug] <03/13/2018 22:47:01> Area 'Amakna (0)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:265/856)
+[Debug] <03/13/2018 22:47:04> Area 'Amakna (0)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:265/856)
+[Debug] <03/13/2018 22:47:07> Area 'Amakna (0)' update lagged (90ms) (msg:0ms, timers:90ms, timerProc:378/856)
+[Debug] <03/13/2018 22:47:25> Area 'Amakna (0)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:182/856)
+[Debug] <03/13/2018 22:47:25> Area 'Amakna (0)' update lagged (95ms) (msg:0ms, timers:95ms, timerProc:354/856)
+[Debug] <03/13/2018 22:47:28> Area 'Amakna (0)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:193/856)
+[Debug] <03/13/2018 22:47:31> Area 'Amakna (0)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:182/856)
+[Debug] <03/13/2018 22:47:31> Area 'Amakna (0)' update lagged (66ms) (msg:0ms, timers:66ms, timerProc:354/856)
+[Debug] <03/13/2018 22:48:17> Area 'Bonta (7)' update lagged (53ms) (msg:0ms, timers:52ms, timerProc:87/297)
+[Debug] <03/13/2018 22:48:23> Area 'Amakna (0)' update lagged (107ms) (msg:0ms, timers:106ms, timerProc:522/856)
+[Debug] <03/13/2018 22:48:26> Area 'Amakna (0)' update lagged (64ms) (msg:0ms, timers:63ms, timerProc:460/856)
+[Info] <03/13/2018 22:48:27> Saving world ...
+[Info] <03/13/2018 22:48:27> World server saved ! (84 ms)
+[Debug] <03/13/2018 22:48:27> TaskPool 'IO Task Pool' update lagged (245ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:48:38> Area 'Amakna (0)' update lagged (70ms) (msg:0ms, timers:70ms, timerProc:460/856)
+[Debug] <03/13/2018 22:48:41> Area 'Amakna (0)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:460/856)
+[Debug] <03/13/2018 22:48:47> Area 'Amakna (0)' update lagged (87ms) (msg:0ms, timers:86ms, timerProc:460/856)
+[Debug] <03/13/2018 22:48:53> Area 'Amakna (0)' update lagged (75ms) (msg:0ms, timers:75ms, timerProc:460/856)
+[Debug] <03/13/2018 22:48:59> Area 'Amakna (0)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:460/856)
+[Debug] <03/13/2018 22:49:02> Area 'Amakna (0)' update lagged (104ms) (msg:0ms, timers:104ms, timerProc:463/856)
+[Debug] <03/13/2018 22:49:05> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:325/856)
+[Debug] <03/13/2018 22:49:11> Area 'Amakna (0)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:293/856)
+[Debug] <03/13/2018 22:49:24> Area 'Amakna (0)' update lagged (64ms) (msg:0ms, timers:64ms, timerProc:276/856)
+[Debug] <03/13/2018 22:49:39> Area 'Amakna (0)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:276/856)
+[Debug] <03/13/2018 22:49:45> Area 'Amakna (0)' update lagged (66ms) (msg:0ms, timers:66ms, timerProc:276/856)
+[Debug] <03/13/2018 22:49:51> Area 'Amakna (0)' update lagged (64ms) (msg:0ms, timers:62ms, timerProc:229/856)
+[Debug] <03/13/2018 22:49:57> Area 'Amakna (0)' update lagged (126ms) (msg:0ms, timers:126ms, timerProc:229/856)
+[Info] <03/13/2018 22:50:27> Saving world ...
+[Info] <03/13/2018 22:50:27> World server saved ! (62 ms)
+[Debug] <03/13/2018 22:50:27> TaskPool 'IO Task Pool' update lagged (147ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:51:07> Area 'Bonta (7)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:46/297)
+[Info] <03/13/2018 22:51:25> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:51:25> Area 'Île de Moon (2)' started
+[Debug] <03/13/2018 22:51:25> Area 'Amakna (0)' update lagged (91ms) (msg:63ms, timers:28ms, timerProc:186/856)
+[Debug] <03/13/2018 22:51:28> Area 'Île de Moon (2)' update lagged (442ms) (msg:437ms, timers:4ms, timerProc:69/71)
+[Debug] <03/13/2018 22:51:44> Area 'Île de Moon (2)' update lagged (451ms) (msg:451ms, timers:0ms, timerProc:0/70)
+[Info] <03/13/2018 22:51:55> Area 'Île de Moon (2)' stopped
+[Info] <03/13/2018 22:51:55> Area 'Xélorium (55)' started
+[Debug] <03/13/2018 22:51:58> Area 'Xélorium (55)' update lagged (60ms) (msg:60ms, timers:0ms, timerProc:0/77)
+[Debug] <03/13/2018 22:52:22> Area 'Xélorium (55)' update lagged (461ms) (msg:461ms, timers:0ms, timerProc:0/77)
+[Info] <03/13/2018 22:52:27> Saving world ...
+[Info] <03/13/2018 22:52:27> World server saved ! (49 ms)
+[Debug] <03/13/2018 22:52:27> TaskPool 'IO Task Pool' update lagged (78ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:53:07> Area 'Xélorium (55)' stopped
+[Info] <03/13/2018 22:53:07> Area 'Srambad (54)' started
+[Debug] <03/13/2018 22:53:09> Area 'Srambad (54)' update lagged (84ms) (msg:84ms, timers:0ms, timerProc:0/89)
+[Info] <03/13/2018 22:53:21> Area 'Srambad (54)' stopped
+[Info] <03/13/2018 22:53:21> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 22:53:21> Area 'Île de Frigost (48)' update lagged (688ms) (msg:4ms, timers:683ms, timerProc:1010/1010)
+[Debug] <03/13/2018 22:53:23> Area 'Île de Frigost (48)' update lagged (109ms) (msg:109ms, timers:0ms, timerProc:0/1010)
+[Debug] <03/13/2018 22:54:22> Area 'Île de Frigost (48)' update lagged (62ms) (msg:0ms, timers:62ms, timerProc:272/1010)
+[Info] <03/13/2018 22:54:27> Saving world ...
+[Info] <03/13/2018 22:54:27> World server saved ! (86 ms)
+[Debug] <03/13/2018 22:54:27> TaskPool 'IO Task Pool' update lagged (190ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:54:28> Area 'Île de Frigost (48)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:272/1010)
+[Info] <03/13/2018 22:55:02> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 22:55:02> Area 'Montagne des Koalaks (28)' started
+[Debug] <03/13/2018 22:55:02> Area 'Île de Frigost (48)' update lagged (58ms) (msg:58ms, timers:0ms, timerProc:0/1010)
+[Debug] <03/13/2018 22:55:02> Area 'Montagne des Koalaks (28)' update lagged (167ms) (msg:1ms, timers:165ms, timerProc:583/578)
+[Debug] <03/13/2018 22:55:04> Area 'Montagne des Koalaks (28)' update lagged (211ms) (msg:211ms, timers:0ms, timerProc:0/578)
+[Info] <03/13/2018 22:55:31> Area 'Montagne des Koalaks (28)' stopped
+[Info] <03/13/2018 22:55:31> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:55:31> Area 'Amakna (0)' update lagged (318ms) (msg:2ms, timers:315ms, timerProc:856/856)
+[Debug] <03/13/2018 22:55:33> Area 'Amakna (0)' update lagged (109ms) (msg:109ms, timers:0ms, timerProc:0/856)
+[Info] <03/13/2018 22:55:44> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:55:44> Area 'Île d'Otomaï (46)' started
+[Debug] <03/13/2018 22:55:44> Area 'Île d'Otomaï (46)' update lagged (165ms) (msg:1ms, timers:163ms, timerProc:778/404)
+[Debug] <03/13/2018 22:56:13> Area 'Île d'Otomaï (46)' update lagged (73ms) (msg:73ms, timers:0ms, timerProc:0/404)
+[Info] <03/13/2018 22:56:28> Saving world ...
+[Info] <03/13/2018 22:56:28> World server saved ! (69 ms)
+[Debug] <03/13/2018 22:56:28> TaskPool 'IO Task Pool' update lagged (104ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 22:56:36> Area 'Île d'Otomaï (46)' stopped
+[Info] <03/13/2018 22:56:36> Area 'Landes de Sidimote (12)' started
+[Debug] <03/13/2018 22:56:36> Area 'Île d'Otomaï (46)' update lagged (54ms) (msg:53ms, timers:0ms, timerProc:0/404)
+[Debug] <03/13/2018 22:56:36> Area 'Landes de Sidimote (12)' update lagged (140ms) (msg:2ms, timers:137ms, timerProc:917/892)
+[Info] <03/13/2018 22:56:48> Area 'Landes de Sidimote (12)' stopped
+[Info] <03/13/2018 22:56:48> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:56:48> Area 'Amakna (0)' update lagged (232ms) (msg:1ms, timers:230ms, timerProc:842/856)
+[Info] <03/13/2018 22:57:02> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:57:02> Area 'Donjon des Scarafeuilles (40)' started
+[Debug] <03/13/2018 22:57:18> Area 'Donjon des Scarafeuilles (40)' update lagged (53ms) (msg:53ms, timers:0ms, timerProc:0/9)
+[Debug] <03/13/2018 22:57:23> Area 'Donjon des Scarafeuilles (40)' update lagged (71ms) (msg:70ms, timers:0ms, timerProc:4/13)
+[Info] <03/13/2018 22:58:04> Area 'Donjon des Scarafeuilles (40)' stopped
+[Info] <03/13/2018 22:58:04> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:58:04> Area 'Donjon des Scarafeuilles (40)' update lagged (66ms) (msg:66ms, timers:0ms, timerProc:0/6)
+[Debug] <03/13/2018 22:58:04> Area 'Amakna (0)' update lagged (312ms) (msg:4ms, timers:308ms, timerProc:841/856)
+[Debug] <03/13/2018 22:58:08> Area 'Amakna (0)' update lagged (1434ms) (msg:1395ms, timers:39ms, timerProc:840/856)
+[Debug] <03/13/2018 22:58:17> Area 'Amakna (0)' update lagged (84ms) (msg:0ms, timers:84ms, timerProc:840/856)
+[Debug] <03/13/2018 22:58:20> Area 'Amakna (0)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:840/856)
+[Debug] <03/13/2018 22:58:23> Area 'Amakna (0)' update lagged (116ms) (msg:0ms, timers:115ms, timerProc:840/856)
+[Debug] <03/13/2018 22:58:26> Area 'Amakna (0)' update lagged (134ms) (msg:0ms, timers:133ms, timerProc:840/856)
+[Info] <03/13/2018 22:58:28> Saving world ...
+[Info] <03/13/2018 22:58:28> World server saved ! (111 ms)
+[Debug] <03/13/2018 22:58:28> TaskPool 'IO Task Pool' update lagged (512ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 22:58:29> Area 'Amakna (0)' update lagged (158ms) (msg:0ms, timers:158ms, timerProc:608/856)
+[Info] <03/13/2018 22:58:31> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:58:31> Area 'Brâkmar (11)' started
+[Debug] <03/13/2018 22:58:32> Area 'Amakna (0)' update lagged (136ms) (msg:136ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 22:58:32> Area 'Brâkmar (11)' update lagged (275ms) (msg:2ms, timers:272ms, timerProc:549/544)
+[Debug] <03/13/2018 22:58:35> Area 'Brâkmar (11)' update lagged (230ms) (msg:230ms, timers:0ms, timerProc:0/544)
+[Info] <03/13/2018 22:58:50> Area 'Brâkmar (11)' stopped
+[Debug] <03/13/2018 22:58:50> Area 'Brâkmar (11)' update lagged (83ms) (msg:63ms, timers:20ms, timerProc:154/543)
+[Debug] <03/13/2018 22:58:52> Area 'Bonta (7)' update lagged (133ms) (msg:131ms, timers:1ms, timerProc:26/297)
+[Info] <03/13/2018 22:59:06> Area 'Bonta (7)' stopped
+[Info] <03/13/2018 22:59:06> Area 'Amakna (0)' started
+[Debug] <03/13/2018 22:59:06> Area 'Bonta (7)' update lagged (107ms) (msg:107ms, timers:0ms, timerProc:0/297)
+[Debug] <03/13/2018 22:59:07> Area 'Amakna (0)' update lagged (719ms) (msg:4ms, timers:715ms, timerProc:840/856)
+[Debug] <03/13/2018 22:59:09> Area 'Amakna (0)' update lagged (299ms) (msg:296ms, timers:2ms, timerProc:0/856)
+[Info] <03/13/2018 22:59:24> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 22:59:24> Area 'Donjon des Dragoeufs (44)' started
+[Debug] <03/13/2018 22:59:24> Area 'Amakna (0)' update lagged (117ms) (msg:116ms, timers:0ms, timerProc:0/856)
+[Debug] <03/13/2018 22:59:26> Area 'Donjon des Dragoeufs (44)' update lagged (249ms) (msg:249ms, timers:0ms, timerProc:0/6)
+[Info] <03/13/2018 22:59:51> Area 'Donjon des Dragoeufs (44)' stopped
+[Info] <03/13/2018 22:59:51> Area 'Forêt des Abraknydes (6)' started
+[Debug] <03/13/2018 22:59:51> Area 'Donjon des Dragoeufs (44)' update lagged (106ms) (msg:106ms, timers:0ms, timerProc:0/6)
+[Debug] <03/13/2018 22:59:52> Area 'Forêt des Abraknydes (6)' update lagged (132ms) (msg:0ms, timers:131ms, timerProc:167/167)
+[Debug] <03/13/2018 22:59:56> Area 'Forêt des Abraknydes (6)' update lagged (245ms) (msg:245ms, timers:0ms, timerProc:0/167)
+[Info] <03/13/2018 23:00:10> Area 'Forêt des Abraknydes (6)' stopped
+[Info] <03/13/2018 23:00:10> Area 'Incarnam (45)' started
+[Debug] <03/13/2018 23:00:10> Area 'Forêt des Abraknydes (6)' update lagged (106ms) (msg:105ms, timers:0ms, timerProc:29/166)
+[Info] <03/13/2018 23:00:28> Saving world ...
+[Info] <03/13/2018 23:00:28> World server saved ! (67 ms)
+[Debug] <03/13/2018 23:00:28> TaskPool 'IO Task Pool' update lagged (197ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 23:01:03> Area 'Incarnam (45)' stopped
+[Info] <03/13/2018 23:01:03> Area 'Forêt des Abraknydes (6)' started
+[Debug] <03/13/2018 23:01:03> Area 'Incarnam (45)' update lagged (100ms) (msg:100ms, timers:0ms, timerProc:0/60)
+[Debug] <03/13/2018 23:01:03> Area 'Forêt des Abraknydes (6)' update lagged (109ms) (msg:0ms, timers:108ms, timerProc:164/167)
+[Debug] <03/13/2018 23:01:08> Area 'Forêt des Abraknydes (6)' update lagged (239ms) (msg:239ms, timers:0ms, timerProc:0/167)
+[Info] <03/13/2018 23:01:33> Area 'Forêt des Abraknydes (6)' stopped
+[Info] <03/13/2018 23:01:33> Area 'Caverne du Koulosse (34)' started
+[Debug] <03/13/2018 23:01:33> Area 'Forêt des Abraknydes (6)' update lagged (124ms) (msg:124ms, timers:0ms, timerProc:0/167)
+[Debug] <03/13/2018 23:01:36> Area 'Enutrosor (53)' update lagged (55ms) (msg:0ms, timers:55ms, timerProc:11/61)
+[Debug] <03/13/2018 23:01:37> Area 'Caverne du Koulosse (34)' update lagged (365ms) (msg:364ms, timers:0ms, timerProc:0/16)
+[Info] <03/13/2018 23:01:53> Area 'Caverne du Koulosse (34)' stopped
+[Info] <03/13/2018 23:01:53> Area 'Île d'Otomaï (46)' started
+[Debug] <03/13/2018 23:01:53> Area 'Caverne du Koulosse (34)' update lagged (198ms) (msg:198ms, timers:0ms, timerProc:0/16)
+[Debug] <03/13/2018 23:01:53> Area 'Île d'Otomaï (46)' update lagged (345ms) (msg:7ms, timers:338ms, timerProc:404/404)
+[Debug] <03/13/2018 23:01:56> Area 'Île d'Otomaï (46)' update lagged (218ms) (msg:210ms, timers:8ms, timerProc:145/404)
+[Info] <03/13/2018 23:02:28> Saving world ...
+[Info] <03/13/2018 23:02:29> World server saved ! (61 ms)
+[Debug] <03/13/2018 23:02:29> TaskPool 'IO Task Pool' update lagged (102ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:02:30> Area 'Île d'Otomaï (46)' update lagged (82ms) (msg:0ms, timers:82ms, timerProc:317/403)
+[Debug] <03/13/2018 23:02:30> Area 'Île d'Otomaï (46)' update lagged (214ms) (msg:214ms, timers:0ms, timerProc:0/403)
+[Debug] <03/13/2018 23:02:33> Area 'Île d'Otomaï (46)' update lagged (144ms) (msg:0ms, timers:143ms, timerProc:400/403)
+[Debug] <03/13/2018 23:02:51> Area 'Île d'Otomaï (46)' update lagged (96ms) (msg:0ms, timers:95ms, timerProc:400/403)
+[Info] <03/13/2018 23:02:51> Area 'Île d'Otomaï (46)' stopped
+[Info] <03/13/2018 23:02:51> Area 'Astrub (18)' started
+[Debug] <03/13/2018 23:02:51> Area 'Île d'Otomaï (46)' update lagged (68ms) (msg:67ms, timers:0ms, timerProc:0/403)
+[Debug] <03/13/2018 23:02:52> Area 'Astrub (18)' update lagged (203ms) (msg:1ms, timers:202ms, timerProc:283/283)
+[Debug] <03/13/2018 23:02:54> Area 'Astrub (18)' update lagged (100ms) (msg:99ms, timers:0ms, timerProc:0/283)
+[Info] <03/13/2018 23:03:11> Area 'Astrub (18)' stopped
+[Info] <03/13/2018 23:03:11> Area 'Donjon du Dragon Cochon (43)' started
+[Debug] <03/13/2018 23:03:13> Area 'Donjon du Dragon Cochon (43)' update lagged (194ms) (msg:194ms, timers:0ms, timerProc:0/7)
+[Info] <03/13/2018 23:03:23> Area 'Donjon du Dragon Cochon (43)' stopped
+[Info] <03/13/2018 23:03:23> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 23:03:24> Area 'Île de Frigost (48)' update lagged (316ms) (msg:1ms, timers:315ms, timerProc:1010/1010)
+[Debug] <03/13/2018 23:03:25> Area 'Île de Frigost (48)' update lagged (216ms) (msg:216ms, timers:0ms, timerProc:0/1010)
+[Debug] <03/13/2018 23:03:37> Area 'Île de Frigost (48)' update lagged (98ms) (msg:98ms, timers:0ms, timerProc:0/1009)
+[Debug] <03/13/2018 23:03:48> Area 'Île de Frigost (48)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:388/1009)
+[Debug] <03/13/2018 23:03:52> Area 'Île de Frigost (48)' update lagged (223ms) (msg:224ms, timers:0ms, timerProc:0/1008)
+[Debug] <03/13/2018 23:03:54> Area 'Île de Frigost (48)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:298/1008)
+[Debug] <03/13/2018 23:04:00> Area 'Île de Frigost (48)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:459/1008)
+[Debug] <03/13/2018 23:04:05> Area 'Île de Frigost (48)' update lagged (82ms) (msg:82ms, timers:0ms, timerProc:0/1007)
+[Debug] <03/13/2018 23:04:21> Area 'Île de Frigost (48)' update lagged (85ms) (msg:85ms, timers:0ms, timerProc:0/1007)
+[Debug] <03/13/2018 23:04:21> Area 'Île de Frigost (48)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:632/1006)
+[Debug] <03/13/2018 23:04:24> Area 'Île de Frigost (48)' update lagged (62ms) (msg:0ms, timers:62ms, timerProc:632/1006)
+[Debug] <03/13/2018 23:04:24> Area 'Île de Frigost (48)' update lagged (51ms) (msg:0ms, timers:50ms, timerProc:341/1006)
+[Debug] <03/13/2018 23:04:27> Area 'Île de Frigost (48)' update lagged (93ms) (msg:0ms, timers:93ms, timerProc:632/1006)
+[Info] <03/13/2018 23:04:29> Saving world ...
+[Info] <03/13/2018 23:04:29> World server saved ! (32 ms)
+[Debug] <03/13/2018 23:04:29> TaskPool 'IO Task Pool' update lagged (66ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:04:30> Area 'Île de Frigost (48)' update lagged (89ms) (msg:0ms, timers:89ms, timerProc:691/1006)
+[Debug] <03/13/2018 23:04:33> Area 'Île de Frigost (48)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:559/1006)
+[Debug] <03/13/2018 23:04:36> Area 'Île de Frigost (48)' update lagged (51ms) (msg:0ms, timers:51ms, timerProc:559/1006)
+[Debug] <03/13/2018 23:04:45> Area 'Île de Frigost (48)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:559/1006)
+[Debug] <03/13/2018 23:04:51> Area 'Île de Frigost (48)' update lagged (120ms) (msg:0ms, timers:120ms, timerProc:739/1006)
+[Debug] <03/13/2018 23:04:54> Area 'Île de Frigost (48)' update lagged (78ms) (msg:0ms, timers:78ms, timerProc:739/1006)
+[Debug] <03/13/2018 23:04:57> Area 'Île de Frigost (48)' update lagged (71ms) (msg:0ms, timers:71ms, timerProc:739/1006)
+[Debug] <03/13/2018 23:05:03> Area 'Île de Frigost (48)' update lagged (210ms) (msg:210ms, timers:0ms, timerProc:0/1006)
+[Debug] <03/13/2018 23:05:04> Area 'Île de Frigost (48)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:738/1005)
+[Debug] <03/13/2018 23:05:07> Area 'Île de Frigost (48)' update lagged (106ms) (msg:0ms, timers:105ms, timerProc:260/1005)
+[Debug] <03/13/2018 23:05:13> Area 'Île de Frigost (48)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:737/1004)
+[Debug] <03/13/2018 23:05:14> Area 'Île de Frigost (48)' update lagged (64ms) (msg:64ms, timers:0ms, timerProc:0/1004)
+[Debug] <03/13/2018 23:05:22> Area 'Île de Frigost (48)' update lagged (79ms) (msg:0ms, timers:79ms, timerProc:737/1004)
+[Debug] <03/13/2018 23:05:28> Area 'Île de Frigost (48)' update lagged (62ms) (msg:0ms, timers:62ms, timerProc:737/1004)
+[Debug] <03/13/2018 23:05:32> Area 'Île de Frigost (48)' update lagged (176ms) (msg:176ms, timers:0ms, timerProc:0/1003)
+[Debug] <03/13/2018 23:05:50> Area 'Île de Frigost (48)' update lagged (177ms) (msg:176ms, timers:0ms, timerProc:0/1002)
+[Debug] <03/13/2018 23:05:55> Area 'Île de Frigost (48)' update lagged (180ms) (msg:0ms, timers:180ms, timerProc:992/1002)
+[Debug] <03/13/2018 23:05:58> Area 'Île de Frigost (48)' update lagged (86ms) (msg:0ms, timers:86ms, timerProc:397/1002)
+[Debug] <03/13/2018 23:06:04> Area 'Île de Frigost (48)' update lagged (70ms) (msg:0ms, timers:70ms, timerProc:598/1002)
+[Debug] <03/13/2018 23:06:07> Area 'Île de Frigost (48)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:598/1002)
+[Debug] <03/13/2018 23:06:13> Area 'Île de Frigost (48)' update lagged (57ms) (msg:0ms, timers:56ms, timerProc:566/1002)
+[Debug] <03/13/2018 23:06:19> Area 'Île de Frigost (48)' update lagged (150ms) (msg:0ms, timers:149ms, timerProc:900/1002)
+[Debug] <03/13/2018 23:06:26> Area 'Île de Frigost (48)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:866/1002)
+[Info] <03/13/2018 23:06:29> Saving world ...
+[Info] <03/13/2018 23:06:29> World server saved ! (71 ms)
+[Debug] <03/13/2018 23:06:29> TaskPool 'IO Task Pool' update lagged (100ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:06:35> Area 'Île de Frigost (48)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:06:41> Area 'Île de Frigost (48)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:06:47> Area 'Île de Frigost (48)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:06:50> Area 'Île de Frigost (48)' update lagged (71ms) (msg:0ms, timers:71ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:06:53> Area 'Île de Frigost (48)' update lagged (148ms) (msg:0ms, timers:148ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:06:59> Area 'Île de Frigost (48)' update lagged (111ms) (msg:0ms, timers:111ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:07:05> Area 'Île de Frigost (48)' update lagged (123ms) (msg:0ms, timers:123ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:07:08> Area 'Île de Frigost (48)' update lagged (162ms) (msg:0ms, timers:162ms, timerProc:860/1002)
+[Debug] <03/13/2018 23:07:17> Area 'Île de Frigost (48)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:555/1002)
+[Debug] <03/13/2018 23:07:29> Area 'Île de Frigost (48)' update lagged (166ms) (msg:0ms, timers:166ms, timerProc:803/1002)
+[Debug] <03/13/2018 23:07:50> Area 'Île de Frigost (48)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:585/1002)
+[Debug] <03/13/2018 23:07:57> Area 'Île de Frigost (48)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:585/1002)
+[Debug] <03/13/2018 23:08:03> Area 'Île de Frigost (48)' update lagged (57ms) (msg:0ms, timers:57ms, timerProc:585/1002)
+[Debug] <03/13/2018 23:08:06> Area 'Île de Frigost (48)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:585/1002)
+[Debug] <03/13/2018 23:08:12> Area 'Île de Frigost (48)' update lagged (66ms) (msg:0ms, timers:66ms, timerProc:585/1002)
+[Info] <03/13/2018 23:08:29> Saving world ...
+[Info] <03/13/2018 23:08:29> World server saved ! (51 ms)
+[Debug] <03/13/2018 23:08:29> TaskPool 'IO Task Pool' update lagged (82ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:08:36> Area 'Île de Frigost (48)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:18> Area 'Île de Frigost (48)' update lagged (53ms) (msg:0ms, timers:53ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:21> Area 'Île de Frigost (48)' update lagged (64ms) (msg:0ms, timers:64ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:24> Area 'Île de Frigost (48)' update lagged (71ms) (msg:0ms, timers:71ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:28> Area 'Île de Frigost (48)' update lagged (61ms) (msg:0ms, timers:60ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:31> Area 'Île de Frigost (48)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:09:52> Area 'Île de Frigost (48)' update lagged (78ms) (msg:0ms, timers:78ms, timerProc:750/1002)
+[Debug] <03/13/2018 23:10:04> Area 'Île de Frigost (48)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:750/1002)
+[Info] <03/13/2018 23:10:29> Saving world ...
+[Info] <03/13/2018 23:10:29> World server saved ! (53 ms)
+[Debug] <03/13/2018 23:10:29> TaskPool 'IO Task Pool' update lagged (85ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:10:34> Area 'Île de Frigost (48)' update lagged (84ms) (msg:0ms, timers:84ms, timerProc:721/1002)
+[Debug] <03/13/2018 23:12:15> Area 'Île de Frigost (48)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:497/1002)
+[Info] <03/13/2018 23:12:29> Saving world ...
+[Info] <03/13/2018 23:12:29> World server saved ! (35 ms)
+[Debug] <03/13/2018 23:12:29> TaskPool 'IO Task Pool' update lagged (59ms) (msg:0, timers:1/4)
+[Info] <03/13/2018 23:14:29> Saving world ...
+[Info] <03/13/2018 23:14:29> World server saved ! (37 ms)
+[Debug] <03/13/2018 23:14:29> TaskPool 'IO Task Pool' update lagged (62ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:14:52> Area 'Île de Frigost (48)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:497/1002)
+[Debug] <03/13/2018 23:15:35> Area 'Île de Frigost (48)' update lagged (98ms) (msg:0ms, timers:98ms, timerProc:588/1002)
+[Info] <03/13/2018 23:16:29> Saving world ...
+[Info] <03/13/2018 23:16:29> World server saved ! (36 ms)
+[Debug] <03/13/2018 23:16:29> TaskPool 'IO Task Pool' update lagged (64ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:17:48> Area 'Île de Frigost (48)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:17:51> Area 'Île de Frigost (48)' update lagged (73ms) (msg:0ms, timers:73ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:17:54> Area 'Île de Frigost (48)' update lagged (120ms) (msg:0ms, timers:120ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:17:57> Area 'Île de Frigost (48)' update lagged (80ms) (msg:0ms, timers:79ms, timerProc:204/1002)
+[Debug] <03/13/2018 23:17:57> Area 'Île de Frigost (48)' update lagged (85ms) (msg:0ms, timers:83ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:03> Area 'Île de Frigost (48)' update lagged (68ms) (msg:0ms, timers:68ms, timerProc:286/1002)
+[Debug] <03/13/2018 23:18:03> Area 'Île de Frigost (48)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:06> Area 'Île de Frigost (48)' update lagged (125ms) (msg:0ms, timers:125ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:10> Area 'Île de Frigost (48)' update lagged (179ms) (msg:0ms, timers:179ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:16> Area 'Île de Frigost (48)' update lagged (104ms) (msg:0ms, timers:104ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:18> Area 'Île de Frigost (48)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:286/1002)
+[Debug] <03/13/2018 23:18:19> Area 'Île de Frigost (48)' update lagged (176ms) (msg:0ms, timers:175ms, timerProc:546/1002)
+[Debug] <03/13/2018 23:18:21> Area 'Île de Frigost (48)' update lagged (60ms) (msg:0ms, timers:59ms, timerProc:286/1002)
+[Info] <03/13/2018 23:18:29> Saving world ...
+[Info] <03/13/2018 23:18:29> World server saved ! (79 ms)
+[Debug] <03/13/2018 23:18:29> TaskPool 'IO Task Pool' update lagged (135ms) (msg:0, timers:2/4)
+[Debug] <03/13/2018 23:19:09> Area 'Île de Frigost (48)' update lagged (206ms) (msg:202ms, timers:3ms, timerProc:90/1001)
+[Info] <03/13/2018 23:19:21> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 23:19:21> Area 'Île de Sakaï (49)' started
+[Debug] <03/13/2018 23:19:21> Area 'Île de Frigost (48)' update lagged (74ms) (msg:73ms, timers:0ms, timerProc:16/1001)
+[Info] <03/13/2018 23:19:34> Area 'Île de Sakaï (49)' stopped
+[Info] <03/13/2018 23:19:34> Area 'Île de Frigost (48)' started
+[Debug] <03/13/2018 23:19:34> Area 'Île de Sakaï (49)' update lagged (126ms) (msg:126ms, timers:0ms, timerProc:0/46)
+[Debug] <03/13/2018 23:19:34> Area 'Île de Frigost (48)' update lagged (130ms) (msg:3ms, timers:127ms, timerProc:994/1001)
+[Debug] <03/13/2018 23:19:37> Area 'Île de Frigost (48)' update lagged (75ms) (msg:0ms, timers:74ms, timerProc:910/1001)
+[Debug] <03/13/2018 23:19:40> Area 'Île de Frigost (48)' update lagged (122ms) (msg:0ms, timers:122ms, timerProc:993/1001)
+[Debug] <03/13/2018 23:19:49> Area 'Île de Frigost (48)' update lagged (81ms) (msg:0ms, timers:81ms, timerProc:993/1001)
+[Debug] <03/13/2018 23:20:01> Area 'Île de Frigost (48)' update lagged (132ms) (msg:0ms, timers:132ms, timerProc:992/1004)
+[Debug] <03/13/2018 23:20:06> Area 'Île de Frigost (48)' update lagged (51ms) (msg:51ms, timers:0ms, timerProc:0/1005)
+[Debug] <03/13/2018 23:20:07> Area 'Île de Frigost (48)' update lagged (132ms) (msg:39ms, timers:92ms, timerProc:962/1005)
+[Debug] <03/13/2018 23:20:10> Area 'Île de Frigost (48)' update lagged (105ms) (msg:0ms, timers:105ms, timerProc:942/1005)
+[Debug] <03/13/2018 23:20:14> Area 'Île de Frigost (48)' update lagged (144ms) (msg:0ms, timers:144ms, timerProc:942/1005)
+[Debug] <03/13/2018 23:20:17> Area 'Île de Frigost (48)' update lagged (155ms) (msg:0ms, timers:155ms, timerProc:941/1006)
+[Debug] <03/13/2018 23:20:26> Area 'Île de Frigost (48)' update lagged (58ms) (msg:0ms, timers:58ms, timerProc:790/1008)
+[Info] <03/13/2018 23:20:29> Saving world ...
+[Info] <03/13/2018 23:20:30> World server saved ! (76 ms)
+[Debug] <03/13/2018 23:20:30> TaskPool 'IO Task Pool' update lagged (116ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:20:37> Area 'Île de Frigost (48)' update lagged (55ms) (msg:55ms, timers:0ms, timerProc:0/1008)
+[Debug] <03/13/2018 23:20:41> Area 'Île de Frigost (48)' update lagged (99ms) (msg:99ms, timers:0ms, timerProc:0/1010)
+[Debug] <03/13/2018 23:20:44> Area 'Île de Frigost (48)' update lagged (55ms) (msg:0ms, timers:54ms, timerProc:687/1009)
+[Debug] <03/13/2018 23:20:52> Received Unknown packet : DareRewardConsumeRequestMessage
+[Debug] <03/13/2018 23:21:05> Area 'Île de Frigost (48)' update lagged (53ms) (msg:52ms, timers:0ms, timerProc:0/1003)
+[Debug] <03/13/2018 23:21:08> Area 'Île de Frigost (48)' update lagged (52ms) (msg:0ms, timers:52ms, timerProc:625/1001)
+[Debug] <03/13/2018 23:21:14> Area 'Île de Frigost (48)' update lagged (61ms) (msg:50ms, timers:10ms, timerProc:66/1004)
+[Debug] <03/13/2018 23:21:29> Area 'Île de Frigost (48)' update lagged (61ms) (msg:60ms, timers:0ms, timerProc:0/1006)
+[Debug] <03/13/2018 23:21:32> Area 'Île de Frigost (48)' update lagged (78ms) (msg:78ms, timers:0ms, timerProc:0/1007)
+[Debug] <03/13/2018 23:21:32> Area 'Île de Frigost (48)' update lagged (74ms) (msg:0ms, timers:74ms, timerProc:612/1007)
+[Debug] <03/13/2018 23:21:40> Received Unknown packet : DareRewardConsumeRequestMessage
+[Debug] <03/13/2018 23:21:44> Area 'Île de Frigost (48)' update lagged (63ms) (msg:0ms, timers:63ms, timerProc:231/1002)
+[Debug] <03/13/2018 23:22:17> Area 'Île de Frigost (48)' update lagged (57ms) (msg:57ms, timers:0ms, timerProc:0/1001)
+[Debug] <03/13/2018 23:22:18> Area 'Île de Frigost (48)' update lagged (54ms) (msg:0ms, timers:54ms, timerProc:569/1001)
+[Info] <03/13/2018 23:22:30> Saving world ...
+[Info] <03/13/2018 23:22:30> World server saved ! (101 ms)
+[Debug] <03/13/2018 23:22:30> Area 'Île de Frigost (48)' update lagged (60ms) (msg:0ms, timers:60ms, timerProc:569/1000)
+[Debug] <03/13/2018 23:22:30> TaskPool 'IO Task Pool' update lagged (129ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:22:30> Area 'Île de Frigost (48)' update lagged (57ms) (msg:53ms, timers:3ms, timerProc:51/1002)
+[Debug] <03/13/2018 23:22:33> Area 'Île de Frigost (48)' update lagged (68ms) (msg:0ms, timers:67ms, timerProc:569/1004)
+[Debug] <03/13/2018 23:22:39> Area 'Île de Frigost (48)' update lagged (52ms) (msg:52ms, timers:0ms, timerProc:0/1005)
+[Debug] <03/13/2018 23:22:48> Area 'Île de Frigost (48)' update lagged (63ms) (msg:57ms, timers:6ms, timerProc:41/1004)
+[Debug] <03/13/2018 23:23:03> Area 'Île de Frigost (48)' update lagged (90ms) (msg:90ms, timers:0ms, timerProc:0/1001)
+[Debug] <03/13/2018 23:23:09> Area 'Île de Frigost (48)' update lagged (66ms) (msg:39ms, timers:27ms, timerProc:373/999)
+[Debug] <03/13/2018 23:23:12> Area 'Île de Frigost (48)' update lagged (75ms) (msg:0ms, timers:75ms, timerProc:569/999)
+[Debug] <03/13/2018 23:23:14> Area 'Île de Frigost (48)' update lagged (97ms) (msg:96ms, timers:0ms, timerProc:0/999)
+[Debug] <03/13/2018 23:23:15> Area 'Île de Frigost (48)' update lagged (98ms) (msg:43ms, timers:55ms, timerProc:569/999)
+[Debug] <03/13/2018 23:23:21> Area 'Île de Frigost (48)' update lagged (152ms) (msg:152ms, timers:0ms, timerProc:0/999)
+[Debug] <03/13/2018 23:23:24> Area 'Île de Frigost (48)' update lagged (55ms) (msg:54ms, timers:0ms, timerProc:0/1000)
+[Debug] <03/13/2018 23:23:28> Area 'Île de Frigost (48)' update lagged (68ms) (msg:0ms, timers:67ms, timerProc:373/1003)
+[Debug] <03/13/2018 23:23:28> Area 'Île de Frigost (48)' update lagged (89ms) (msg:89ms, timers:0ms, timerProc:0/1004)
+[Debug] <03/13/2018 23:23:43> Area 'Île de Frigost (48)' update lagged (56ms) (msg:0ms, timers:56ms, timerProc:372/997)
+[Info] <03/13/2018 23:23:56> Area 'Île de Frigost (48)' stopped
+[Info] <03/13/2018 23:23:56> Area 'Amakna (0)' started
+[Debug] <03/13/2018 23:23:56> Area 'Île de Frigost (48)' update lagged (64ms) (msg:64ms, timers:0ms, timerProc:0/993)
+[Debug] <03/13/2018 23:23:57> Area 'Amakna (0)' update lagged (265ms) (msg:5ms, timers:259ms, timerProc:856/856)
+[Debug] <03/13/2018 23:24:17> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 23:24:27> Area 'Amakna (0)' stopped
+[Info] <03/13/2018 23:24:27> Area 'Bonta (7)' started
+[Debug] <03/13/2018 23:24:27> Area 'Amakna (0)' update lagged (1063ms) (msg:1018ms, timers:44ms, timerProc:838/856)
+[Debug] <03/13/2018 23:24:27> Area 'Bonta (7)' update lagged (143ms) (msg:1ms, timers:141ms, timerProc:297/297)
+[Debug] <03/13/2018 23:24:28> Received Unknown packet : PrismsListRegisterMessage
+[Info] <03/13/2018 23:24:30> Saving world ...
+[Info] <03/13/2018 23:24:30> World server saved ! (88 ms)
+[Debug] <03/13/2018 23:24:30> TaskPool 'IO Task Pool' update lagged (114ms) (msg:0, timers:1/4)
+[Debug] <03/13/2018 23:25:04> Area 'Bonta (7)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:272/297)
+[Info] <03/13/2018 23:25:05> Area 'Bonta (7)' stopped
+[Debug] <03/13/2018 23:25:05> TaskPool 'IO Task Pool' update lagged (68ms) (msg:1, timers:0/4)
+[Debug] <03/13/2018 23:25:05> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__644_0
+[Warn] <03/13/2018 23:25:19> 1 disconnected characters removed from Enutrosor (53)
+[Warn] <03/13/2018 23:25:34> 1 disconnected characters removed from Donjon des Tofus (29)

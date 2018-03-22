@@ -1,0 +1,218 @@
+[Warn] <04/12/2017 07:16:32> Exceptions not handled cause Debugger is attatched
+[Info] <04/12/2017 07:16:36> Initializing Configuration...
+[Info] <04/12/2017 07:16:37> Initialize Task Pool
+[Info] <04/12/2017 07:16:37> Register Plugins...
+[Info] <04/12/2017 07:16:43> Loading Plugins...
+[Info] <04/12/2017 07:16:43> Initializing Database...
+[Info] <04/12/2017 07:16:43> Opening Database...
+[Info] <04/12/2017 07:16:44> Register Messages...
+[Info] <04/12/2017 07:16:44> Register Packet Handlers...
+[Info] <04/12/2017 07:16:44> Register Commands...
+[Info] <04/12/2017 07:16:45> Initialize 'AutoAnnounceManager'
+[Info] <04/12/2017 07:16:45> Initialize 'ApproachHandler'
+[Info] <04/12/2017 07:16:45> Initialize 'ChatManager'
+[Info] <04/12/2017 07:16:45> Register id providers
+[Info] <04/12/2017 07:16:45> Initialize 'TextManager'
+[Info] <04/12/2017 07:16:46> Initialize DataManagers
+[Info] <04/12/2017 07:16:46> Initialize 'BreedManager'
+[Info] <04/12/2017 07:16:46> Initialize 'EffectManager'
+[Info] <04/12/2017 07:16:46> Initialize 'SpellManager'
+[Info] <04/12/2017 07:16:47> Initialize 'CellTriggerManager'
+[Info] <04/12/2017 07:16:47> Initialize 'ItemManager'
+[Info] <04/12/2017 07:16:49> Initialize 'PetManager'
+[Info] <04/12/2017 07:16:49> Initialize 'TeleportPotionManager'
+[Info] <04/12/2017 07:16:49> Initialize 'BidHouseManager'
+[Info] <04/12/2017 07:16:49> Initialize 'RuneManager'
+[Info] <04/12/2017 07:16:49> Initialize 'InteractiveManager'
+[Warn] <04/12/2017 07:37:45> Exceptions not handled cause Debugger is attatched
+[Info] <04/12/2017 07:37:50> Initializing Configuration...
+[Info] <04/12/2017 07:37:51> Initialize Task Pool
+[Info] <04/12/2017 07:37:51> Register Plugins...
+[Info] <04/12/2017 07:37:59> Loading Plugins...
+[Info] <04/12/2017 07:37:59> Initializing Database...
+[Info] <04/12/2017 07:37:59> Opening Database...
+[Info] <04/12/2017 07:38:00> Register Messages...
+[Info] <04/12/2017 07:38:00> Register Packet Handlers...
+[Info] <04/12/2017 07:38:00> Register Commands...
+[Info] <04/12/2017 07:38:00> Initialize 'AutoAnnounceManager'
+[Info] <04/12/2017 07:38:00> Initialize 'ApproachHandler'
+[Info] <04/12/2017 07:38:00> Initialize 'ChatManager'
+[Info] <04/12/2017 07:38:00> Register id providers
+[Info] <04/12/2017 07:38:00> Initialize 'TextManager'
+[Info] <04/12/2017 07:38:02> Initialize DataManagers
+[Info] <04/12/2017 07:38:02> Initialize 'BreedManager'
+[Info] <04/12/2017 07:38:02> Initialize 'EffectManager'
+[Info] <04/12/2017 07:38:02> Initialize 'SpellManager'
+[Info] <04/12/2017 07:38:03> Initialize 'CellTriggerManager'
+[Info] <04/12/2017 07:38:03> Initialize 'ItemManager'
+[Info] <04/12/2017 07:38:05> Initialize 'PetManager'
+[Info] <04/12/2017 07:38:05> Initialize 'TeleportPotionManager'
+[Info] <04/12/2017 07:38:05> Initialize 'BidHouseManager'
+[Info] <04/12/2017 07:38:05> Initialize 'RuneManager'
+[Info] <04/12/2017 07:38:05> Initialize 'InteractiveManager'
+[Warn] <04/12/2017 07:43:43> Exceptions not handled cause Debugger is attatched
+[Info] <04/12/2017 07:43:46> Initializing Configuration...
+[Info] <04/12/2017 07:43:47> Initialize Task Pool
+[Info] <04/12/2017 07:43:47> Register Plugins...
+[Info] <04/12/2017 07:43:54> Loading Plugins...
+[Info] <04/12/2017 07:43:54> Initializing Database...
+[Info] <04/12/2017 07:43:54> Opening Database...
+[Info] <04/12/2017 07:43:56> Register Messages...
+[Info] <04/12/2017 07:43:56> Register Packet Handlers...
+[Info] <04/12/2017 07:43:56> Register Commands...
+[Info] <04/12/2017 07:43:56> Initialize 'AutoAnnounceManager'
+[Info] <04/12/2017 07:43:56> Initialize 'ApproachHandler'
+[Info] <04/12/2017 07:43:56> Initialize 'ChatManager'
+[Info] <04/12/2017 07:43:56> Register id providers
+[Info] <04/12/2017 07:43:56> Initialize 'TextManager'
+[Info] <04/12/2017 07:43:57> Initialize DataManagers
+[Info] <04/12/2017 07:43:57> Initialize 'BreedManager'
+[Info] <04/12/2017 07:43:57> Initialize 'EffectManager'
+[Info] <04/12/2017 07:43:57> Initialize 'SpellManager'
+[Info] <04/12/2017 07:43:58> Initialize 'CellTriggerManager'
+[Info] <04/12/2017 07:43:58> Initialize 'ItemManager'
+[Info] <04/12/2017 07:44:00> Initialize 'PetManager'
+[Info] <04/12/2017 07:44:00> Initialize 'TeleportPotionManager'
+[Info] <04/12/2017 07:44:00> Initialize 'BidHouseManager'
+[Info] <04/12/2017 07:44:00> Initialize 'RuneManager'
+[Info] <04/12/2017 07:44:00> Initialize 'InteractiveManager'
+[Info] <04/12/2017 07:45:38> Initialize 'IdolManager'
+[Info] <04/12/2017 07:45:38> Initialize 'ChallengeManager'
+[Info] <04/12/2017 07:45:38> Initialize 'ExperienceManager'
+[Info] <04/12/2017 07:45:38> Initialize 'TinselManager'
+[Info] <04/12/2017 07:45:38> Initialize 'BrainManager'
+[Info] <04/12/2017 07:45:38> Initialize 'MongoLogger'
+[Info] <04/12/2017 07:45:38> Initialize 'JobManager'
+[Info] <04/12/2017 07:45:39> Initialize 'RuneManager'
+[Info] <04/12/2017 07:45:39> Initialize 'ArenaManager'
+[Info] <04/12/2017 07:45:39> Initialize 'NpcManager'
+[Info] <04/12/2017 07:45:39> Initialize 'GuildManager'
+[Info] <04/12/2017 07:45:40> Initialize 'MountManager'
+[Info] <04/12/2017 07:45:40> Initialize 'MonsterManager'
+[Info] <04/12/2017 07:45:42> Initialize 'MerchantManager'
+[Info] <04/12/2017 07:45:42> Initialize 'World'
+[Info] <04/12/2017 07:45:42> Load maps...
+[Info] <04/12/2017 07:45:54> Load maps scrolls...
+[Info] <04/12/2017 07:45:54> Load sub areas...
+[Info] <04/12/2017 07:45:54> Load areas...
+[Info] <04/12/2017 07:45:54> Load super areas...
+[Info] <04/12/2017 07:45:54> Spawn npcs ...
+[Info] <04/12/2017 07:45:54> Spawn interactives ...
+[Info] <04/12/2017 07:45:54> Spawn cell triggers ...
+[Info] <04/12/2017 07:45:54> Spawn monsters ...
+[Info] <04/12/2017 07:46:00> Spawn merchants ...
+[Info] <04/12/2017 07:46:00> Initialize 'AchievementManager'
+[Info] <04/12/2017 07:46:00> Initialize 'PaddockManager'
+[Info] <04/12/2017 07:46:00> Initialize 'TaxCollectorManager'
+[Info] <04/12/2017 07:46:00> Synchronize id providers
+[Info] <04/12/2017 07:46:00> Initialize 'QuestManager'
+[Info] <04/12/2017 07:46:01> Initialize 'WebServer'
+[Info] <04/12/2017 07:46:01> Start Auto-Save Cyclic Task
+[Info] <04/12/2017 07:46:01> Starting Console Handler Interface...
+[Info] <04/12/2017 07:46:01> Starting IPC Communications ...
+[Info] <04/12/2017 07:46:01> Start listening on port : 3467...
+[Debug] <04/12/2017 07:46:06> TaskPool 'IO Task Pool' update lagged (70ms) (msg:0, timers:1/5)
+[Info] <04/12/2017 07:46:11> Attempt connection
+[Info] <04/12/2017 07:46:11> IPC connection etablished
+[Debug] <04/12/2017 07:46:12> TaskPool 'IPCAccessor Task Pool' update lagged (1035ms) (msg:0, timers:1/3)
+[Info] <04/12/2017 07:46:12> Access to auth. server granted
+[Debug] <04/12/2017 07:46:13> TaskPool 'IPCAccessor Task Pool' update lagged (338ms) (msg:1, timers:0/3)
+[Debug] <04/12/2017 07:46:14> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <04/12/2017 07:46:14> TaskPool 'IO Task Pool' update lagged (1181ms) (msg:1, timers:0/5)
+[Debug] <04/12/2017 07:46:14> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Info] <04/12/2017 07:49:01> Saving world ...
+[Info] <04/12/2017 07:49:01> World server saved ! (178 ms)
+[Debug] <04/12/2017 07:49:01> TaskPool 'IO Task Pool' update lagged (198ms) (msg:0, timers:2/5)
+[Debug] <04/12/2017 07:50:12> Client request ticket GOQDIROKKQQKNJVGWFMIIOQGNTLSEJEZ
+[Debug] <04/12/2017 07:50:12> TaskPool 'IO Task Pool' update lagged (99ms) (msg:1, timers:0/5)
+[Debug] <04/12/2017 07:50:12> AuthenticationTicketMessage
+[Debug] <04/12/2017 07:50:13> TaskPool 'IO Task Pool' update lagged (188ms) (msg:1, timers:0/5)
+[Debug] <04/12/2017 07:50:13> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <04/12/2017 07:50:13> TaskPool 'IO Task Pool' update lagged (118ms) (msg:1, timers:0/5)
+[Debug] <04/12/2017 07:50:13> CharactersListRequestMessage
+[Debug] <04/12/2017 07:51:25> TaskPool 'IO Task Pool' update lagged (1195ms) (msg:1, timers:0/5)
+[Debug] <04/12/2017 07:51:25> CharacterSelectionMessage
+[Info] <04/12/2017 07:51:27> Area 'Île de Sakaï (49)' started
+[Debug] <04/12/2017 07:51:27> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <04/12/2017 07:51:27> Area 'Île de Sakaï (49)' update lagged (59ms) (msg:12ms, timers:47ms, timerProc:55/50)
+[Debug] <04/12/2017 07:51:28> Received Unknown packet : ClientKeyMessage
+[Debug] <04/12/2017 07:51:28> Area 'Île de Sakaï (49)' update lagged (92ms) (msg:92ms, timers:0ms, timerProc:0/50)
+[Debug] <04/12/2017 07:51:37> Received Unknown packet : SequenceNumberMessage
+[Debug] <04/12/2017 07:51:49> Area 'Île de Sakaï (49)' update lagged (54ms) (msg:54ms, timers:0ms, timerProc:0/50)
+[Debug] <04/12/2017 07:51:49> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <04/12/2017 07:52:01> Saving world ...
+[Info] <04/12/2017 07:52:01> World server saved ! (133 ms)
+[Debug] <04/12/2017 07:52:01> TaskPool 'IO Task Pool' update lagged (136ms) (msg:0, timers:2/5)
+[Info] <04/12/2017 07:53:21> Area 'Île de Sakaï (49)' stopped
+[Info] <04/12/2017 07:53:21> Area 'Saharach (61)' started
+[Info] <04/12/2017 07:55:01> Saving world ...
+[Info] <04/12/2017 07:55:01> World server saved ! (19 ms)
+[Debug] <04/12/2017 07:56:17> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 07:58:01> Saving world ...
+[Info] <04/12/2017 07:58:01> World server saved ! (21 ms)
+[Info] <04/12/2017 08:01:01> Saving world ...
+[Info] <04/12/2017 08:01:01> World server saved ! (12 ms)
+[Debug] <04/12/2017 08:01:03> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 08:04:01> Saving world ...
+[Info] <04/12/2017 08:04:01> World server saved ! (10 ms)
+[Debug] <04/12/2017 08:06:03> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 08:07:01> Saving world ...
+[Info] <04/12/2017 08:07:01> World server saved ! (11 ms)
+[Info] <04/12/2017 08:10:02> Saving world ...
+[Info] <04/12/2017 08:10:02> World server saved ! (15 ms)
+[Debug] <04/12/2017 08:16:29> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 08:16:29> Saving world ...
+[Info] <04/12/2017 08:16:29> World server saved ! (23 ms)
+[Debug] <04/12/2017 08:16:39> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 08:19:29> Saving world ...
+[Info] <04/12/2017 08:19:29> World server saved ! (14 ms)
+[Info] <04/12/2017 08:22:29> Saving world ...
+[Info] <04/12/2017 08:22:29> World server saved ! (13 ms)
+[Info] <04/12/2017 08:25:29> Saving world ...
+[Info] <04/12/2017 08:25:29> World server saved ! (31 ms)
+[Debug] <04/12/2017 08:25:42> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <04/12/2017 08:26:35> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <04/12/2017 08:28:29> Saving world ...
+[Info] <04/12/2017 08:28:29> World server saved ! (13 ms)
+[Info] <04/12/2017 08:31:29> Saving world ...
+[Info] <04/12/2017 08:31:29> World server saved ! (24 ms)
+[Debug] <04/12/2017 08:31:33> Received Unknown packet : NotificationUpdateFlagMessage
+[Warn] <04/12/2017 08:59:55> Exceptions not handled cause Debugger is attatched
+[Info] <04/12/2017 09:00:00> Initializing Configuration...
+[Info] <04/12/2017 09:00:01> Initialize Task Pool
+[Info] <04/12/2017 09:00:01> Register Plugins...
+[Info] <04/12/2017 09:00:10> Loading Plugins...
+[Info] <04/12/2017 09:00:10> Initializing Database...
+[Info] <04/12/2017 09:00:10> Opening Database...
+[Info] <04/12/2017 09:00:10> Register Messages...
+[Info] <04/12/2017 09:00:11> Register Packet Handlers...
+[Info] <04/12/2017 09:00:11> Register Commands...
+[Info] <04/12/2017 09:00:11> Initialize 'AutoAnnounceManager'
+[Info] <04/12/2017 09:00:11> Initialize 'ApproachHandler'
+[Info] <04/12/2017 09:00:11> Initialize 'ChatManager'
+[Info] <04/12/2017 09:00:11> Register id providers
+[Info] <04/12/2017 09:00:11> Initialize 'TextManager'
+[Info] <04/12/2017 09:00:12> Initialize DataManagers
+[Info] <04/12/2017 09:00:12> Initialize 'BreedManager'
+[Info] <04/12/2017 09:00:12> Initialize 'EffectManager'
+[Info] <04/12/2017 09:00:12> Initialize 'SpellManager'
+[Info] <04/12/2017 09:00:13> Initialize 'CellTriggerManager'
+[Info] <04/12/2017 09:00:13> Initialize 'ItemManager'
+[Info] <04/12/2017 09:00:15> Initialize 'PetManager'
+[Info] <04/12/2017 09:00:15> Initialize 'TeleportPotionManager'
+[Info] <04/12/2017 09:00:15> Initialize 'BidHouseManager'
+[Info] <04/12/2017 09:00:15> Initialize 'RuneManager'
+[Info] <04/12/2017 09:00:15> Initialize 'InteractiveManager'
+[Info] <04/12/2017 09:02:06> Initialize 'IdolManager'
+[Info] <04/12/2017 09:02:06> Initialize 'ChallengeManager'
+[Info] <04/12/2017 09:02:06> Initialize 'ExperienceManager'
+[Info] <04/12/2017 09:02:06> Initialize 'TinselManager'
+[Info] <04/12/2017 09:02:06> Initialize 'BrainManager'
+[Info] <04/12/2017 09:02:06> Initialize 'MongoLogger'
+[Info] <04/12/2017 09:02:06> Initialize 'JobManager'
+[Info] <04/12/2017 09:02:06> Initialize 'RuneManager'
+[Info] <04/12/2017 09:02:06> Initialize 'ArenaManager'
+[Info] <04/12/2017 09:02:07> Initialize 'NpcManager'
+[Info] <04/12/2017 09:02:07> Initialize 'GuildManager'
+[Info] <04/12/2017 09:02:08> Initialize 'MountManager'
+[Info] <04/12/2017 09:03:03> Initialize 'MonsterManager'

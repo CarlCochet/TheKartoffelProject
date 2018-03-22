@@ -1,0 +1,2062 @@
+-------------Warn at 05/18/2017 13:15:03------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 05/18/2017 13:15:03------------- 
+
+-------------Error at 05/18/2017 13:15:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 05/18/2017 13:15:20------------- 
+
+-------------Error at 05/18/2017 13:15:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 05/18/2017 13:15:20------------- 
+
+-------------Error at 05/18/2017 13:15:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 05/18/2017 13:15:20------------- 
+
+-------------Error at 05/18/2017 13:15:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 05/18/2017 13:15:20------------- 
+
+-------------Error at 05/18/2017 13:15:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 05/18/2017 13:15:20------------- 
+
+-------------Error at 05/18/2017 13:15:32------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 05/18/2017 13:15:32------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489373 already exists on map 84804101 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489391 already exists on map 154010882 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465439 already exists on map 84673542 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489344 already exists on map 84675590 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489373 already exists on map 84804101 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465442 already exists on map 84673543 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465429 already exists on map 84674563 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465428 already exists on map 84674563 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465759 already exists on map 84673032 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472245 already exists on map 84674562 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489342 already exists on map 84675075 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489670 already exists on map 84673544 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465432 already exists on map 84675076 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465609 already exists on map 84672512 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489342 already exists on map 84675075 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478968 already exists on map 84676355 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465440 already exists on map 84674566 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465423 already exists on map 84804098 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489412 already exists on map 153878787 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489396 already exists on map 153878787 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489393 already exists on map 153879297 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465735 already exists on map 84674561 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465427 already exists on map 84675587 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 450670 already exists on map 148281 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435766 already exists on map 24907781 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435748 already exists on map 141862 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415688 already exists on map 142880 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508061 already exists on map 78643201 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508061 already exists on map 78774785 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 496840 already exists on map 125043205 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484175 already exists on map 121634816 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415695 already exists on map 144700 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435760 already exists on map 148790 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460389 already exists on map 72619522 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455694 already exists on map 7865352 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472900 already exists on map 88082200 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472928 already exists on map 88086290 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466330 already exists on map 88212480 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 481522 already exists on map 95421442 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472866 already exists on map 95423492 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464084 already exists on map 72619011 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473016 already exists on map 88087301 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473021 already exists on map 88212251 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:03------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472732 already exists on map 88212763 
+-------------Error at 05/18/2017 13:18:03------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416402 already exists on map 145714 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415766 already exists on map 147764 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435764 already exists on map 24903939 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438165 already exists on map 2884124 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472244 already exists on map 88083734 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472918 already exists on map 88212244 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415710 already exists on map 142375 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415722 already exists on map 143395 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435751 already exists on map 144425 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416386 already exists on map 146233 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435765 already exists on map 148795 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416973 already exists on map 149305 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472914 already exists on map 88081173 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472731 already exists on map 88212763 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472949 already exists on map 88214295 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415715 already exists on map 141346 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415726 already exists on map 143396 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435739 already exists on map 143896 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416393 already exists on map 146234 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433933 already exists on map 147254 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433934 already exists on map 147254 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 477568 already exists on map 147766 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435755 already exists on map 28312578 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473018 already exists on map 88212250 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472897 already exists on map 88081176 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466334 already exists on map 88081414 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472891 already exists on map 88213274 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472649 already exists on map 90708226 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472920 already exists on map 88084245 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 483041 already exists on map 88087305 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473017 already exists on map 88213787 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446270 already exists on map 264 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446236 already exists on map 132870 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455422 already exists on map 13631488 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455315 already exists on map 13893638 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455143 already exists on map 13894150 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433921 already exists on map 142888 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433918 already exists on map 144420 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446260 already exists on map 144418 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 430384 already exists on map 144698 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416369 already exists on map 145208 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416344 already exists on map 146226 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415074 already exists on map 148278 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433928 already exists on map 148796 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415752 already exists on map 148796 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435755 already exists on map 28312578 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438156 already exists on map 3146248 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438158 already exists on map 3146760 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438159 already exists on map 3146248 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 294 already exists on map 6554118 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466286 already exists on map 88080898 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466852 already exists on map 88081408 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472899 already exists on map 88081176 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472904 already exists on map 88082198 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472905 already exists on map 88081686 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484182 already exists on map 88082698 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 474898 already exists on map 88087298 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466328 already exists on map 88080384 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472895 already exists on map 88080664 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455922 already exists on map 8913428 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 488049 already exists on map 95420418 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472590 already exists on map 95420416 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455317 already exists on map 13894151 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433930 already exists on map 141351 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435749 already exists on map 142879 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415351 already exists on map 144931 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415069 already exists on map 145209 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415122 already exists on map 146229 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 453462 already exists on map 146237 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 417169 already exists on map 148281 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415073 already exists on map 147769 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415077 already exists on map 148279 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435764 already exists on map 24903939 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435753 already exists on map 28444672 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478962 already exists on map 84676358 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478962 already exists on map 84676358 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 475660 already exists on map 84805890 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460437 already exists on map 72618499 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 382 already exists on map 7864839 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472924 already exists on map 88082191 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472240 already exists on map 88082201 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472907 already exists on map 88212757 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484173 already exists on map 121766912 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506484 already exists on map 142090252 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 500706 already exists on map 142088201 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506484 already exists on map 142090764 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506013 already exists on map 165152262 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 503186 already exists on map 164496396 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 485619 already exists on map 139723779 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:18:04------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508892 already exists on map 139723779 
+-------------Error at 05/18/2017 13:18:04------------- 
+
+-------------Error at 05/18/2017 13:22:20------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : InteractiveUseRequestMessage] Force disconnection of client <127.0.0.1> (yolo1) : System.Exception: Cannot load SkillTeleport id=1152, map 273 isn't found
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillTeleport.RefreshPosition() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Interactives\Skills\SkillTeleport.cs:ligne 89
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillTeleport.GetPosition() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Interactives\Skills\SkillTeleport.cs:ligne 97
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillTeleport.StartExecute(Character character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Interactives\Skills\SkillTeleport.cs:ligne 78
+   à Stump.Server.WorldServer.Game.Maps.Map.UseInteractiveObject(Character character, Int32 interactiveId, Int32 skillId) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 747
+   à Stump.Server.WorldServer.Handlers.Interactives.InteractiveHandler.HandleInteractiveUseRequestMessage(WorldClient client, InteractiveUseRequestMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Interactives\InteractiveHandler.cs:ligne 18
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 05/18/2017 13:22:20------------- 
+
+-------------Warn at 05/18/2017 13:45:42------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 05/18/2017 13:45:42------------- 
+
+-------------Error at 05/18/2017 13:45:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 05/18/2017 13:45:46------------- 
+
+-------------Error at 05/18/2017 13:45:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 05/18/2017 13:45:46------------- 
+
+-------------Error at 05/18/2017 13:45:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 05/18/2017 13:45:46------------- 
+
+-------------Error at 05/18/2017 13:45:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 05/18/2017 13:45:46------------- 
+
+-------------Error at 05/18/2017 13:45:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 05/18/2017 13:45:46------------- 
+
+-------------Error at 05/18/2017 13:45:53------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 05/18/2017 13:45:53------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489373 already exists on map 84804101 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489391 already exists on map 154010882 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465439 already exists on map 84673542 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489344 already exists on map 84675590 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489373 already exists on map 84804101 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465442 already exists on map 84673543 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465429 already exists on map 84674563 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465428 already exists on map 84674563 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465759 already exists on map 84673032 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472245 already exists on map 84674562 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489321 already exists on map 84673025 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489342 already exists on map 84675075 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489670 already exists on map 84673544 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489378 already exists on map 84674054 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465432 already exists on map 84675076 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465609 already exists on map 84672512 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489342 already exists on map 84675075 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478968 already exists on map 84676355 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489379 already exists on map 84673538 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489322 already exists on map 84674048 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465440 already exists on map 84674566 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489336 already exists on map 84675586 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465423 already exists on map 84804098 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489412 already exists on map 153878787 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489396 already exists on map 153878787 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489393 already exists on map 153879297 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489372 already exists on map 84674051 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465735 already exists on map 84674561 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489343 already exists on map 84676101 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 465427 already exists on map 84675587 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489323 already exists on map 84676097 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 489348 already exists on map 84672515 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 450670 already exists on map 148281 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435766 already exists on map 24907781 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435748 already exists on map 141862 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415688 already exists on map 142880 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508061 already exists on map 78643201 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508061 already exists on map 78774785 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 496840 already exists on map 125043205 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484175 already exists on map 121634816 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415695 already exists on map 144700 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435760 already exists on map 148790 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460389 already exists on map 72619522 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455694 already exists on map 7865352 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472900 already exists on map 88082200 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472928 already exists on map 88086290 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466330 already exists on map 88212480 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 481522 already exists on map 95421442 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472866 already exists on map 95423492 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464084 already exists on map 72619011 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473824 already exists on map 88085250 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473016 already exists on map 88087301 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473021 already exists on map 88212251 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472732 already exists on map 88212763 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435750 already exists on map 142872 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 419011 already exists on map 144934 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416402 already exists on map 145714 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415766 already exists on map 147764 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435764 already exists on map 24903939 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438165 already exists on map 2884124 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466335 already exists on map 88081414 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472244 already exists on map 88083734 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472918 already exists on map 88212244 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415710 already exists on map 142375 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415722 already exists on map 143395 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435751 already exists on map 144425 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415666 already exists on map 144425 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416386 already exists on map 146233 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435765 already exists on map 148795 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416973 already exists on map 149305 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472914 already exists on map 88081173 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472731 already exists on map 88212763 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472949 already exists on map 88214295 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415715 already exists on map 141346 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415726 already exists on map 143396 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435739 already exists on map 143896 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416393 already exists on map 146234 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433933 already exists on map 147254 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433934 already exists on map 147254 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 477568 already exists on map 147766 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435755 already exists on map 28312578 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473018 already exists on map 88212250 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472897 already exists on map 88081176 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466334 already exists on map 88081414 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472891 already exists on map 88213274 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472649 already exists on map 90708226 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472916 already exists on map 88081684 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472920 already exists on map 88084245 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 483041 already exists on map 88087305 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 473017 already exists on map 88213787 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446270 already exists on map 264 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446236 already exists on map 132870 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455422 already exists on map 13631488 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455315 already exists on map 13893638 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455143 already exists on map 13894150 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433921 already exists on map 142888 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433918 already exists on map 144420 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446260 already exists on map 144418 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 430384 already exists on map 144698 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416369 already exists on map 145208 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416362 already exists on map 145725 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 416344 already exists on map 146226 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415074 already exists on map 148278 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433928 already exists on map 148796 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415752 already exists on map 148796 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435755 already exists on map 28312578 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438156 already exists on map 3146248 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438158 already exists on map 3146760 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 438159 already exists on map 3146248 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 294 already exists on map 6554118 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472880 already exists on map 68420616 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466286 already exists on map 88080898 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466852 already exists on map 88081408 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472899 already exists on map 88081176 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472904 already exists on map 88082198 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472905 already exists on map 88081686 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484182 already exists on map 88082698 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 474898 already exists on map 88087298 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 466328 already exists on map 88080384 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472895 already exists on map 88080664 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455922 already exists on map 8913428 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 488049 already exists on map 95420418 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472590 already exists on map 95420416 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 446235 already exists on map 132359 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 455317 already exists on map 13894151 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 433930 already exists on map 141351 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 437131 already exists on map 143372 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435749 already exists on map 142879 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415351 already exists on map 144931 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415069 already exists on map 145209 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415122 already exists on map 146229 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 453462 already exists on map 146237 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 417169 already exists on map 148281 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415073 already exists on map 147769 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 415077 already exists on map 148279 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435764 already exists on map 24903939 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 435753 already exists on map 28444672 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478962 already exists on map 84676358 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 478962 already exists on map 84676358 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 475660 already exists on map 84805890 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460444 already exists on map 72618499 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 460437 already exists on map 72618499 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 464050 already exists on map 72619010 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 382 already exists on map 7864839 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472924 already exists on map 88082191 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472240 already exists on map 88082201 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 472907 already exists on map 88212757 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 484173 already exists on map 121766912 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506484 already exists on map 142090252 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 500706 already exists on map 142088201 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506484 already exists on map 142090764 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 506013 already exists on map 165152262 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 503186 already exists on map 164496396 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 485619 already exists on map 139723779 
+-------------Error at 05/18/2017 13:48:10------------- 
+
+-------------Error at 05/18/2017 13:48:10------------- 
+ Stump.Server.WorldServer.Game.Maps.Map.SpawnInteractive -> 
+	Interactive object 508892 already exists on map 139723779 
+-------------Error at 05/18/2017 13:48:10------------- 
+

@@ -1,0 +1,26 @@
+[Warn] <04/15/2017 15:45:15> Exceptions not handled cause Debugger is attatched
+[Info] <04/15/2017 15:45:26> Initializing Configuration...
+[Info] <04/15/2017 15:45:29> Initialize Task Pool
+[Info] <04/15/2017 15:45:29> Register Plugins...
+[Info] <04/15/2017 15:45:40> Loading Plugins...
+[Info] <04/15/2017 15:45:40> Initializing Database...
+[Info] <04/15/2017 15:45:40> Opening Database...
+[Info] <04/15/2017 15:45:41> Register Messages...
+[Info] <04/15/2017 15:45:41> Register Packet Handlers...
+[Info] <04/15/2017 15:45:41> Register Commands...
+[Info] <04/15/2017 15:45:41> Initialize 'AutoAnnounceManager'
+[Info] <04/15/2017 15:45:41> Initialize 'ApproachHandler'
+[Info] <04/15/2017 15:45:41> Initialize 'ChatManager'
+[Info] <04/15/2017 15:45:41> Register id providers
+[Info] <04/15/2017 15:45:41> Initialize 'TextManager'
+[Info] <04/15/2017 15:45:43> Initialize DataManagers
+[Info] <04/15/2017 15:45:44> Initialize 'BreedManager'
+[Info] <04/15/2017 15:45:44> Initialize 'EffectManager'
+[Info] <04/15/2017 15:45:44> Initialize 'SpellManager'
+[Info] <04/15/2017 15:45:45> Initialize 'CellTriggerManager'
+[Info] <04/15/2017 15:45:45> Initialize 'ItemManager'
+[Info] <04/15/2017 15:45:46> Initialize 'PetManager'
+[Info] <04/15/2017 15:45:46> Initialize 'TeleportPotionManager'
+[Info] <04/15/2017 15:45:46> Initialize 'BidHouseManager'
+[Info] <04/15/2017 15:45:46> Initialize 'RuneManager'
+[Info] <04/15/2017 15:45:46> Initialize 'InteractiveManager'

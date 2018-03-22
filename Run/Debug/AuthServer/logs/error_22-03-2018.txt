@@ -1,0 +1,45 @@
+-------------Error at 03/22/2018 01:30:27------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 01:30:27------------- 
+
+-------------Error at 03/22/2018 02:30:39------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 02:30:39------------- 
+
+-------------Error at 03/22/2018 02:48:09------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 02:48:09------------- 
+
+-------------Error at 03/22/2018 04:21:11------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 04:21:11------------- 
+
+-------------Error at 03/22/2018 05:07:16------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 05:07:16------------- 
+
+-------------Error at 03/22/2018 05:20:16------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 05:20:16------------- 
+
+-------------Error at 03/22/2018 06:08:25------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 06:08:25------------- 
+
+-------------Error at 03/22/2018 06:29:22------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 06:29:22------------- 
+
+-------------Error at 03/22/2018 07:30:54------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/22/2018 07:30:54------------- 
+

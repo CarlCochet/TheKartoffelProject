@@ -1,0 +1,130 @@
+[Warn] <05/22/2017 13:42:14> Exceptions not handled cause Debugger is attatched
+[Info] <05/22/2017 13:42:23> Initializing Configuration...
+[Info] <05/22/2017 13:42:26> Initialize Task Pool
+[Info] <05/22/2017 13:42:26> Register Plugins...
+[Info] <05/22/2017 13:42:39> Loading Plugins...
+[Info] <05/22/2017 13:42:39> Initializing Database...
+[Info] <05/22/2017 13:42:39> Opening Database...
+[Info] <05/22/2017 13:42:46> Register Messages...
+[Info] <05/22/2017 13:42:46> Register Packet Handlers...
+[Info] <05/22/2017 13:42:46> Register Commands...
+[Info] <05/22/2017 13:42:46> Initialize 'AutoAnnounceManager'
+[Info] <05/22/2017 13:42:46> Initialize 'ApproachHandler'
+[Info] <05/22/2017 13:42:46> Initialize 'ChatManager'
+[Info] <05/22/2017 13:42:46> Register id providers
+[Info] <05/22/2017 13:42:46> Initialize 'TextManager'
+[Info] <05/22/2017 13:42:47> Initialize DataManagers
+[Info] <05/22/2017 13:42:48> Initialize 'BreedManager'
+[Info] <05/22/2017 13:42:48> Initialize 'EffectManager'
+[Info] <05/22/2017 13:42:48> Initialize 'SpellManager'
+[Info] <05/22/2017 13:42:49> Initialize 'CellTriggerManager'
+[Info] <05/22/2017 13:42:49> Initialize 'ItemManager'
+[Info] <05/22/2017 13:42:52> Initialize 'PetManager'
+[Info] <05/22/2017 13:42:52> Initialize 'TeleportPotionManager'
+[Info] <05/22/2017 13:42:52> Initialize 'BidHouseManager'
+[Info] <05/22/2017 13:42:52> Initialize 'RuneManager'
+[Info] <05/22/2017 13:42:52> Initialize 'InteractiveManager'
+[Info] <05/22/2017 13:44:30> Initialize 'IdolManager'
+[Info] <05/22/2017 13:44:30> Initialize 'ChallengeManager'
+[Info] <05/22/2017 13:44:30> Initialize 'ExperienceManager'
+[Info] <05/22/2017 13:44:31> Initialize 'TinselManager'
+[Info] <05/22/2017 13:44:31> Initialize 'BrainManager'
+[Info] <05/22/2017 13:44:31> Initialize 'MongoLogger'
+[Info] <05/22/2017 13:44:31> Initialize 'JobManager'
+[Info] <05/22/2017 13:44:31> Initialize 'RuneManager'
+[Info] <05/22/2017 13:44:32> Initialize 'ArenaManager'
+[Info] <05/22/2017 13:44:32> Initialize 'NpcManager'
+[Info] <05/22/2017 13:44:33> Initialize 'GuildManager'
+[Info] <05/22/2017 13:44:36> Initialize 'MountManager'
+[Info] <05/22/2017 13:44:37> Initialize 'MonsterManager'
+[Info] <05/22/2017 13:44:41> Initialize 'MerchantManager'
+[Info] <05/22/2017 13:44:41> Initialize 'World'
+[Info] <05/22/2017 13:44:41> Load maps...
+[Info] <05/22/2017 13:45:07> Load maps scrolls...
+[Info] <05/22/2017 13:45:07> Load sub areas...
+[Info] <05/22/2017 13:45:07> Load areas...
+[Info] <05/22/2017 13:45:07> Load super areas...
+[Info] <05/22/2017 13:45:08> Spawn npcs ...
+[Info] <05/22/2017 13:45:08> Spawn interactives ...
+[Info] <05/22/2017 13:45:08> Spawn cell triggers ...
+[Info] <05/22/2017 13:45:08> Spawn monsters ...
+[Info] <05/22/2017 13:45:14> Spawn merchants ...
+[Info] <05/22/2017 13:45:14> Initialize 'AchievementManager'
+[Info] <05/22/2017 13:45:14> Initialize 'PaddockManager'
+[Info] <05/22/2017 13:45:14> Initialize 'TaxCollectorManager'
+[Info] <05/22/2017 13:45:14> Synchronize id providers
+[Info] <05/22/2017 13:45:14> Initialize 'QuestManager'
+[Info] <05/22/2017 13:45:14> Initialize 'WebServer'
+[Info] <05/22/2017 13:45:14> Start Auto-Save Cyclic Task
+[Info] <05/22/2017 13:45:14> Starting Console Handler Interface...
+[Info] <05/22/2017 13:45:14> Starting IPC Communications ...
+[Info] <05/22/2017 13:45:14> Start listening on port : 3467...
+[Debug] <05/22/2017 13:45:20> TaskPool 'IO Task Pool' update lagged (79ms) (msg:0, timers:1/5)
+[Info] <05/22/2017 13:45:25> Attempt connection
+[Info] <05/22/2017 13:45:25> IPC connection etablished
+[Debug] <05/22/2017 13:45:26> TaskPool 'IPCAccessor Task Pool' update lagged (968ms) (msg:0, timers:1/3)
+[Info] <05/22/2017 13:45:27> Access to auth. server granted
+[Debug] <05/22/2017 13:45:27> TaskPool 'IPCAccessor Task Pool' update lagged (244ms) (msg:1, timers:0/3)
+[Debug] <05/22/2017 13:45:27> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <05/22/2017 13:45:27> TaskPool 'IO Task Pool' update lagged (330ms) (msg:1, timers:0/5)
+[Debug] <05/22/2017 13:45:27> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Debug] <05/22/2017 13:46:05> Client request ticket AOPFCIBZTIYLWKWQZYVTAVAVLZRGUUJR
+[Debug] <05/22/2017 13:46:05> TaskPool 'IO Task Pool' update lagged (54ms) (msg:1, timers:0/5)
+[Debug] <05/22/2017 13:46:05> AuthenticationTicketMessage
+[Debug] <05/22/2017 13:46:06> TaskPool 'IO Task Pool' update lagged (293ms) (msg:1, timers:1/5)
+[Debug] <05/22/2017 13:46:06> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/22/2017 13:46:06> TaskPool 'IO Task Pool' update lagged (114ms) (msg:1, timers:0/5)
+[Debug] <05/22/2017 13:46:06> CharactersListRequestMessage
+[Debug] <05/22/2017 13:46:22> TaskPool 'IO Task Pool' update lagged (1053ms) (msg:1, timers:1/5)
+[Debug] <05/22/2017 13:46:22> CharacterSelectionMessage
+[Info] <05/22/2017 13:46:25> Area 'Bonta (7)' started
+[Debug] <05/22/2017 13:46:25> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/22/2017 13:46:25> Area 'Bonta (7)' update lagged (96ms) (msg:33ms, timers:62ms, timerProc:367/718)
+[Debug] <05/22/2017 13:46:26> Received Unknown packet : ClientKeyMessage
+[Debug] <05/22/2017 13:46:26> Area 'Bonta (7)' update lagged (222ms) (msg:222ms, timers:0ms, timerProc:0/718)
+[Debug] <05/22/2017 13:46:37> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/22/2017 13:46:58> Area 'Bonta (7)' update lagged (67ms) (msg:67ms, timers:0ms, timerProc:0/718)
+[Debug] <05/22/2017 13:46:59> Received Unknown packet : HaapiApiKeyRequestMessage
+[Debug] <05/22/2017 13:47:17> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/22/2017 13:47:28> Area 'Bonta (7)' stopped
+[Info] <05/22/2017 13:47:28> Area 'Île d'Otomaï (46)' started
+[Debug] <05/22/2017 13:47:28> Area 'Bonta (7)' update lagged (79ms) (msg:79ms, timers:0ms, timerProc:0/718)
+[Debug] <05/22/2017 13:47:28> Area 'Île d'Otomaï (46)' update lagged (88ms) (msg:3ms, timers:84ms, timerProc:847/924)
+[Debug] <05/22/2017 13:47:28> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/22/2017 13:47:40> Area 'Île d'Otomaï (46)' update lagged (291ms) (msg:290ms, timers:0ms, timerProc:7/925)
+[Debug] <05/22/2017 13:47:52> Area 'Île d'Otomaï (46)' update lagged (123ms) (msg:123ms, timers:0ms, timerProc:0/925)
+[Debug] <05/22/2017 13:48:11> Area 'Île d'Otomaï (46)' update lagged (244ms) (msg:245ms, timers:0ms, timerProc:0/925)
+[Info] <05/22/2017 13:48:47> Saving world ...
+[Debug] <05/22/2017 13:48:51> Area 'Île d'Otomaï (46)' update lagged (38885ms) (msg:38809ms, timers:76ms, timerProc:472/924)
+[Info] <05/22/2017 13:48:52> World server saved ! (736 ms)
+[Debug] <05/22/2017 13:48:52> TaskPool 'IO Task Pool' update lagged (4659ms) (msg:0, timers:3/5)
+[Debug] <05/22/2017 13:49:33> TaskPool 'IO Task Pool' update lagged (7972ms) (msg:0, timers:2/5)
+[Debug] <05/22/2017 13:49:33> Area 'Île d'Otomaï (46)' update lagged (18278ms) (msg:18198ms, timers:80ms, timerProc:644/638)
+[Debug] <05/22/2017 13:49:38> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/22/2017 13:49:46> Area 'Île d'Otomaï (46)' stopped
+[Info] <05/22/2017 13:49:46> Area 'Île de Sakaï (49)' started
+[Debug] <05/22/2017 13:49:46> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/22/2017 13:50:15> Area 'Île de Sakaï (49)' update lagged (15576ms) (msg:15575ms, timers:1ms, timerProc:26/52)
+[Debug] <05/22/2017 13:50:25> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/22/2017 13:52:14> Saving world ...
+[Debug] <05/22/2017 13:52:14> Area 'Île de Sakaï (49)' update lagged (39108ms) (msg:39102ms, timers:6ms, timerProc:38/31)
+[Info] <05/22/2017 13:52:14> World server saved ! (30 ms)
+[Debug] <05/22/2017 13:52:14> TaskPool 'IO Task Pool' update lagged (57ms) (msg:0, timers:3/5)
+[Debug] <05/22/2017 13:54:16> Area 'Île de Sakaï (49)' update lagged (47938ms) (msg:47924ms, timers:13ms, timerProc:26/29)
+[Info] <05/22/2017 13:55:14> Saving world ...
+[Info] <05/22/2017 13:55:14> World server saved ! (14 ms)
+[Debug] <05/22/2017 13:55:22> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <05/22/2017 13:56:08> Area 'Île de Sakaï (49)' update lagged (19247ms) (msg:19244ms, timers:3ms, timerProc:26/32)
+[Debug] <05/22/2017 13:58:05> Area 'Île de Sakaï (49)' update lagged (94289ms) (msg:94283ms, timers:6ms, timerProc:29/29)
+[Info] <05/22/2017 13:58:48> Saving world ...
+[Info] <05/22/2017 13:58:48> World server saved ! (28 ms)
+[Debug] <05/22/2017 13:58:48> TaskPool 'IO Task Pool' update lagged (67ms) (msg:0, timers:3/5)
+[Debug] <05/22/2017 13:58:48> Area 'Île de Sakaï (49)' update lagged (37583ms) (msg:37566ms, timers:17ms, timerProc:26/30)
+[Debug] <05/22/2017 13:59:02> Area 'Île de Sakaï (49)' update lagged (5396ms) (msg:5396ms, timers:0ms, timerProc:26/32)
+[Debug] <05/22/2017 13:59:27> Area 'Île de Sakaï (49)' update lagged (13249ms) (msg:13246ms, timers:3ms, timerProc:26/32)
+[Debug] <05/22/2017 13:59:39> Area 'Île de Sakaï (49)' update lagged (4544ms) (msg:4544ms, timers:0ms, timerProc:26/33)
+[Debug] <05/22/2017 13:59:56> Area 'Île de Sakaï (49)' update lagged (3528ms) (msg:3528ms, timers:0ms, timerProc:26/33)
+[Debug] <05/22/2017 14:00:18> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <05/22/2017 14:01:06> Area 'Île de Sakaï (49)' update lagged (41161ms) (msg:41156ms, timers:5ms, timerProc:26/30)
+[Info] <05/22/2017 14:01:48> Saving world ...
+[Info] <05/22/2017 14:01:48> World server saved ! (20 ms)

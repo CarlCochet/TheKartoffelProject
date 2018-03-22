@@ -1,0 +1,148 @@
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\ServiceStack.Text.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MySql.Data.dll
+C:\Dotruz 2.40.2\Core\Stump.Core\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\Stump.Core.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MySql.Data.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+E:\Escritorio\azurerepo\Core\Stump.Core\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Core\Stump.Core\obj\Debug\Stump.Core.dll
+E:\Escritorio\azurerepo\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+E:\Escritorio\azurerepo\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Core\Stump.Core\obj\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\obj\Debug\Stump.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\obj\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.Core\obj\Debug\Stump.Core.pdb

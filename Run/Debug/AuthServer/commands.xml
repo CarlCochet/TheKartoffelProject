@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCommandInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CommandInfo name="BenchmarkCommands">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkSummaryCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkEnableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkDisableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkLimitCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkIOInfoCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkPingIOCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkStressNetworkCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="ConfigCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provide commands to manage the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="ConfigReloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reload the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="ConfigSaveCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Save the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="DebugCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provides command to debug things</Description>
+  </CommandInfo>
+  <CommandInfo name="CommandsExceptions">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Give command error details</Description>
+  </CommandInfo>
+  <CommandInfo name="CommandGlobalExceptions">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Give error details</Description>
+  </CommandInfo>
+  <CommandInfo name="HelpCommand">
+    <RequiredRole>Player</RequiredRole>
+    <Description>List all available commands</Description>
+  </CommandInfo>
+  <CommandInfo name="ListCommand">
+    <RequiredRole>Player</RequiredRole>
+    <Description>List all available commands</Description>
+  </CommandInfo>
+  <CommandInfo name="BufferCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Gives buffer manager current state</Description>
+  </CommandInfo>
+  <CommandInfo name="BufferLeaksCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Find possible leaks</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provide commands to manage plugins</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginLoadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Load a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginReloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reload and reset a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginUnloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Unload a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginInfoCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Get info. about a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginListCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>List all loaded plugins</Description>
+  </CommandInfo>
+  <CommandInfo name="ShutdownCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Stop the server</Description>
+  </CommandInfo>
+</ArrayOfCommandInfo>

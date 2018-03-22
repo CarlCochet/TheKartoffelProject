@@ -1,0 +1,62 @@
+﻿<Window x:Class="WorldEditor.Editors.Items.IconSelectionDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:vwp="clr-namespace:WorldEditor.Helpers"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        Title="Select Item Icon" Height="400" Width="450" >
+    
+    <DockPanel>
+        <UniformGrid DockPanel.Dock="Bottom" Rows="1">
+            <Button Content="OK" Margin="5" IsDefault="True" Click="OnButtonOKClick" />
+            <Button Content="Cancel" IsCancel="True" Margin="5" Click="OnButtonCancelClick" />
+        </UniformGrid>
+        <ListBox DockPanel.Dock="Top" ScrollViewer.HorizontalScrollBarVisibility="Disabled" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding IconsSource}" SelectedValue="{Binding SelectedIcon}">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="{x:Type ListBoxItem}">
+                    <Setter Property="FrameworkElement.OverridesDefaultStyle" Value="True" />
+                    <Setter Property="Control.HorizontalContentAlignment" Value="Left" />
+                    <Setter Property="Control.VerticalContentAlignment" Value="Center" />
+                    <Setter Property="Control.Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                                <Border Name="Bd" Background="{TemplateBinding Control.Background}" BorderBrush="{TemplateBinding Control.BorderBrush}" BorderThickness="{TemplateBinding Control.BorderThickness}" Padding="{TemplateBinding Control.Padding}" SnapsToDevicePixels="True">
+                                    <ContentPresenter HorizontalAlignment="{TemplateBinding Control.HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding Control.VerticalContentAlignment}" SnapsToDevicePixels="{TemplateBinding UIElement.SnapsToDevicePixels}" />
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="ListBoxItem.IsSelected" Value="True">
+                                        <Setter TargetName="Bd" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" Property="Border.Background" />
+                                        <Setter Value="{DynamicResource {x:Static SystemColors.HighlightTextBrushKey}}" Property="Control.Foreground" />
+                                    </Trigger>
+                                    <MultiTrigger>
+                                        <MultiTrigger.Conditions>
+                                            <Condition Property="ListBoxItem.IsSelected" Value="True" />
+                                            <Condition Property="Selector.IsSelectionActive" Value="False" />
+                                        </MultiTrigger.Conditions>
+                                        <Setter TargetName="Bd" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Property="Border.Background" />
+                                        <Setter Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" Property="Control.Foreground" />
+                                    </MultiTrigger>
+                                    <Trigger Property="UIElement.IsEnabled" Value="False">
+                                        <Setter Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" Property="Control.Foreground" />
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.ItemTemplate>
+                <DataTemplate DataType="icons:Icon">
+                    <StackPanel Orientation="Vertical">
+                        <Image HorizontalAlignment="Center" Source="{Binding Image}" />
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Id}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <vwp:VirtualizingWrapPanel Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Top" />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+        </ListBox>
+    </DockPanel>
+</Window>

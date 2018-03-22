@@ -1,0 +1,148 @@
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\SwfLib.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\SwfLib.Avm2.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\Debug\SwfLib.Avm2.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\bin\Debug\SwfLib.Avm2.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\bin\Debug\SwfLib.Avm2.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\SwfLib.Avm2.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Dotruz 2.40.2\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Escritorio\azurerepo\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb

@@ -1,0 +1,110 @@
+-------------Warn at 06/27/2017 16:15:20------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/27/2017 16:15:20------------- 
+
+-------------Error at 06/27/2017 16:15:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/27/2017 16:15:26------------- 
+
+-------------Error at 06/27/2017 16:15:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/27/2017 16:15:26------------- 
+
+-------------Error at 06/27/2017 16:15:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/27/2017 16:15:26------------- 
+
+-------------Error at 06/27/2017 16:15:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/27/2017 16:15:26------------- 
+
+-------------Error at 06/27/2017 16:15:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/27/2017 16:15:26------------- 
+
+-------------Error at 06/27/2017 16:15:36------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/27/2017 16:15:36------------- 
+
+-------------Error at 06/27/2017 16:18:31------------- 
+ Stump.Server.BaseServer.Initialization.InitializationManager.ExecuteInitializationMethod -> 
+	La référence d'objet n'est pas définie à une instance d'un objet. 
+-------------Error at 06/27/2017 16:18:31------------- 
+
+-------------Warn at 06/27/2017 16:18:47------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/27/2017 16:18:47------------- 
+
+-------------Error at 06/27/2017 16:18:51------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/27/2017 16:18:51------------- 
+
+-------------Error at 06/27/2017 16:18:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/27/2017 16:18:52------------- 
+
+-------------Error at 06/27/2017 16:18:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/27/2017 16:18:52------------- 
+
+-------------Error at 06/27/2017 16:18:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/27/2017 16:18:52------------- 
+
+-------------Error at 06/27/2017 16:18:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/27/2017 16:18:52------------- 
+
+-------------Error at 06/27/2017 16:19:02------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/27/2017 16:19:02------------- 
+
+-------------Warn at 06/27/2017 16:23:08------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/27/2017 16:23:08------------- 
+
+-------------Error at 06/27/2017 16:23:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/27/2017 16:23:12------------- 
+
+-------------Error at 06/27/2017 16:23:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/27/2017 16:23:12------------- 
+
+-------------Error at 06/27/2017 16:23:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/27/2017 16:23:12------------- 
+
+-------------Error at 06/27/2017 16:23:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/27/2017 16:23:12------------- 
+
+-------------Error at 06/27/2017 16:23:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/27/2017 16:23:12------------- 
+
+-------------Error at 06/27/2017 16:23:22------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/27/2017 16:23:22------------- 
+

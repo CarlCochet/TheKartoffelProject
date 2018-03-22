@@ -1,0 +1,5 @@
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\Enums\bin\x86\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\Enums\bin\x86\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.pdb

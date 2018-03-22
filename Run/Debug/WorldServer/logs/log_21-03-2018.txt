@@ -1,0 +1,322 @@
+[Info] <03/21/2018 19:12:43> Initializing Configuration...
+[Info] <03/21/2018 19:12:45> Initialize Task Pool
+[Info] <03/21/2018 19:12:45> Register Plugins...
+[Info] <03/21/2018 19:13:00> Loading Plugins...
+[Info] <03/21/2018 19:13:00> Plugin Loaded : 'Debug Plugin' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:13:00> Plugin Loaded : 'Fake clients' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:13:17> Initializing Configuration...
+[Info] <03/21/2018 19:13:17> Initialize Task Pool
+[Info] <03/21/2018 19:13:17> Register Plugins...
+[Info] <03/21/2018 19:13:27> Loading Plugins...
+[Info] <03/21/2018 19:15:19> Plugin Loaded : 'Debug Plugin' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:15:19> Plugin Loaded : 'Fake clients' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:15:19> Plugin Loaded : 'Scripts Plugin' v1.0.0.0 by Adam
+[Info] <03/21/2018 19:15:35> Initializing Configuration...
+[Info] <03/21/2018 19:15:36> Initialize Task Pool
+[Info] <03/21/2018 19:15:36> Register Plugins...
+[Info] <03/21/2018 19:15:44> Loading Plugins...
+[Info] <03/21/2018 19:15:44> Plugin Loaded : 'Debug Plugin' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:15:44> Plugin Loaded : 'Fake clients' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:15:44> Plugin Loaded : 'Scripts Plugin' v1.0.0.0 by Adam
+[Info] <03/21/2018 19:17:05> Initializing Configuration...
+[Info] <03/21/2018 19:17:06> Initialize Task Pool
+[Info] <03/21/2018 19:17:06> Register Plugins...
+[Info] <03/21/2018 19:17:15> Loading Plugins...
+[Info] <03/21/2018 19:17:15> Plugin Loaded : 'Debug Plugin' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:17:15> Plugin Loaded : 'Fake clients' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:17:15> Plugin Loaded : 'Scripts Plugin' v1.0.0.0 by Adam
+[Info] <03/21/2018 19:17:15> Plugin Loaded : 'Editor Plugin' v1.0.0.0 by Azote
+[Info] <03/21/2018 19:17:15> Initializing Database...
+[Info] <03/21/2018 19:17:15> Opening Database...
+[Info] <03/21/2018 19:17:27> Register Messages...
+[Info] <03/21/2018 19:17:27> Register Packet Handlers...
+[Info] <03/21/2018 19:17:27> Register Commands...
+[Info] <03/21/2018 19:17:27> Initialize 'ApproachHandler'
+[Info] <03/21/2018 19:17:27> Initialize 'ChatManager'
+[Info] <03/21/2018 19:17:27> Register id providers
+[Info] <03/21/2018 19:17:27> Initialize 'TextManager'
+[Info] <03/21/2018 19:17:29> Initialize DataManagers
+[Info] <03/21/2018 19:17:29> Initialize 'BreedManager'
+[Info] <03/21/2018 19:17:30> Initialize 'EffectManager'
+[Info] <03/21/2018 19:17:30> Initialize 'SpellManager'
+[Info] <03/21/2018 19:17:32> Initialize 'CellTriggerManager'
+[Info] <03/21/2018 19:17:32> Initialize 'ItemManager'
+[Info] <03/21/2018 19:17:34> Initialize 'PetManager'
+[Info] <03/21/2018 19:17:34> Initialize 'TeleportPotionManager'
+[Info] <03/21/2018 19:17:34> Initialize 'BidHouseManager'
+[Info] <03/21/2018 19:17:34> Initialize 'RuneManager'
+[Info] <03/21/2018 19:17:35> Initialize 'InteractiveManager'
+[Info] <03/21/2018 19:17:35> Initialize 'IdolManager'
+[Info] <03/21/2018 19:17:35> Initialize 'ChallengeManager'
+[Info] <03/21/2018 19:17:35> Initialize 'ExperienceManager'
+[Info] <03/21/2018 19:17:35> Initialize 'TinselManager'
+[Info] <03/21/2018 19:17:35> Initialize 'BrainManager'
+[Info] <03/21/2018 19:17:35> Initialize 'MongoLogger'
+[Info] <03/21/2018 19:17:35> Initialize 'JobManager'
+[Info] <03/21/2018 19:17:36> Initialize 'RuneManager'
+[Info] <03/21/2018 19:17:36> Initialize 'ArenaManager'
+[Info] <03/21/2018 19:17:36> Initialize 'NpcManager'
+[Info] <03/21/2018 19:17:36> Initialize 'GuildManager'
+[Info] <03/21/2018 19:17:36> Initialize 'MountManager'
+[Info] <03/21/2018 19:17:37> Initialize 'MonsterManager'
+[Info] <03/21/2018 19:17:38> Initialize 'MerchantManager'
+[Info] <03/21/2018 19:17:38> Initialize 'AchievementManager'
+[Info] <03/21/2018 19:17:38> Initialize 'World'
+[Info] <03/21/2018 19:17:38> Load maps...
+[Info] <03/21/2018 19:17:50> Load maps scrolls...
+[Info] <03/21/2018 19:17:50> Load sub areas...
+[Info] <03/21/2018 19:17:50> Load areas...
+[Info] <03/21/2018 19:17:50> Load super areas...
+[Info] <03/21/2018 19:17:50> Load graveyards...
+[Info] <03/21/2018 19:17:50> Spawn npcs ...
+[Info] <03/21/2018 19:17:50> Spawn interactives ...
+[Info] <03/21/2018 19:18:10> Spawn cell triggers ...
+[Info] <03/21/2018 19:18:10> Spawn monsters ...
+[Info] <03/21/2018 19:18:12> Spawn merchants ...
+[Info] <03/21/2018 19:18:12> Initialize 'DopeulManager'
+[Info] <03/21/2018 19:18:12> Initialize 'PaddockManager'
+[Info] <03/21/2018 19:18:12> Initialize 'TaxCollectorManager'
+[Info] <03/21/2018 19:18:12> Synchronize id providers
+[Info] <03/21/2018 19:18:13> Initialize 'QuestManager'
+[Info] <03/21/2018 19:18:13> Initialize 'WebServer'
+[Info] <03/21/2018 19:18:13> Initialize 'CheckItems'
+[Info] <03/21/2018 19:18:13> Start Auto-Save Cyclic Task
+[Info] <03/21/2018 19:18:13> Starting Console Handler Interface...
+[Info] <03/21/2018 19:18:13> Starting IPC Communications ...
+[Info] <03/21/2018 19:18:13> Start listening on port : 5555...
+[Info] <03/21/2018 19:18:23> Attempt connection
+[Info] <03/21/2018 19:18:23> IPC connection etablished
+[Debug] <03/21/2018 19:18:24> TaskPool 'IPCAccessor Task Pool' update lagged (706ms) (msg:0, timers:1/3)
+[Info] <03/21/2018 19:18:25> Access to auth. server granted
+[Debug] <03/21/2018 19:18:25> TaskPool 'IPCAccessor Task Pool' update lagged (219ms) (msg:1, timers:0/3)
+[Debug] <03/21/2018 19:18:25> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <03/21/2018 19:18:25> TaskPool 'IO Task Pool' update lagged (189ms) (msg:2, timers:0/4)
+[Debug] <03/21/2018 19:18:25> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Debug] <03/21/2018 19:18:25> FakeClients.FakeClientManager.<CheckAccounts>b__20_1
+[Debug] <03/21/2018 19:19:32> Client request ticket VTEFHHDCVYQTIOCJMKMCCDQTWSKTNKPS
+[Debug] <03/21/2018 19:19:33> TaskPool 'IO Task Pool' update lagged (137ms) (msg:1, timers:0/4)
+[Debug] <03/21/2018 19:19:33> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_1.<HandleAuthenticationTicketMessage>b__3
+[Debug] <03/21/2018 19:19:33> TaskPool 'IO Task Pool' update lagged (66ms) (msg:1, timers:0/4)
+[Debug] <03/21/2018 19:19:33> CharactersListRequestMessage
+[Debug] <03/21/2018 19:19:51> TaskPool 'IO Task Pool' update lagged (9586ms) (msg:1, timers:2/4)
+[Debug] <03/21/2018 19:19:51> CharacterSelectionMessage
+[Info] <03/21/2018 19:19:53> Area 'Bonta (7)' started
+[Debug] <03/21/2018 19:19:53> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/21/2018 19:19:53> Received Unknown packet : ClientKeyMessage
+[Debug] <03/21/2018 19:19:54> Area 'Bonta (7)' update lagged (196ms) (msg:74ms, timers:121ms, timerProc:374/606)
+[Debug] <03/21/2018 19:19:54> Area 'Bonta (7)' update lagged (101ms) (msg:101ms, timers:0ms, timerProc:1/606)
+[Debug] <03/21/2018 19:19:59> Received Unknown packet : SequenceNumberMessage
+[Info] <03/21/2018 19:20:14> Saving world ...
+[Debug] <03/21/2018 19:20:28> TaskPool 'IPCAccessor Task Pool' update lagged (13640ms) (msg:2, timers:1/5)
+[Debug] <03/21/2018 19:20:28> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <03/21/2018 19:20:28> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <03/21/2018 19:20:28> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/21/2018 19:20:29> World server saved ! (551 ms)
+[Debug] <03/21/2018 19:20:29> TaskPool 'IO Task Pool' update lagged (14429ms) (msg:0, timers:3/4)
+[Debug] <03/21/2018 19:20:29> TaskPool 'IO Task Pool' update lagged (337ms) (msg:387, timers:0/4)
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Guilds.Guild+<>c__DisplayClass130_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 19:20:29> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Info] <03/21/2018 19:22:29> Saving world ...
+[Info] <03/21/2018 19:22:29> World server saved ! (58 ms)
+[Debug] <03/21/2018 19:22:29> TaskPool 'IO Task Pool' update lagged (95ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:24:29> Saving world ...
+[Info] <03/21/2018 19:24:29> World server saved ! (60 ms)
+[Debug] <03/21/2018 19:24:29> TaskPool 'IO Task Pool' update lagged (109ms) (msg:0, timers:2/4)
+[Debug] <03/21/2018 19:24:54> Area 'Bonta (7)' update lagged (63ms) (msg:0ms, timers:62ms, timerProc:164/306)
+[Info] <03/21/2018 19:26:29> Saving world ...
+[Info] <03/21/2018 19:26:29> World server saved ! (54 ms)
+[Debug] <03/21/2018 19:26:29> TaskPool 'IO Task Pool' update lagged (101ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:28:29> Saving world ...
+[Info] <03/21/2018 19:28:29> World server saved ! (95 ms)
+[Debug] <03/21/2018 19:28:29> TaskPool 'IO Task Pool' update lagged (144ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:30:29> Saving world ...
+[Info] <03/21/2018 19:30:29> World server saved ! (46 ms)
+[Debug] <03/21/2018 19:30:29> TaskPool 'IO Task Pool' update lagged (104ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:32:29> Saving world ...
+[Info] <03/21/2018 19:32:29> World server saved ! (67 ms)
+[Debug] <03/21/2018 19:32:29> TaskPool 'IO Task Pool' update lagged (109ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:34:30> Saving world ...
+[Info] <03/21/2018 19:34:30> World server saved ! (44 ms)
+[Debug] <03/21/2018 19:34:30> TaskPool 'IO Task Pool' update lagged (74ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:36:30> Saving world ...
+[Info] <03/21/2018 19:36:30> World server saved ! (49 ms)
+[Debug] <03/21/2018 19:36:30> TaskPool 'IO Task Pool' update lagged (103ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:38:30> Saving world ...
+[Info] <03/21/2018 19:38:30> World server saved ! (63 ms)
+[Debug] <03/21/2018 19:38:30> TaskPool 'IO Task Pool' update lagged (115ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:40:30> Saving world ...
+[Info] <03/21/2018 19:40:30> World server saved ! (58 ms)
+[Debug] <03/21/2018 19:40:30> TaskPool 'IO Task Pool' update lagged (111ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:42:30> Saving world ...
+[Info] <03/21/2018 19:42:30> World server saved ! (53 ms)
+[Debug] <03/21/2018 19:42:30> TaskPool 'IO Task Pool' update lagged (114ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:44:30> Saving world ...
+[Info] <03/21/2018 19:44:30> World server saved ! (69 ms)
+[Debug] <03/21/2018 19:44:30> TaskPool 'IO Task Pool' update lagged (123ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:46:30> Saving world ...
+[Info] <03/21/2018 19:46:30> World server saved ! (87 ms)
+[Debug] <03/21/2018 19:46:30> TaskPool 'IO Task Pool' update lagged (120ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 19:48:15> Area 'Bonta (7)' stopped
+[Info] <03/21/2018 19:48:30> Saving world ...
+[Info] <03/21/2018 19:48:31> World server saved ! (4 ms)
+[Debug] <03/21/2018 19:48:31> TaskPool 'IO Task Pool' update lagged (69ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:50:31> Saving world ...
+[Info] <03/21/2018 19:50:31> World server saved ! (5 ms)
+[Debug] <03/21/2018 19:50:31> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:52:31> Saving world ...
+[Info] <03/21/2018 19:52:31> World server saved ! (5 ms)
+[Debug] <03/21/2018 19:52:31> TaskPool 'IO Task Pool' update lagged (67ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:54:31> Saving world ...
+[Info] <03/21/2018 19:54:31> World server saved ! (5 ms)
+[Debug] <03/21/2018 19:54:31> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 19:56:31> Saving world ...
+[Info] <03/21/2018 19:56:31> World server saved ! (4 ms)
+[Debug] <03/21/2018 19:56:31> TaskPool 'IO Task Pool' update lagged (64ms) (msg:0, timers:1/4)
+[Debug] <03/21/2018 19:57:02> Client request ticket CVEKQDHYRVGVPIUQUIBMVJVMTEUBMILE
+[Info] <03/21/2018 19:58:31> Saving world ...
+[Info] <03/21/2018 19:58:31> World server saved ! (2 ms)
+[Debug] <03/21/2018 19:58:31> TaskPool 'IO Task Pool' update lagged (78ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:00:31> Saving world ...
+[Info] <03/21/2018 20:00:31> World server saved ! (2 ms)
+[Debug] <03/21/2018 20:00:31> TaskPool 'IO Task Pool' update lagged (52ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:02:31> Saving world ...
+[Info] <03/21/2018 20:02:31> World server saved ! (11 ms)
+[Debug] <03/21/2018 20:02:31> TaskPool 'IO Task Pool' update lagged (66ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:04:31> Saving world ...
+[Info] <03/21/2018 20:04:31> World server saved ! (7 ms)
+[Debug] <03/21/2018 20:04:31> TaskPool 'IO Task Pool' update lagged (59ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:06:31> Saving world ...
+[Info] <03/21/2018 20:06:31> World server saved ! (8 ms)
+[Debug] <03/21/2018 20:06:31> TaskPool 'IO Task Pool' update lagged (54ms) (msg:0, timers:1/4)
+[Debug] <03/21/2018 20:06:43> TaskPool 'IO Task Pool' update lagged (8292ms) (msg:1, timers:1/4)
+[Debug] <03/21/2018 20:06:43> CharacterSelectionMessage
+[Info] <03/21/2018 20:06:44> Area 'Bonta (7)' started
+[Debug] <03/21/2018 20:06:44> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/21/2018 20:06:44> Received Unknown packet : ClientKeyMessage
+[Debug] <03/21/2018 20:06:44> Area 'Bonta (7)' update lagged (127ms) (msg:2ms, timers:125ms, timerProc:306/306)
+[Debug] <03/21/2018 20:06:45> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/21/2018 20:06:46> Area 'Bonta (7)' update lagged (56ms) (msg:55ms, timers:0ms, timerProc:0/306)
+[Debug] <03/21/2018 20:06:47> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <03/21/2018 20:08:31> Saving world ...
+[Info] <03/21/2018 20:08:32> World server saved ! (238 ms)
+[Debug] <03/21/2018 20:08:32> TaskPool 'IO Task Pool' update lagged (289ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:10:32> Saving world ...
+[Info] <03/21/2018 20:10:32> World server saved ! (57 ms)
+[Debug] <03/21/2018 20:10:32> TaskPool 'IO Task Pool' update lagged (92ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:12:32> Saving world ...
+[Info] <03/21/2018 20:12:32> World server saved ! (99 ms)
+[Debug] <03/21/2018 20:12:32> TaskPool 'IO Task Pool' update lagged (144ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:12:36> Area 'Bonta (7)' stopped
+[Debug] <03/21/2018 20:12:36> Area 'Bonta (7)' update lagged (377ms) (msg:365ms, timers:12ms, timerProc:292/306)
+[Info] <03/21/2018 20:14:32> Saving world ...
+[Info] <03/21/2018 20:14:32> World server saved ! (5 ms)
+[Debug] <03/21/2018 20:14:32> TaskPool 'IO Task Pool' update lagged (69ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:16:32> Saving world ...
+[Info] <03/21/2018 20:16:32> World server saved ! (3 ms)
+[Debug] <03/21/2018 20:16:32> TaskPool 'IO Task Pool' update lagged (53ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:18:32> Saving world ...
+[Info] <03/21/2018 20:18:32> World server saved ! (3 ms)
+[Debug] <03/21/2018 20:18:32> TaskPool 'IO Task Pool' update lagged (57ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:20:32> Saving world ...
+[Info] <03/21/2018 20:20:32> World server saved ! (4 ms)
+[Debug] <03/21/2018 20:20:32> TaskPool 'IO Task Pool' update lagged (53ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:22:32> Saving world ...
+[Info] <03/21/2018 20:22:33> World server saved ! (3 ms)
+[Debug] <03/21/2018 20:22:33> TaskPool 'IO Task Pool' update lagged (56ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:24:33> Saving world ...
+[Info] <03/21/2018 20:24:33> World server saved ! (4 ms)
+[Debug] <03/21/2018 20:24:33> TaskPool 'IO Task Pool' update lagged (61ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:26:33> Saving world ...
+[Info] <03/21/2018 20:26:33> World server saved ! (4 ms)
+[Debug] <03/21/2018 20:26:33> TaskPool 'IO Task Pool' update lagged (64ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:28:33> Saving world ...
+[Info] <03/21/2018 20:28:33> World server saved ! (4 ms)
+[Debug] <03/21/2018 20:28:33> TaskPool 'IO Task Pool' update lagged (91ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:30:33> Saving world ...
+[Info] <03/21/2018 20:30:33> World server saved ! (1 ms)
+[Info] <03/21/2018 20:32:33> Saving world ...
+[Info] <03/21/2018 20:32:33> World server saved ! (2 ms)
+[Info] <03/21/2018 20:34:33> Saving world ...
+[Info] <03/21/2018 20:34:33> World server saved ! (1 ms)
+[Info] <03/21/2018 20:36:33> Saving world ...
+[Info] <03/21/2018 20:36:33> World server saved ! (2 ms)
+[Info] <03/21/2018 20:38:33> Saving world ...
+[Info] <03/21/2018 20:38:33> World server saved ! (2 ms)
+[Debug] <03/21/2018 20:38:33> TaskPool 'IO Task Pool' update lagged (232ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:40:33> Saving world ...
+[Info] <03/21/2018 20:40:34> World server saved ! (2 ms)
+[Debug] <03/21/2018 20:40:34> TaskPool 'IO Task Pool' update lagged (123ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 20:42:34> Saving world ...
+[Info] <03/21/2018 20:42:34> World server saved ! (2 ms)
+[Info] <03/21/2018 20:44:34> Saving world ...
+[Info] <03/21/2018 20:44:34> World server saved ! (4 ms)
+[Info] <03/21/2018 20:46:34> Saving world ...
+[Info] <03/21/2018 20:46:34> World server saved ! (3 ms)
+[Info] <03/21/2018 20:48:34> Saving world ...
+[Info] <03/21/2018 20:48:34> World server saved ! (3 ms)
+[Info] <03/21/2018 20:50:34> Saving world ...
+[Info] <03/21/2018 20:50:34> World server saved ! (2 ms)
+[Info] <03/21/2018 20:52:34> Saving world ...
+[Info] <03/21/2018 20:52:34> World server saved ! (3 ms)
+[Info] <03/21/2018 20:54:34> Saving world ...
+[Info] <03/21/2018 20:54:34> World server saved ! (4 ms)
+[Info] <03/21/2018 20:56:34> Saving world ...
+[Info] <03/21/2018 20:56:34> World server saved ! (3 ms)
+[Info] <03/21/2018 20:58:34> Saving world ...
+[Info] <03/21/2018 20:58:34> World server saved ! (2 ms)
+[Info] <03/21/2018 21:00:34> Saving world ...
+[Info] <03/21/2018 21:00:34> World server saved ! (2 ms)
+[Debug] <03/21/2018 21:00:34> TaskPool 'IO Task Pool' update lagged (124ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 21:02:34> Saving world ...
+[Info] <03/21/2018 21:02:34> World server saved ! (1 ms)
+[Info] <03/21/2018 21:04:34> Saving world ...
+[Info] <03/21/2018 21:04:35> World server saved ! (2 ms)
+[Info] <03/21/2018 21:06:35> Saving world ...
+[Info] <03/21/2018 21:06:35> World server saved ! (3 ms)
+[Debug] <03/21/2018 21:06:35> TaskPool 'IO Task Pool' update lagged (58ms) (msg:0, timers:2/4)
+[Info] <03/21/2018 21:08:35> Saving world ...
+[Info] <03/21/2018 21:08:35> World server saved ! (3 ms)
+[Info] <03/21/2018 21:10:35> Saving world ...
+[Info] <03/21/2018 21:10:35> World server saved ! (2 ms)
+[Info] <03/21/2018 21:12:35> Saving world ...
+[Info] <03/21/2018 21:12:35> World server saved ! (2 ms)
+[Info] <03/21/2018 21:14:35> Saving world ...
+[Info] <03/21/2018 21:14:35> World server saved ! (1 ms)
+[Info] <03/21/2018 21:16:35> Saving world ...
+[Info] <03/21/2018 21:16:35> World server saved ! (4 ms)
+[Debug] <03/21/2018 21:16:35> TaskPool 'IO Task Pool' update lagged (58ms) (msg:0, timers:1/4)
+[Info] <03/21/2018 21:18:35> Saving world ...
+[Info] <03/21/2018 21:18:35> World server saved ! (2 ms)
+[Debug] <03/21/2018 21:19:04> Client request ticket YWKJMFDSLLTMZHDGGBNCBZHQICHSIRUQ
+[Debug] <03/21/2018 21:19:17> TaskPool 'IO Task Pool' update lagged (8255ms) (msg:1, timers:1/4)
+[Debug] <03/21/2018 21:19:17> CharacterSelectionMessage
+[Info] <03/21/2018 21:19:19> Area 'Bonta (7)' started
+[Debug] <03/21/2018 21:19:19> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <03/21/2018 21:19:19> Area 'Bonta (7)' update lagged (219ms) (msg:55ms, timers:164ms, timerProc:307/307)
+[Debug] <03/21/2018 21:19:19> Received Unknown packet : ClientKeyMessage
+[Debug] <03/21/2018 21:19:23> Received Unknown packet : SequenceNumberMessage
+[Debug] <03/21/2018 21:19:36> Received Unknown packet : HaapiApiKeyRequestMessage
+[Debug] <03/21/2018 21:20:31> Area 'Bonta (7)' update lagged (52ms) (msg:52ms, timers:0ms, timerProc:0/307)
+[Info] <03/21/2018 21:20:35> Saving world ...
+[Info] <03/21/2018 21:20:35> World server saved ! (176 ms)
+[Debug] <03/21/2018 21:20:35> TaskPool 'IO Task Pool' update lagged (193ms) (msg:0, timers:1/4)
+[Debug] <03/21/2018 21:20:51> TaskPool 'IO Task Pool' update lagged (55ms) (msg:4, timers:0/4)
+[Debug] <03/21/2018 21:20:51> Stump.Server.WorldServer.Game.Exchanges.BidHouse.BidHouseExchanger+<>c.<MovePricedItem>b__6_0
+[Debug] <03/21/2018 21:20:51> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow
+[Debug] <03/21/2018 21:20:51> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 21:20:51> Stump.Server.WorldServer.Game.Guilds.Guild+<>c__DisplayClass130_0.<Save>b__0
+[Debug] <03/21/2018 21:21:00> TaskPool 'IO Task Pool' update lagged (61ms) (msg:4, timers:0/4)
+[Debug] <03/21/2018 21:21:00> Stump.Server.WorldServer.Game.Exchanges.BidHouse.BidHouseExchanger+<>c.<MovePricedItem>b__6_0
+[Debug] <03/21/2018 21:21:00> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow
+[Debug] <03/21/2018 21:21:00> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <03/21/2018 21:21:00> Stump.Server.WorldServer.Game.Guilds.Guild+<>c__DisplayClass130_0.<Save>b__0
+[Debug] <03/21/2018 21:21:37> Area 'Bonta (7)' update lagged (899ms) (msg:899ms, timers:0ms, timerProc:0/307)
+[Debug] <03/21/2018 21:21:38> Area 'Bonta (7)' update lagged (1240ms) (msg:1241ms, timers:0ms, timerProc:0/307)

@@ -1,0 +1,132 @@
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager', is the assembly loaded ? 
+-------------Error at 09/22/2017 12:23:08------------- 
+
+-------------Error at 09/22/2017 12:23:19------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 09/22/2017 12:23:19------------- 
+
+-------------Fatal at 09/22/2017 12:23:22------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Unable to connect to any of the specified MySQL hosts.
+ Source: MySql.Data -> Void Open()
+ Stack Trace:
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Stump.ORM.Database.OpenSharedConnection() en C:\Dotruz 2.40.2\Core\Stump.ORM\PetaPoco.cs:línea 246
+   en Stump.ORM.DatabaseAccessor.OpenConnection(Database database) en C:\Dotruz 2.40.2\Core\Stump.ORM\DatabaseAccessor.cs:línea 106
+   en Stump.ORM.DatabaseAccessor.OpenConnection() en C:\Dotruz 2.40.2\Core\Stump.ORM\DatabaseAccessor.cs:línea 140
+   en Stump.Server.WorldServer.WorldServer.Initialize() en C:\Dotruz 2.40.2\Server\Stump.Server.WorldServer\WorldServer.cs:línea 130
+   en Stump.GUI.WorldConsole.Program.Main(String[] args) en C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\Program.cs:línea 18 
+-------------Fatal at 09/22/2017 12:23:22------------- 
+
+-------------Error at 09/22/2017 12:24:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 09/22/2017 12:24:26------------- 
+
+-------------Error at 09/22/2017 12:24:27------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 09/22/2017 12:24:27------------- 
+
+-------------Error at 09/22/2017 12:24:27------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 09/22/2017 12:24:27------------- 
+
+-------------Error at 09/22/2017 12:24:27------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 09/22/2017 12:24:27------------- 
+
+-------------Error at 09/22/2017 12:24:27------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 09/22/2017 12:24:27------------- 
+
+-------------Error at 09/22/2017 12:24:27------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager', is the assembly loaded ? 
+-------------Error at 09/22/2017 12:24:27------------- 
+
+-------------Error at 09/22/2017 12:24:35------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 09/22/2017 12:24:35------------- 
+
+-------------Error at 09/22/2017 12:24:45------------- 
+ Stump.Server.BaseServer.Initialization.InitializationManager.ExecuteInitializationMethod -> 
+	Table 'world.companion_spells' doesn't exist 
+-------------Error at 09/22/2017 12:24:45------------- 
+
+-------------Fatal at 09/22/2017 12:24:45------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Se produjo una excepción en el destino de la invocación.
+ Source: mscorlib -> System.Object InvokeMethod(System.Object, System.Object[], System.Signature, Boolean)
+ Stack Trace:
+   en System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   en System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   en System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   en System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   en Stump.Server.BaseServer.Initialization.InitializationManager.ExecuteInitializationMethod(InitializationMethod method) en C:\Dotruz 2.40.2\Server\Stump.Server.BaseServer\Initialization\InitializationManager.cs:línea 125
+   en Stump.Server.BaseServer.Initialization.InitializationManager.ExecuteInitializationMethod(InitializationMethod method) en C:\Dotruz 2.40.2\Server\Stump.Server.BaseServer\Initialization\InitializationManager.cs:línea 138
+   en Stump.Server.BaseServer.Initialization.InitializationManager.Initialize(InitializationPass pass) en C:\Dotruz 2.40.2\Server\Stump.Server.BaseServer\Initialization\InitializationManager.cs:línea 157
+   en Stump.Server.BaseServer.Initialization.InitializationManager.InitializeAll() en C:\Dotruz 2.40.2\Server\Stump.Server.BaseServer\Initialization\InitializationManager.cs:línea 149
+   en Stump.Server.WorldServer.WorldServer.Initialize() en C:\Dotruz 2.40.2\Server\Stump.Server.WorldServer\WorldServer.cs:línea 145
+   en Stump.GUI.WorldConsole.Program.Main(String[] args) en C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\Program.cs:línea 18 
+-------------Fatal at 09/22/2017 12:24:45------------- 
+
+-------------Fatal at 09/22/2017 12:24:46------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Table 'world.companion_spells' doesn't exist
+ Source: MySql.Data -> MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+ Stack Trace:
+   en MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   en Stump.ORM.Database.<Query>d__71`1.MoveNext() en C:\Dotruz 2.40.2\Core\Stump.ORM\PetaPoco.cs:línea 786
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Stump.ORM.Database.Fetch[T](String sql, Object[] args) en C:\Dotruz 2.40.2\Core\Stump.ORM\PetaPoco.cs:línea 624
+   en Stump.Server.WorldServer.Game.Spells.SpellManager.Initialize() en C:\Dotruz 2.40.2\Server\Stump.Server.WorldServer\Game\Spells\SpellManager.cs:línea 54 
+-------------Fatal at 09/22/2017 12:24:46------------- 
+

@@ -1,0 +1,50 @@
+C:\Users\Imran\Desktop\Azote\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Azote\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Dotruz 2.40.2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Dotruz 2.40.2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Dotruz 2.40.2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Escritorio\azurerepo\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+E:\Escritorio\azurerepo\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Escritorio\azurerepo\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+E:\Escritorio\azurerepo\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Escritorio\azurerepo\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\azur\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache

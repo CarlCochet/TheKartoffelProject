@@ -1,0 +1,68 @@
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Dotruz 2.40.2\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Dotruz 2.40.2\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+E:\Escritorio\azurerepo\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+E:\Escritorio\azurerepo\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+E:\Escritorio\azurerepo\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+E:\Escritorio\azurerepo\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+E:\Escritorio\azurerepo\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\azur\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\obj\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb

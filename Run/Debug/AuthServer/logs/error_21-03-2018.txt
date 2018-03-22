@@ -1,0 +1,5 @@
+-------------Error at 03/21/2018 19:12:59------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 03/21/2018 19:12:59------------- 
+

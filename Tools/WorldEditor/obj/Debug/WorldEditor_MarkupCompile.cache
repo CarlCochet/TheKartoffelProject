@@ -1,0 +1,20 @@
+﻿WorldEditor
+
+
+winexe
+C#
+.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\
+WorldEditor
+none
+false
+DEBUG;TRACE
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\App.xaml
+161840101965
+
+3881803410107
+21118588803
+Config\ConfigDialog.xaml;Editors\D2I\D2IEditor.xaml;Editors\D2O\D2OEditor.xaml;Editors\D2O\EditorDialog.xaml;Editors\D2O\Template.xaml;Editors\D2P\D2PEditor.xaml;Editors\Items\EffectEditorDialog.xaml;Editors\Items\IconSelectionDialog.xaml;Editors\Items\ItemEditor.xaml;Editors\Langs\LangEditor.xaml;Helpers\Controls\I18NTextBox.xaml;LoadingWindow.xaml;MainWindow.xaml;Search\Items\ItemSearchDialog.xaml;Search\SearchDialog.xaml;Themes\Generic.xaml;
+
+False
+

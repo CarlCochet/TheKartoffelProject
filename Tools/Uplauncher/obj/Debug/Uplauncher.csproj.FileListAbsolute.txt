@@ -1,0 +1,51 @@
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Debug\Uplauncher.exe
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Debug\Uplauncher.pdb
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.csprojResolveAssemblyReference.cache
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.Form1.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.OptionsForm.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.Properties.Resources.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.csproj.GenerateResource.Cache
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.exe
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Debug\Uplauncher.pdb
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Debug\MaterialSkin.dll
+G:\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.exe
+G:\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.pdb
+G:\ShadowEmu\Uplauncher\bin\Debug\MaterialSkin.dll
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.csprojResolveAssemblyReference.cache
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.Form1.resources
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.OptionsForm.resources
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.Properties.Resources.resources
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.csproj.GenerateResource.Cache
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.exe
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.pdb
+G:\ShadowEmu\Uplauncher\bin\Debug\MaterialSkin.pdb
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.TrustInfo.xml
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.exe.manifest
+G:\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.exe.manifest
+G:\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.application
+G:\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.application
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.csprojResolveAssemblyReference.cache
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.Form1.resources
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.OptionsForm.resources
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.Properties.Resources.resources
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.csproj.GenerateResource.Cache
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.csproj.CoreCompileInputs.cache
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.exe.config
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.exe.manifest
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.application
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.exe
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\Uplauncher.pdb
+E:\Escritorio\ShadowEmu\Uplauncher\bin\Debug\MaterialSkin.dll
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.TrustInfo.xml
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.exe.manifest
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.application
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.exe
+E:\Escritorio\ShadowEmu\Uplauncher\obj\Debug\Uplauncher.pdb
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.csprojResolveAssemblyReference.cache
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.Form1.resources
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.OptionsForm.resources
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.Properties.Resources.resources
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.csproj.GenerateResource.Cache
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.exe
+E:\Escritorio\azurerepo\Tools\Uplauncher\obj\Debug\Uplauncher.pdb

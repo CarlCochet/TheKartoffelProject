@@ -1,0 +1,470 @@
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\SwfLib.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\SwfLib.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Dotruz 2.40.2\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+E:\Escritorio\azurerepo\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\azur\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\SharpRaven.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Server\Stump.Server.AuthServer\obj\Debug\Stump.Server.AuthServer.pdb

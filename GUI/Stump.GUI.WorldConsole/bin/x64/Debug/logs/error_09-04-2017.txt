@@ -1,0 +1,1327 @@
+-------------Warn at 04/09/2017 08:23:54------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 08:23:54------------- 
+
+-------------Error at 04/09/2017 08:23:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 08:23:58------------- 
+
+-------------Error at 04/09/2017 08:23:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 08:23:59------------- 
+
+-------------Error at 04/09/2017 08:23:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 08:23:59------------- 
+
+-------------Error at 04/09/2017 08:23:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 08:23:59------------- 
+
+-------------Error at 04/09/2017 08:23:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 08:23:59------------- 
+
+-------------Error at 04/09/2017 08:24:06------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 08:24:06------------- 
+
+-------------Warn at 04/09/2017 08:33:30------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 08:33:30------------- 
+
+-------------Error at 04/09/2017 08:33:34------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 08:33:34------------- 
+
+-------------Error at 04/09/2017 08:33:34------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 08:33:34------------- 
+
+-------------Error at 04/09/2017 08:33:34------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 08:33:34------------- 
+
+-------------Error at 04/09/2017 08:33:34------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 08:33:34------------- 
+
+-------------Error at 04/09/2017 08:33:34------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 08:33:34------------- 
+
+-------------Error at 04/09/2017 08:33:43------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 08:33:43------------- 
+
+-------------Warn at 04/09/2017 08:52:51------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 08:52:51------------- 
+
+-------------Error at 04/09/2017 08:52:55------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 08:52:55------------- 
+
+-------------Error at 04/09/2017 08:52:55------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 08:52:55------------- 
+
+-------------Error at 04/09/2017 08:52:55------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 08:52:55------------- 
+
+-------------Error at 04/09/2017 08:52:55------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 08:52:55------------- 
+
+-------------Error at 04/09/2017 08:52:55------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 08:52:55------------- 
+
+-------------Error at 04/09/2017 08:53:03------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 08:53:03------------- 
+
+-------------Error at 04/09/2017 09:03:49------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Indigo et Ivoire (7851) there is no matching mount template 
+-------------Error at 04/09/2017 09:03:49------------- 
+
+-------------Error at 04/09/2017 09:03:49------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Indigo et Ivoire (7851) there is no matching mount template 
+-------------Error at 04/09/2017 09:03:49------------- 
+
+-------------Error at 04/09/2017 09:03:49------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Indigo et Ivoire (7851) there is no matching mount template 
+-------------Error at 04/09/2017 09:03:49------------- 
+
+-------------Error at 04/09/2017 09:11:02------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 09:11:02------------- 
+
+-------------Warn at 04/09/2017 09:18:09------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 09:18:09------------- 
+
+-------------Error at 04/09/2017 09:18:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 09:18:13------------- 
+
+-------------Error at 04/09/2017 09:18:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 09:18:13------------- 
+
+-------------Error at 04/09/2017 09:18:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 09:18:13------------- 
+
+-------------Error at 04/09/2017 09:18:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 09:18:13------------- 
+
+-------------Error at 04/09/2017 09:18:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 09:18:13------------- 
+
+-------------Error at 04/09/2017 09:18:21------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 09:18:21------------- 
+
+-------------Error at 04/09/2017 09:20:58------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 09:20:58------------- 
+
+-------------Warn at 04/09/2017 09:25:48------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 09:25:48------------- 
+
+-------------Error at 04/09/2017 09:25:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 09:25:52------------- 
+
+-------------Error at 04/09/2017 09:25:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 09:25:53------------- 
+
+-------------Error at 04/09/2017 09:25:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 09:25:53------------- 
+
+-------------Error at 04/09/2017 09:25:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 09:25:53------------- 
+
+-------------Error at 04/09/2017 09:25:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 09:25:53------------- 
+
+-------------Error at 04/09/2017 09:26:02------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 09:26:02------------- 
+
+-------------Error at 04/09/2017 09:27:48------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 09:27:48------------- 
+
+-------------Warn at 04/09/2017 09:34:41------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 09:34:41------------- 
+
+-------------Error at 04/09/2017 09:34:45------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 09:34:45------------- 
+
+-------------Error at 04/09/2017 09:34:45------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 09:34:45------------- 
+
+-------------Error at 04/09/2017 09:34:45------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 09:34:45------------- 
+
+-------------Error at 04/09/2017 09:34:45------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 09:34:45------------- 
+
+-------------Error at 04/09/2017 09:34:45------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 09:34:45------------- 
+
+-------------Error at 04/09/2017 09:34:53------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 09:34:53------------- 
+
+-------------Warn at 04/09/2017 12:27:01------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 12:27:01------------- 
+
+-------------Error at 04/09/2017 12:27:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 12:27:07------------- 
+
+-------------Error at 04/09/2017 12:27:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 12:27:07------------- 
+
+-------------Error at 04/09/2017 12:27:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 12:27:07------------- 
+
+-------------Error at 04/09/2017 12:27:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 12:27:07------------- 
+
+-------------Error at 04/09/2017 12:27:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 12:27:07------------- 
+
+-------------Error at 04/09/2017 12:27:13------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 12:27:13------------- 
+
+-------------Warn at 04/09/2017 12:31:37------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 12:31:37------------- 
+
+-------------Error at 04/09/2017 12:31:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 12:31:41------------- 
+
+-------------Error at 04/09/2017 12:31:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 12:31:41------------- 
+
+-------------Error at 04/09/2017 12:31:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 12:31:41------------- 
+
+-------------Error at 04/09/2017 12:31:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 12:31:41------------- 
+
+-------------Error at 04/09/2017 12:31:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 12:31:41------------- 
+
+-------------Error at 04/09/2017 12:31:47------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 12:31:47------------- 
+
+-------------Warn at 04/09/2017 12:46:54------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 12:46:54------------- 
+
+-------------Error at 04/09/2017 12:46:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 12:46:58------------- 
+
+-------------Error at 04/09/2017 12:46:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 12:46:58------------- 
+
+-------------Error at 04/09/2017 12:46:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 12:46:58------------- 
+
+-------------Error at 04/09/2017 12:46:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 12:46:58------------- 
+
+-------------Error at 04/09/2017 12:46:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 12:46:58------------- 
+
+-------------Error at 04/09/2017 12:47:04------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 12:47:04------------- 
+
+-------------Error at 04/09/2017 12:49:07------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2 : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.SendAccountCapabilitiesMessage(WorldClient client) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Approach\ApproachHandler.cs:ligne 201
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.OnAccountReceived(AccountAnswerMessage message, WorldClient client) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Approach\ApproachHandler.cs:ligne 175
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Approach\ApproachHandler.cs:ligne 89
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 12:49:07------------- 
+
+-------------Error at 04/09/2017 12:56:07------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2 : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.SendAccountCapabilitiesMessage(WorldClient client)
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.OnAccountReceived(AccountAnswerMessage message, WorldClient client)
+   à Stump.Server.WorldServer.Handlers.Approach.ApproachHandler.<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2()
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 12:56:07------------- 
+
+-------------Error at 04/09/2017 12:56:08------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.World.Void Save(), Delay = 180000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save()
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 12:56:08------------- 
+
+-------------Warn at 04/09/2017 12:57:38------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 12:57:38------------- 
+
+-------------Error at 04/09/2017 12:57:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 12:57:41------------- 
+
+-------------Error at 04/09/2017 12:57:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 12:57:41------------- 
+
+-------------Error at 04/09/2017 12:57:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 12:57:41------------- 
+
+-------------Error at 04/09/2017 12:57:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 12:57:41------------- 
+
+-------------Error at 04/09/2017 12:57:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 12:57:41------------- 
+
+-------------Error at 04/09/2017 12:57:47------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 12:57:47------------- 
+
+-------------Error at 04/09/2017 12:59:40------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 12:59:40------------- 
+
+-------------Warn at 04/09/2017 13:02:36------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 13:02:36------------- 
+
+-------------Error at 04/09/2017 13:02:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 13:02:41------------- 
+
+-------------Error at 04/09/2017 13:02:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 13:02:41------------- 
+
+-------------Error at 04/09/2017 13:02:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 13:02:41------------- 
+
+-------------Error at 04/09/2017 13:02:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 13:02:41------------- 
+
+-------------Error at 04/09/2017 13:02:41------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 13:02:41------------- 
+
+-------------Error at 04/09/2017 13:02:49------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 13:02:49------------- 
+
+-------------Error at 04/09/2017 13:07:23------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.World.Void Save(), Delay = 180000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 715
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 13:07:23------------- 
+
+-------------Warn at 04/09/2017 13:26:11------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 13:26:11------------- 
+
+-------------Error at 04/09/2017 13:26:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 13:26:16------------- 
+
+-------------Error at 04/09/2017 13:26:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 13:26:16------------- 
+
+-------------Error at 04/09/2017 13:26:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 13:26:16------------- 
+
+-------------Error at 04/09/2017 13:26:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 13:26:16------------- 
+
+-------------Error at 04/09/2017 13:26:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 13:26:16------------- 
+
+-------------Error at 04/09/2017 13:26:22------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 13:26:22------------- 
+
+-------------Error at 04/09/2017 13:29:02------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 13:29:02------------- 
+
+-------------Error at 04/09/2017 13:29:28------------- 
+ Stump.Server.WorldServer.Game.Maps.Area.UpdateCallback -> 
+	Exception raised when processing Message in Astrub (18) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Maps.Map.<>c.<get_Zaap>b__144_0(InteractiveObject x) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   à Stump.Server.WorldServer.Game.Maps.Map.get_Zaap() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.OnEnterMap(Map map) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 2430
+   à Stump.Server.WorldServer.Game.Maps.Map.OnEnter(RolePlayActor actor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 1362
+   à Stump.Server.WorldServer.Game.Maps.Map.OnActorEnter(RolePlayActor actor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 76
+   à Stump.Server.WorldServer.Game.Maps.Map.Enter(RolePlayActor actor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 1191
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.RolePlayActor.<>c__DisplayClass16_0.<Teleport>b__0() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\RolePlayActor.cs:ligne 112
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Server.WorldServer.Game.Maps.Area.UpdateCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Area.cs:ligne 368. 
+-------------Error at 04/09/2017 13:29:28------------- 
+
+-------------Error at 04/09/2017 13:32:30------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.World.Void Save(), Delay = 180000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 716
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 13:32:30------------- 
+
+-------------Warn at 04/09/2017 13:39:01------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 13:39:01------------- 
+
+-------------Error at 04/09/2017 13:39:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 13:39:05------------- 
+
+-------------Error at 04/09/2017 13:39:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 13:39:05------------- 
+
+-------------Error at 04/09/2017 13:39:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 13:39:05------------- 
+
+-------------Error at 04/09/2017 13:39:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 13:39:05------------- 
+
+-------------Error at 04/09/2017 13:39:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 13:39:05------------- 
+
+-------------Error at 04/09/2017 13:39:12------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 13:39:12------------- 
+
+-------------Error at 04/09/2017 13:41:59------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 13:41:59------------- 
+
+-------------Error at 04/09/2017 13:45:04------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.World.Void Save(), Delay = 180000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save()
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 13:45:04------------- 
+
+-------------Warn at 04/09/2017 13:46:32------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 13:46:32------------- 
+
+-------------Error at 04/09/2017 13:46:36------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 13:46:36------------- 
+
+-------------Error at 04/09/2017 13:46:36------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 13:46:36------------- 
+
+-------------Error at 04/09/2017 13:46:36------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 13:46:36------------- 
+
+-------------Error at 04/09/2017 13:46:36------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 13:46:36------------- 
+
+-------------Error at 04/09/2017 13:46:36------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 13:46:36------------- 
+
+-------------Error at 04/09/2017 13:46:43------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 13:46:43------------- 
+
+-------------Error at 04/09/2017 13:48:53------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 13:48:53------------- 
+
+-------------Error at 04/09/2017 13:51:38------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.World.Void Save(), Delay = 180000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 716
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 13:51:38------------- 
+
+-------------Warn at 04/09/2017 13:56:04------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 13:56:04------------- 
+
+-------------Error at 04/09/2017 13:56:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 13:56:08------------- 
+
+-------------Error at 04/09/2017 13:56:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 13:56:09------------- 
+
+-------------Error at 04/09/2017 13:56:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 13:56:09------------- 
+
+-------------Error at 04/09/2017 13:56:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 13:56:09------------- 
+
+-------------Error at 04/09/2017 13:56:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 13:56:09------------- 
+
+-------------Error at 04/09/2017 13:56:15------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 13:56:15------------- 
+
+-------------Error at 04/09/2017 13:58:46------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 13:58:46------------- 
+
+-------------Error at 04/09/2017 13:59:20------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.World.Save : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 716
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 13:59:20------------- 
+
+-------------Error at 04/09/2017 13:59:36------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.World.Save : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 716
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 13:59:36------------- 
+
+-------------Error at 04/09/2017 14:00:05------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.World.Save : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.World.Save() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 716
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 14:00:05------------- 
+
+-------------Warn at 04/09/2017 14:31:10------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 14:31:10------------- 
+
+-------------Error at 04/09/2017 14:31:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 14:31:16------------- 
+
+-------------Error at 04/09/2017 14:31:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 14:31:16------------- 
+
+-------------Error at 04/09/2017 14:31:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 14:31:16------------- 
+
+-------------Error at 04/09/2017 14:31:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 14:31:16------------- 
+
+-------------Error at 04/09/2017 14:31:16------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 14:31:16------------- 
+
+-------------Error at 04/09/2017 14:31:23------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 14:31:23------------- 
+
+-------------Error at 04/09/2017 14:34:11------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:34:11------------- 
+
+-------------Error at 04/09/2017 14:34:42------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : InteractiveUseRequestMessage] Force disconnection of client <127.0.0.1> (Oxygen) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Maps.Map.<>c.<get_Zaap>b__144_0(InteractiveObject x) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   à Stump.Server.WorldServer.Game.Maps.Map.get_Zaap() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à Stump.Server.WorldServer.Game.World.<>c.<GetAllMapsWhereIsAZaap>b__48_0(Map x) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 435
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   à System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   à Stump.Server.WorldServer.Game.Dialogs.Interactives.ZaapDialog..ctor(Character character, InteractiveObject zaap, IEnumerable`1 destinations) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Dialogs\Interactives\ZaapDialog.cs:ligne 29
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillZaapTeleport.StartExecute(Character character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Interactives\Skills\SkillZaapTeleport.cs:ligne 26
+   à Stump.Server.WorldServer.Game.Maps.Map.UseInteractiveObject(Character character, Int32 interactiveId, Int32 skillId) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 735
+   à Stump.Server.WorldServer.Handlers.Interactives.InteractiveHandler.HandleInteractiveUseRequestMessage(WorldClient client, InteractiveUseRequestMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Interactives\InteractiveHandler.cs:ligne 18
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/09/2017 14:34:42------------- 
+
+-------------Error at 04/09/2017 14:39:16------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager.Void CheckVotes(), Delay = 300000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Core.Network.WorldClient.Send(Message message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\Network\WorldClient.cs:ligne 260
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.DisplayNotification(String text, NotificationEnum notification) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 2560
+   à Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager.CheckVotes() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Misc\AutoAnnounceManager.cs:ligne 47
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 14:39:16------------- 
+
+-------------Error at 04/09/2017 14:39:16------------- 
+ Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout -> 
+	Cannot perfom OnLoggout actions, but trying to Save character : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.Network.BaseClient.get_IP() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\BaseClient.cs:ligne 77
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.OnLoggedOut() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 214
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3658 
+-------------Error at 04/09/2017 14:39:16------------- 
+
+-------------Error at 04/09/2017 14:41:38------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:41:38------------- 
+
+-------------Warn at 04/09/2017 14:43:32------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 14:43:32------------- 
+
+-------------Error at 04/09/2017 14:43:37------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 14:43:37------------- 
+
+-------------Error at 04/09/2017 14:43:37------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 14:43:37------------- 
+
+-------------Error at 04/09/2017 14:43:37------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 14:43:37------------- 
+
+-------------Error at 04/09/2017 14:43:37------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 14:43:37------------- 
+
+-------------Error at 04/09/2017 14:43:37------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 14:43:37------------- 
+
+-------------Error at 04/09/2017 14:43:45------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 14:43:45------------- 
+
+-------------Error at 04/09/2017 14:46:03------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:46:03------------- 
+
+-------------Error at 04/09/2017 14:46:15------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : InteractiveUseRequestMessage] Force disconnection of client <127.0.0.1> (Oxygen) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Maps.Map.<>c.<get_Zaap>b__144_0(InteractiveObject x) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   à Stump.Server.WorldServer.Game.Maps.Map.get_Zaap() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 461
+   à Stump.Server.WorldServer.Game.World.<>c.<GetAllMapsWhereIsAZaap>b__48_0(Map x) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\World.cs:ligne 435
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   à System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   à Stump.Server.WorldServer.Game.Dialogs.Interactives.ZaapDialog..ctor(Character character, InteractiveObject zaap, IEnumerable`1 destinations) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Dialogs\Interactives\ZaapDialog.cs:ligne 29
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillZaapTeleport.StartExecute(Character character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Interactives\Skills\SkillZaapTeleport.cs:ligne 26
+   à Stump.Server.WorldServer.Game.Maps.Map.UseInteractiveObject(Character character, Int32 interactiveId, Int32 skillId) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Maps\Map.cs:ligne 735
+   à Stump.Server.WorldServer.Handlers.Interactives.InteractiveHandler.HandleInteractiveUseRequestMessage(WorldClient client, InteractiveUseRequestMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Interactives\InteractiveHandler.cs:ligne 18
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/09/2017 14:46:15------------- 
+
+-------------Error at 04/09/2017 14:47:20------------- 
+ Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout -> 
+	Cannot perfom OnLoggout actions, but trying to Save character : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.Network.BaseClient.get_IP() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\BaseClient.cs:ligne 77
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.OnLoggedOut()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout() 
+-------------Error at 04/09/2017 14:47:20------------- 
+
+-------------Error at 04/09/2017 14:47:34------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:47:34------------- 
+
+-------------Error at 04/09/2017 14:47:50------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : InteractiveUseRequestMessage] Force disconnection of client <127.0.0.1> (Oxygen) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Maps.Map.<>c.<get_Zaap>b__144_0(InteractiveObject x)
+   à System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   à Stump.Server.WorldServer.Game.Maps.Map.get_Zaap()
+   à Stump.Server.WorldServer.Game.World.<>c.<GetAllMapsWhereIsAZaap>b__48_0(Map x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   à System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   à Stump.Server.WorldServer.Game.Dialogs.Interactives.ZaapDialog..ctor(Character character, InteractiveObject zaap, IEnumerable`1 destinations)
+   à Stump.Server.WorldServer.Game.Interactives.Skills.SkillZaapTeleport.StartExecute(Character character)
+   à Stump.Server.WorldServer.Game.Maps.Map.UseInteractiveObject(Character character, Int32 interactiveId, Int32 skillId)
+   à Stump.Server.WorldServer.Handlers.Interactives.InteractiveHandler.HandleInteractiveUseRequestMessage(WorldClient client, InteractiveUseRequestMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/09/2017 14:47:50------------- 
+
+-------------Warn at 04/09/2017 14:51:53------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 14:51:53------------- 
+
+-------------Error at 04/09/2017 14:51:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 14:51:58------------- 
+
+-------------Error at 04/09/2017 14:51:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 14:51:58------------- 
+
+-------------Error at 04/09/2017 14:51:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 14:51:58------------- 
+
+-------------Error at 04/09/2017 14:51:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 14:51:58------------- 
+
+-------------Error at 04/09/2017 14:51:58------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 14:51:58------------- 
+
+-------------Error at 04/09/2017 14:52:05------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 14:52:05------------- 
+
+-------------Error at 04/09/2017 14:55:07------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:55:07------------- 
+
+-------------Error at 04/09/2017 14:58:21------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 14:58:21------------- 
+
+-------------Warn at 04/09/2017 15:04:48------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 15:04:48------------- 
+
+-------------Error at 04/09/2017 15:04:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 15:04:52------------- 
+
+-------------Error at 04/09/2017 15:04:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 15:04:52------------- 
+
+-------------Error at 04/09/2017 15:04:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 15:04:52------------- 
+
+-------------Error at 04/09/2017 15:04:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 15:04:52------------- 
+
+-------------Error at 04/09/2017 15:04:52------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 15:04:52------------- 
+
+-------------Error at 04/09/2017 15:04:59------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 15:04:59------------- 
+
+-------------Error at 04/09/2017 15:05:01------------- 
+ Stump.Server.BaseServer.Commands.CommandManager.RegisterSubCommand -> 
+	The subcommand Stump.Server.WorldServer.Commands.Commands.MonsterMaxStarCommand has no parent command and cannot be registered 
+-------------Error at 04/09/2017 15:05:01------------- 
+
+-------------Error at 04/09/2017 15:07:44------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 15:07:44------------- 
+
+-------------Error at 04/09/2017 15:08:11------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 15:08:11------------- 
+
+-------------Warn at 04/09/2017 15:10:04------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 15:10:04------------- 
+
+-------------Error at 04/09/2017 15:10:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 15:10:09------------- 
+
+-------------Error at 04/09/2017 15:10:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 15:10:09------------- 
+
+-------------Error at 04/09/2017 15:10:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 15:10:09------------- 
+
+-------------Error at 04/09/2017 15:10:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 15:10:09------------- 
+
+-------------Error at 04/09/2017 15:10:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 15:10:09------------- 
+
+-------------Error at 04/09/2017 15:10:16------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 15:10:16------------- 
+
+-------------Error at 04/09/2017 15:13:44------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 15:13:44------------- 
+
+-------------Warn at 04/09/2017 15:15:50------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 15:15:50------------- 
+
+-------------Error at 04/09/2017 15:15:57------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 15:15:57------------- 
+
+-------------Error at 04/09/2017 15:15:57------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 15:15:57------------- 
+
+-------------Error at 04/09/2017 15:15:57------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 15:15:57------------- 
+
+-------------Error at 04/09/2017 15:15:57------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 15:15:57------------- 
+
+-------------Error at 04/09/2017 15:15:57------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 15:15:57------------- 
+
+-------------Error at 04/09/2017 15:16:06------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 15:16:06------------- 
+
+-------------Error at 04/09/2017 15:19:17------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 15:19:17------------- 
+
+-------------Warn at 04/09/2017 15:21:14------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 15:21:14------------- 
+
+-------------Error at 04/09/2017 15:21:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 15:21:20------------- 
+
+-------------Error at 04/09/2017 15:21:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 15:21:20------------- 
+
+-------------Error at 04/09/2017 15:21:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 15:21:20------------- 
+
+-------------Error at 04/09/2017 15:21:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 15:21:20------------- 
+
+-------------Error at 04/09/2017 15:21:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 15:21:20------------- 
+
+-------------Warn at 04/09/2017 16:28:25------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 16:28:25------------- 
+
+-------------Error at 04/09/2017 16:28:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 16:28:33------------- 
+
+-------------Error at 04/09/2017 16:28:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 16:28:33------------- 
+
+-------------Error at 04/09/2017 16:28:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 16:28:33------------- 
+
+-------------Error at 04/09/2017 16:28:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 16:28:33------------- 
+
+-------------Error at 04/09/2017 16:28:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 16:28:33------------- 
+
+-------------Error at 04/09/2017 16:28:42------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 16:28:42------------- 
+
+-------------Warn at 04/09/2017 16:51:07------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 16:51:07------------- 
+
+-------------Error at 04/09/2017 16:51:11------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 16:51:11------------- 
+
+-------------Error at 04/09/2017 16:51:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 16:51:12------------- 
+
+-------------Error at 04/09/2017 16:51:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 16:51:12------------- 
+
+-------------Error at 04/09/2017 16:51:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 16:51:12------------- 
+
+-------------Error at 04/09/2017 16:51:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 16:51:12------------- 
+
+-------------Error at 04/09/2017 16:51:20------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 16:51:20------------- 
+
+-------------Error at 04/09/2017 17:10:24------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 17:10:24------------- 
+
+-------------Error at 04/09/2017 17:33:01------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : ObjectSetPositionMessage] Force disconnection of client <127.0.0.1> (Oxygen) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Items.Player.Custom.PetItem.UpdateItemSkin(ActorLook characterLook)
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.UpdateLook(BasePlayerItem item, Boolean send)
+   à Stump.Server.WorldServer.Game.Items.Player.Inventory.OnItemMoved(BasePlayerItem item, CharacterInventoryPositionEnum lastPosition)
+   à Stump.Server.WorldServer.Game.Items.Player.Inventory.NotifyItemMoved(BasePlayerItem item, CharacterInventoryPositionEnum lastPosition)
+   à Stump.Server.WorldServer.Game.Items.Player.Inventory.MoveItem(BasePlayerItem item, CharacterInventoryPositionEnum position, Boolean forceCanEquip)
+   à Stump.Server.WorldServer.Handlers.Inventory.InventoryHandler.HandleObjectSetPositionMessage(WorldClient client, ObjectSetPositionMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/09/2017 17:33:01------------- 
+
+-------------Error at 04/09/2017 17:33:37------------- 
+ Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout -> 
+	Cannot perfom OnLoggout actions, but trying to Save character : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.Network.BaseClient.get_IP() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\BaseClient.cs:ligne 77
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.OnLoggedOut()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout() 
+-------------Error at 04/09/2017 17:33:37------------- 
+
+-------------Error at 04/09/2017 17:34:12------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 17:34:12------------- 
+
+-------------Error at 04/09/2017 17:39:51------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (Oxygen) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Items.Player.Custom.PetItem.UpdateItemSkin(ActorLook characterLook)
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<>c.<UpdateLook>b__226_1(ActorLook current, BasePlayerItem item)
+   à System.Linq.Enumerable.Aggregate[TSource,TAccumulate](IEnumerable`1 source, TAccumulate seed, Func`3 func)
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.UpdateLook(Boolean send)
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord()
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character)
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/09/2017 17:39:51------------- 
+
+-------------Error at 04/09/2017 17:39:52------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager.Void CheckVotes(), Delay = 300000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.Network.BaseClient.get_IP() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\BaseClient.cs:ligne 77
+   à Stump.Server.WorldServer.Core.Network.WorldClient.Send(Message message)
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.DisplayNotification(String text, NotificationEnum notification)
+   à Stump.Server.WorldServer.Game.Misc.AutoAnnounceManager.CheckVotes()
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/09/2017 17:39:52------------- 
+
+-------------Error at 04/09/2017 17:39:52------------- 
+ Stump.Server.WorldServer.Game.World.Save -> 
+	Cannot save {0} : {1} 
+-------------Error at 04/09/2017 17:39:52------------- 
+
+-------------Error at 04/09/2017 17:40:41------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 17:40:41------------- 
+
+-------------Error at 04/09/2017 17:40:55------------- 
+ Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout -> 
+	Cannot perfom OnLoggout actions, but trying to Save character : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.Network.BaseClient.get_IP() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\BaseClient.cs:ligne 77
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.OnLoggedOut()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.PerformLoggout() 
+-------------Error at 04/09/2017 17:40:55------------- 
+
+-------------Error at 04/09/2017 17:40:55------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0 : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0()
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 190 
+-------------Error at 04/09/2017 17:40:55------------- 
+
+-------------Warn at 04/09/2017 18:05:00------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 18:05:00------------- 
+
+-------------Error at 04/09/2017 18:05:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 18:05:07------------- 
+
+-------------Error at 04/09/2017 18:05:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 18:05:07------------- 
+
+-------------Error at 04/09/2017 18:05:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 18:05:07------------- 
+
+-------------Error at 04/09/2017 18:05:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 18:05:07------------- 
+
+-------------Error at 04/09/2017 18:05:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 18:05:07------------- 
+
+-------------Error at 04/09/2017 18:05:18------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 18:05:18------------- 
+
+-------------Error at 04/09/2017 18:09:09------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 18:09:09------------- 
+
+-------------Warn at 04/09/2017 18:48:49------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 18:48:49------------- 
+
+-------------Error at 04/09/2017 18:48:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 18:48:54------------- 
+
+-------------Error at 04/09/2017 18:48:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 18:48:54------------- 
+
+-------------Error at 04/09/2017 18:48:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 18:48:54------------- 
+
+-------------Error at 04/09/2017 18:48:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 18:48:54------------- 
+
+-------------Error at 04/09/2017 18:48:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 18:48:54------------- 
+
+-------------Error at 04/09/2017 18:49:04------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 18:49:04------------- 
+
+-------------Error at 04/09/2017 18:52:16------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 18:52:16------------- 
+
+-------------Warn at 04/09/2017 19:38:57------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/09/2017 19:38:57------------- 
+
+-------------Error at 04/09/2017 19:39:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/09/2017 19:39:03------------- 
+
+-------------Error at 04/09/2017 19:39:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/09/2017 19:39:03------------- 
+
+-------------Error at 04/09/2017 19:39:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/09/2017 19:39:03------------- 
+
+-------------Error at 04/09/2017 19:39:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/09/2017 19:39:03------------- 
+
+-------------Error at 04/09/2017 19:39:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/09/2017 19:39:03------------- 
+
+-------------Error at 04/09/2017 19:39:13------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/09/2017 19:39:13------------- 
+
+-------------Error at 04/09/2017 19:43:14------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/09/2017 19:43:14------------- 
+

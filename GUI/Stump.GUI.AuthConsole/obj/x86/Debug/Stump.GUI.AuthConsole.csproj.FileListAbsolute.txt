@@ -1,0 +1,15 @@
+C:\Users\Imran\Desktop\Azote\Run\Debug\AuthServer\Stump.GUI.AuthConsole.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\Stump.GUI.AuthConsole.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\18_to_19.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\20_to_21.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\1_to_2.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\21_to_22.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\22_to_23.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\23_to_24.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\swf_patchs\AuthPatch.swf
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\sql_update\17_to_18.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\AuthServer\Stump.GUI.AuthConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x86\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x86\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x86\Debug\Stump.GUI.AuthConsole.pdb

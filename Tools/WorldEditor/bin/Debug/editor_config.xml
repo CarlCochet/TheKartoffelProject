@@ -1,0 +1,41 @@
+﻿<Configuration>
+  <WorldEditor>
+    <Config>
+      <Settings>
+        <!--Editable as Running : False-->
+        <Variable name="DatabaseConfiguration" serialized="true">
+          <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <User>root</User>
+            <Password />
+            <DbName>exilium_world</DbName>
+            <Host>localhost</Host>
+            <ProviderName>MySql.Data.MySqlClient</ProviderName>
+          </DatabaseConfiguration>
+        </Variable>
+        <!--Editable as Running : False-->
+        <Variable name="LoaderSettings" serialized="true">
+          <LoaderSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <BasePath>C:\Users\Alexandra\Desktop\Geraxi</BasePath>
+            <MapsRelativeFile>content\maps\maps0.d2p</MapsRelativeFile>
+            <D2ORelativeDirectory>data\common</D2ORelativeDirectory>
+            <D2IRelativeDirectory>data\i18n</D2IRelativeDirectory>
+            <ItemIconsRelativeFile>content\gfx\items\bitmap0.d2p</ItemIconsRelativeFile>
+            <WorldGfxRelativeFile>content\gfx\world\gfx0.d2p</WorldGfxRelativeFile>
+            <WorldEleRelativeFile>content\maps\elements.ele</WorldEleRelativeFile>
+            <GenericMapDecryptionKey>649ae451ca33ec53bbcbcc33becf15f4</GenericMapDecryptionKey>
+          </LoaderSettings>
+        </Variable>
+        <!--Editable as Running : False-->
+        <Variable name="DefaultLanguage" serialized="true">
+          <Languages>French</Languages>
+        </Variable>
+        <!--Editable as Running : False-->
+        <Variable name="MinI18NId" serialized="false">200000</Variable>
+        <!--Editable as Running : False-->
+        <Variable name="MinDataId" serialized="false">20000</Variable>
+        <!--Editable as Running : False-->
+        <Variable name="IsFirstLaunch" serialized="false">False</Variable>
+      </Settings>
+    </Config>
+  </WorldEditor>
+</Configuration>

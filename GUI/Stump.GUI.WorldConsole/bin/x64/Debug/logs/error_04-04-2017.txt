@@ -1,0 +1,497 @@
+-------------Warn at 04/04/2017 13:41:19------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 13:41:19------------- 
+
+-------------Error at 04/04/2017 13:41:31------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 13:41:31------------- 
+
+-------------Error at 04/04/2017 13:41:32------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 13:41:32------------- 
+
+-------------Error at 04/04/2017 13:41:32------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 13:41:32------------- 
+
+-------------Error at 04/04/2017 13:41:32------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 13:41:32------------- 
+
+-------------Error at 04/04/2017 13:41:32------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 13:41:32------------- 
+
+-------------Error at 04/04/2017 13:41:44------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 13:41:44------------- 
+
+-------------Warn at 04/04/2017 18:13:20------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 18:13:20------------- 
+
+-------------Error at 04/04/2017 18:13:40------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 18:13:40------------- 
+
+-------------Error at 04/04/2017 18:13:42------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 18:13:42------------- 
+
+-------------Error at 04/04/2017 18:13:42------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 18:13:42------------- 
+
+-------------Error at 04/04/2017 18:13:42------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 18:13:42------------- 
+
+-------------Error at 04/04/2017 18:13:42------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 18:13:42------------- 
+
+-------------Error at 04/04/2017 18:13:56------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 18:13:56------------- 
+
+-------------Warn at 04/04/2017 18:26:19------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 18:26:19------------- 
+
+-------------Error at 04/04/2017 18:26:24------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 18:26:24------------- 
+
+-------------Error at 04/04/2017 18:26:24------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 18:26:24------------- 
+
+-------------Error at 04/04/2017 18:26:24------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 18:26:24------------- 
+
+-------------Error at 04/04/2017 18:26:24------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 18:26:24------------- 
+
+-------------Error at 04/04/2017 18:26:24------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 18:26:24------------- 
+
+-------------Error at 04/04/2017 18:26:33------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 18:26:33------------- 
+
+-------------Error at 04/04/2017 18:26:34------------- 
+ Stump.Server.BaseServer.Commands.CommandManager.RegisterSubCommandContainer -> 
+	Found two Commands with Alias "ai": AchievementCommands and AICommands 
+-------------Error at 04/04/2017 18:26:34------------- 
+
+-------------Error at 04/04/2017 18:28:11------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 79
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3822
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 213
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 56
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:28:11------------- 
+
+-------------Warn at 04/04/2017 18:29:14------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 18:29:14------------- 
+
+-------------Error at 04/04/2017 18:29:19------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 18:29:19------------- 
+
+-------------Error at 04/04/2017 18:29:19------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 18:29:19------------- 
+
+-------------Error at 04/04/2017 18:29:19------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 18:29:19------------- 
+
+-------------Error at 04/04/2017 18:29:19------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 18:29:19------------- 
+
+-------------Error at 04/04/2017 18:29:19------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 18:29:19------------- 
+
+-------------Error at 04/04/2017 18:29:30------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 18:29:30------------- 
+
+-------------Error at 04/04/2017 18:29:32------------- 
+ Stump.Server.BaseServer.Commands.CommandManager.RegisterSubCommandContainer -> 
+	Found two Commands with Alias "ai": AchievementCommands and AICommands 
+-------------Error at 04/04/2017 18:29:32------------- 
+
+-------------Error at 04/04/2017 18:30:18------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterCreationRequestMessage] Force disconnection of client <127.0.0.1> (test) : MySql.Data.MySqlClient.MySqlException (0x80004005): Le champ 'FinishedAchievementsCSV' ne peut être vide (null)
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   à Stump.ORM.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco) dans C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\PetaPoco.cs:ligne 1354
+   à Stump.ORM.Database.Insert(Object poco) dans C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\PetaPoco.cs:ligne 1362
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.CharacterManager.CreateCharacter(WorldClient client, String name, SByte breedId, Boolean sex, IEnumerable`1 colors, Int32 headId, Action successCallback, Action`1 failCallback) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\CharacterManager.cs:ligne 163
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterCreationRequestMessage(WorldClient client, CharacterCreationRequestMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterCreationHandler.cs:ligne 26
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:30:18------------- 
+
+-------------Warn at 04/04/2017 18:31:05------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 18:31:05------------- 
+
+-------------Error at 04/04/2017 18:31:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 18:31:10------------- 
+
+-------------Error at 04/04/2017 18:31:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 18:31:10------------- 
+
+-------------Error at 04/04/2017 18:31:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 18:31:10------------- 
+
+-------------Error at 04/04/2017 18:31:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 18:31:10------------- 
+
+-------------Error at 04/04/2017 18:31:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 18:31:10------------- 
+
+-------------Error at 04/04/2017 18:31:19------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 18:31:19------------- 
+
+-------------Error at 04/04/2017 18:31:20------------- 
+ Stump.Server.BaseServer.Commands.CommandManager.RegisterSubCommandContainer -> 
+	Found two Commands with Alias "ai": AchievementCommands and AICommands 
+-------------Error at 04/04/2017 18:31:20------------- 
+
+-------------Error at 04/04/2017 18:32:02------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 79
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3822
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 213
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 56
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:32:02------------- 
+
+-------------Error at 04/04/2017 18:35:47------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 79
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3822
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 213
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 56
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:35:47------------- 
+
+-------------Error at 04/04/2017 18:36:34------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.Collections.Generic.KeyNotFoundException: La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à Stump.Server.WorldServer.Game.Achievements.AchievementManager.get_MinLevelCriterion()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.ManageCriterions()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord()
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character)
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:36:34------------- 
+
+-------------Error at 04/04/2017 18:37:17------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.Collections.Generic.KeyNotFoundException: La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à Stump.Server.WorldServer.Game.Achievements.AchievementManager.get_MinLevelCriterion()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.ManageCriterions()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord()
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character)
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:37:17------------- 
+
+-------------Error at 04/04/2017 18:38:03------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test) : System.Collections.Generic.KeyNotFoundException: La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à Stump.Server.WorldServer.Game.Achievements.AchievementManager.get_MinLevelCriterion()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.ManageCriterions()
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements()
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord()
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character)
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message)
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 04/04/2017 18:38:03------------- 
+
+-------------Warn at 04/04/2017 18:40:41------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 18:40:41------------- 
+
+-------------Error at 04/04/2017 18:40:46------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 18:40:46------------- 
+
+-------------Error at 04/04/2017 18:40:47------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 18:40:47------------- 
+
+-------------Error at 04/04/2017 18:40:47------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 18:40:47------------- 
+
+-------------Error at 04/04/2017 18:40:47------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 18:40:47------------- 
+
+-------------Error at 04/04/2017 18:40:47------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 18:40:47------------- 
+
+-------------Error at 04/04/2017 18:40:56------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 18:40:56------------- 
+
+-------------Error at 04/04/2017 18:40:57------------- 
+ Stump.Server.BaseServer.Commands.CommandManager.RegisterSubCommandContainer -> 
+	Found two Commands with Alias "ai": AchievementCommands and AICommands 
+-------------Error at 04/04/2017 18:40:57------------- 
+
+-------------Warn at 04/04/2017 19:07:04------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 19:07:04------------- 
+
+-------------Error at 04/04/2017 19:07:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 19:07:10------------- 
+
+-------------Error at 04/04/2017 19:07:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 19:07:10------------- 
+
+-------------Error at 04/04/2017 19:07:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 19:07:10------------- 
+
+-------------Error at 04/04/2017 19:07:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 19:07:10------------- 
+
+-------------Error at 04/04/2017 19:07:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 19:07:10------------- 
+
+-------------Error at 04/04/2017 19:07:21------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 19:07:21------------- 
+
+-------------Warn at 04/04/2017 20:18:59------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 20:18:59------------- 
+
+-------------Error at 04/04/2017 20:19:04------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 20:19:04------------- 
+
+-------------Error at 04/04/2017 20:19:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 20:19:05------------- 
+
+-------------Error at 04/04/2017 20:19:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 20:19:05------------- 
+
+-------------Error at 04/04/2017 20:19:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 20:19:05------------- 
+
+-------------Error at 04/04/2017 20:19:05------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 20:19:05------------- 
+
+-------------Error at 04/04/2017 20:19:13------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 20:19:13------------- 
+
+-------------Warn at 04/04/2017 20:44:04------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 20:44:04------------- 
+
+-------------Error at 04/04/2017 20:44:09------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 20:44:09------------- 
+
+-------------Error at 04/04/2017 20:44:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 20:44:10------------- 
+
+-------------Error at 04/04/2017 20:44:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 20:44:10------------- 
+
+-------------Error at 04/04/2017 20:44:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 20:44:10------------- 
+
+-------------Error at 04/04/2017 20:44:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 20:44:10------------- 
+
+-------------Error at 04/04/2017 20:44:19------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 20:44:19------------- 
+
+-------------Warn at 04/04/2017 21:07:28------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 21:07:28------------- 
+
+-------------Error at 04/04/2017 21:07:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 21:07:33------------- 
+
+-------------Error at 04/04/2017 21:07:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 21:07:33------------- 
+
+-------------Error at 04/04/2017 21:07:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 21:07:33------------- 
+
+-------------Error at 04/04/2017 21:07:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 21:07:33------------- 
+
+-------------Error at 04/04/2017 21:07:33------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 21:07:33------------- 
+
+-------------Error at 04/04/2017 21:07:44------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 21:07:44------------- 
+
+-------------Warn at 04/04/2017 21:25:54------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/04/2017 21:25:54------------- 
+
+-------------Error at 04/04/2017 21:25:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/04/2017 21:25:59------------- 
+
+-------------Error at 04/04/2017 21:25:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/04/2017 21:25:59------------- 
+
+-------------Error at 04/04/2017 21:25:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/04/2017 21:25:59------------- 
+
+-------------Error at 04/04/2017 21:25:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/04/2017 21:25:59------------- 
+
+-------------Error at 04/04/2017 21:25:59------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/04/2017 21:25:59------------- 
+
+-------------Error at 04/04/2017 21:26:09------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/04/2017 21:26:09------------- 
+

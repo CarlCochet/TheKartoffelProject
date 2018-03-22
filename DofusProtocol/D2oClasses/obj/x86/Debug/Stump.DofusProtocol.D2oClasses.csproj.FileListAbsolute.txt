@@ -1,0 +1,12 @@
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\x86\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\bin\x86\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\x86\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\DofusProtocol\D2oClasses\obj\x86\Debug\Stump.DofusProtocol.D2oClasses.pdb

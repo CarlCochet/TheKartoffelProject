@@ -1,0 +1,618 @@
+-------------Warn at 04/13/2017 08:19:09------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 08:19:09------------- 
+
+-------------Error at 04/13/2017 08:19:13------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 08:19:13------------- 
+
+-------------Error at 04/13/2017 08:19:14------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 08:19:14------------- 
+
+-------------Error at 04/13/2017 08:19:14------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 08:19:14------------- 
+
+-------------Error at 04/13/2017 08:19:14------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 08:19:14------------- 
+
+-------------Error at 04/13/2017 08:19:14------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 08:19:14------------- 
+
+-------------Error at 04/13/2017 08:19:21------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 08:19:21------------- 
+
+-------------Error at 04/13/2017 08:38:49------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/13/2017 08:38:49------------- 
+
+-------------Warn at 04/13/2017 08:47:06------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 08:47:06------------- 
+
+-------------Error at 04/13/2017 08:47:10------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 08:47:10------------- 
+
+-------------Error at 04/13/2017 08:47:11------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 08:47:11------------- 
+
+-------------Error at 04/13/2017 08:47:11------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 08:47:11------------- 
+
+-------------Error at 04/13/2017 08:47:11------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 08:47:11------------- 
+
+-------------Error at 04/13/2017 08:47:11------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 08:47:11------------- 
+
+-------------Error at 04/13/2017 08:47:19------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 08:47:19------------- 
+
+-------------Error at 04/13/2017 08:50:07------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/13/2017 08:50:07------------- 
+
+-------------Warn at 04/13/2017 09:22:24------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 09:22:24------------- 
+
+-------------Error at 04/13/2017 09:22:28------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 09:22:28------------- 
+
+-------------Error at 04/13/2017 09:22:28------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 09:22:28------------- 
+
+-------------Error at 04/13/2017 09:22:28------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 09:22:28------------- 
+
+-------------Error at 04/13/2017 09:22:28------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 09:22:28------------- 
+
+-------------Error at 04/13/2017 09:22:28------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 09:22:28------------- 
+
+-------------Error at 04/13/2017 09:22:36------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 09:22:36------------- 
+
+-------------Error at 04/13/2017 09:24:54------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/13/2017 09:24:54------------- 
+
+-------------Warn at 04/13/2017 10:03:43------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 10:03:43------------- 
+
+-------------Error at 04/13/2017 10:03:48------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 10:03:48------------- 
+
+-------------Error at 04/13/2017 10:03:49------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 10:03:49------------- 
+
+-------------Error at 04/13/2017 10:03:49------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 10:03:49------------- 
+
+-------------Error at 04/13/2017 10:03:49------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 10:03:49------------- 
+
+-------------Error at 04/13/2017 10:03:49------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 10:03:49------------- 
+
+-------------Error at 04/13/2017 10:03:57------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 10:03:57------------- 
+
+-------------Warn at 04/13/2017 10:55:49------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 10:55:49------------- 
+
+-------------Error at 04/13/2017 10:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 10:55:54------------- 
+
+-------------Error at 04/13/2017 10:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 10:55:54------------- 
+
+-------------Error at 04/13/2017 10:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 10:55:54------------- 
+
+-------------Error at 04/13/2017 10:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 10:55:54------------- 
+
+-------------Error at 04/13/2017 10:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 10:55:54------------- 
+
+-------------Error at 04/13/2017 10:56:04------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 10:56:04------------- 
+
+-------------Warn at 04/13/2017 12:12:54------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 12:12:54------------- 
+
+-------------Error at 04/13/2017 12:13:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 12:13:03------------- 
+
+-------------Error at 04/13/2017 12:13:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 12:13:03------------- 
+
+-------------Error at 04/13/2017 12:13:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 12:13:03------------- 
+
+-------------Error at 04/13/2017 12:13:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 12:13:03------------- 
+
+-------------Error at 04/13/2017 12:13:03------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 12:13:03------------- 
+
+-------------Error at 04/13/2017 12:13:15------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 12:13:15------------- 
+
+-------------Warn at 04/13/2017 12:20:12------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.ServerUpdateMessage timed out  
+-------------Warn at 04/13/2017 12:20:12------------- 
+
+-------------Error at 04/13/2017 12:20:12------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.BaseServer.IPC.IPCEntity+<>c__DisplayClass13_0`1[Stump.Server.BaseServer.IPC.Messages.CommonOKMessage].Void <SendRequest>b__0(), Delay = 60000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.IPC.IPCEntity.DefaultRequestErrorCallback(IIPCErrorMessage errorMessage) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 153
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 128
+   à Stump.Server.BaseServer.IPC.IPCEntity.RequestTimedOut(IIPCRequest request) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 147
+   à Stump.Server.BaseServer.IPC.IPCEntity.<>c__DisplayClass13_0`1.<SendRequest>b__0() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 75
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/13/2017 12:20:12------------- 
+
+-------------Error at 04/13/2017 12:20:25------------- 
+ Stump.Server.WorldServer.Game.Items.Player.Custom.MountCertificate.CreateMount -> 
+	Cannot generate mount associated to scroll Dragodinde Rousse Sauvage (7809) there is no matching mount template 
+-------------Error at 04/13/2017 12:20:25------------- 
+
+-------------Warn at 04/13/2017 12:21:22------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.AccountRequestMessage timed out  
+-------------Warn at 04/13/2017 12:21:22------------- 
+
+-------------Warn at 04/13/2017 12:21:52------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.UpdateAccountMessage timed out  
+-------------Warn at 04/13/2017 12:21:52------------- 
+
+-------------Error at 04/13/2017 12:21:52------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.BaseServer.IPC.IPCEntity+<>c__DisplayClass13_0`1[Stump.Server.BaseServer.IPC.Messages.CommonOKMessage].Void <SendRequest>b__0(), Delay = 60000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.IPC.IPCEntity.DefaultRequestErrorCallback(IIPCErrorMessage errorMessage) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 153
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 128
+   à Stump.Server.BaseServer.IPC.IPCEntity.RequestTimedOut(IIPCRequest request) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 147
+   à Stump.Server.BaseServer.IPC.IPCEntity.<>c__DisplayClass13_0`1.<SendRequest>b__0() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 75
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/13/2017 12:21:52------------- 
+
+-------------Warn at 04/13/2017 12:23:13------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.ServerUpdateMessage timed out  
+-------------Warn at 04/13/2017 12:23:13------------- 
+
+-------------Error at 04/13/2017 12:23:13------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.BaseServer.IPC.IPCEntity+<>c__DisplayClass13_0`1[Stump.Server.BaseServer.IPC.Messages.CommonOKMessage].Void <SendRequest>b__0(), Delay = 60000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.IPC.IPCEntity.DefaultRequestErrorCallback(IIPCErrorMessage errorMessage) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 153
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 128
+   à Stump.Server.BaseServer.IPC.IPCEntity.RequestTimedOut(IIPCRequest request) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 147
+   à Stump.Server.BaseServer.IPC.IPCEntity.<>c__DisplayClass13_0`1.<SendRequest>b__0() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 75
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/13/2017 12:23:13------------- 
+
+-------------Warn at 04/13/2017 12:26:14------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.ServerUpdateMessage timed out  
+-------------Warn at 04/13/2017 12:26:14------------- 
+
+-------------Error at 04/13/2017 12:26:14------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Exception raised when processing TimerEntry Stump.Core.Timers.TimedTimerEntry (Callback = Stump.Server.BaseServer.IPC.IPCEntity+<>c__DisplayClass13_0`1[Stump.Server.BaseServer.IPC.Messages.CommonOKMessage].Void <SendRequest>b__0(), Delay = 60000) in Stump.Core.Threading.SelfRunningTaskPool : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.BaseServer.IPC.IPCEntity.DefaultRequestErrorCallback(IIPCErrorMessage errorMessage) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 153
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 128
+   à Stump.Server.BaseServer.IPC.IPCEntity.RequestTimedOut(IIPCRequest request) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 147
+   à Stump.Server.BaseServer.IPC.IPCEntity.<>c__DisplayClass13_0`1.<SendRequest>b__0() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 75
+   à Stump.Core.Timers.TimedTimerEntry.Trigger() dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Timers\TimedTimerEntry.cs:ligne 128
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Imran\Desktop\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 223. 
+-------------Error at 04/13/2017 12:26:14------------- 
+
+-------------Warn at 04/13/2017 12:35:16------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 12:35:16------------- 
+
+-------------Error at 04/13/2017 12:35:22------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 12:35:22------------- 
+
+-------------Error at 04/13/2017 12:35:23------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 12:35:23------------- 
+
+-------------Error at 04/13/2017 12:35:23------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 12:35:23------------- 
+
+-------------Error at 04/13/2017 12:35:23------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 12:35:23------------- 
+
+-------------Error at 04/13/2017 12:35:23------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 12:35:23------------- 
+
+-------------Error at 04/13/2017 12:35:32------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 12:35:32------------- 
+
+-------------Warn at 04/13/2017 12:39:10------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out  
+-------------Warn at 04/13/2017 12:39:10------------- 
+
+-------------Error at 04/13/2017 12:39:10------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive -> 
+	Forced disconnection during reception : System.Exception: Cannot load groups : Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 64
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.<Initialize>b__4_0(IPCAccessor accessor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 34
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessGranted(CommonOKMessage msg) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 212
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 124
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessAnswer(IIPCRequest request, IPCMessage answer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 454
+   à Stump.Server.BaseServer.IPC.IPCEntity.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 49
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.BuildMessage(BufferSegment buffer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 398
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive(Object sender, SocketAsyncEventArgs e) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 334 
+-------------Error at 04/13/2017 12:39:10------------- 
+
+-------------Error at 04/13/2017 12:39:10------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessDenied -> 
+	Access to auth. server denied ! Reason : Cancelled from world server - disconnected 
+-------------Error at 04/13/2017 12:39:10------------- 
+
+-------------Warn at 04/13/2017 12:51:02------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 12:51:02------------- 
+
+-------------Error at 04/13/2017 12:51:07------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 12:51:07------------- 
+
+-------------Error at 04/13/2017 12:51:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 12:51:08------------- 
+
+-------------Error at 04/13/2017 12:51:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 12:51:08------------- 
+
+-------------Error at 04/13/2017 12:51:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 12:51:08------------- 
+
+-------------Error at 04/13/2017 12:51:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 12:51:08------------- 
+
+-------------Error at 04/13/2017 12:51:17------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 12:51:17------------- 
+
+-------------Warn at 04/13/2017 12:54:31------------- 
+ Stump.Server.WorldServer.Core.Network.WorldPacketHandler.Dispatch -> 
+	Handler id = ReloginTokenRequestMessage cannot handle this message because the client <127.0.0.1> is not logged and should be 
+-------------Warn at 04/13/2017 12:54:31------------- 
+
+-------------Warn at 04/13/2017 12:55:04------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out  
+-------------Warn at 04/13/2017 12:55:04------------- 
+
+-------------Error at 04/13/2017 12:55:05------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive -> 
+	Forced disconnection during reception : System.Exception: Cannot load groups : Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 64
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.<Initialize>b__4_0(IPCAccessor accessor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 34
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessGranted(CommonOKMessage msg) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 212
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 124
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessAnswer(IIPCRequest request, IPCMessage answer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 454
+   à Stump.Server.BaseServer.IPC.IPCEntity.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 49
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.BuildMessage(BufferSegment buffer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 398
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive(Object sender, SocketAsyncEventArgs e) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 334 
+-------------Error at 04/13/2017 12:55:05------------- 
+
+-------------Error at 04/13/2017 12:55:05------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessDenied -> 
+	Access to auth. server denied ! Reason : Cancelled from world server - disconnected 
+-------------Error at 04/13/2017 12:55:05------------- 
+
+-------------Warn at 04/13/2017 12:55:47------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 12:55:47------------- 
+
+-------------Error at 04/13/2017 12:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 12:55:54------------- 
+
+-------------Error at 04/13/2017 12:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 12:55:54------------- 
+
+-------------Error at 04/13/2017 12:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 12:55:54------------- 
+
+-------------Error at 04/13/2017 12:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 12:55:54------------- 
+
+-------------Error at 04/13/2017 12:55:54------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 12:55:54------------- 
+
+-------------Error at 04/13/2017 12:56:04------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 12:56:04------------- 
+
+-------------Warn at 04/13/2017 13:02:41------------- 
+ Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage -> 
+	IPC Error on message recv Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out  
+-------------Warn at 04/13/2017 13:02:41------------- 
+
+-------------Error at 04/13/2017 13:02:41------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive -> 
+	Forced disconnection during reception : System.Exception: Cannot load groups : Request Stump.Server.BaseServer.IPC.Messages.GroupsRequestMessage timed out
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups() dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 64
+   à Stump.Server.WorldServer.Game.Accounts.AccountManager.<Initialize>b__4_0(IPCAccessor accessor) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Game\Accounts\AccountManager.cs:ligne 34
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessGranted(CommonOKMessage msg) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 212
+   à Stump.Server.BaseServer.IPC.IPCRequest`1.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCRequest.cs:ligne 124
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessAnswer(IIPCRequest request, IPCMessage answer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 454
+   à Stump.Server.BaseServer.IPC.IPCEntity.ProcessMessage(IPCMessage message) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.BaseServer\IPC\IPCEntity.cs:ligne 49
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.BuildMessage(BufferSegment buffer) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 398
+   à Stump.Server.WorldServer.Core.IPC.IPCAccessor.ProcessReceive(Object sender, SocketAsyncEventArgs e) dans C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\Core\IPC\IPCAccessor.cs:ligne 334 
+-------------Error at 04/13/2017 13:02:41------------- 
+
+-------------Error at 04/13/2017 13:02:41------------- 
+ Stump.Server.WorldServer.Core.IPC.IPCAccessor.OnAccessDenied -> 
+	Access to auth. server denied ! Reason : Cancelled from world server - disconnected 
+-------------Error at 04/13/2017 13:02:41------------- 
+
+-------------Warn at 04/13/2017 13:38:03------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 13:38:03------------- 
+
+-------------Error at 04/13/2017 13:38:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 13:38:08------------- 
+
+-------------Error at 04/13/2017 13:38:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 13:38:08------------- 
+
+-------------Error at 04/13/2017 13:38:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 13:38:08------------- 
+
+-------------Error at 04/13/2017 13:38:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 13:38:08------------- 
+
+-------------Error at 04/13/2017 13:38:08------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 13:38:08------------- 
+
+-------------Error at 04/13/2017 13:38:17------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 13:38:17------------- 
+
+-------------Warn at 04/13/2017 13:44:48------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 13:44:48------------- 
+
+-------------Error at 04/13/2017 13:44:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 13:44:53------------- 
+
+-------------Error at 04/13/2017 13:44:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 13:44:53------------- 
+
+-------------Error at 04/13/2017 13:44:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 13:44:53------------- 
+
+-------------Error at 04/13/2017 13:44:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 13:44:53------------- 
+
+-------------Error at 04/13/2017 13:44:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 13:44:53------------- 
+
+-------------Error at 04/13/2017 13:45:01------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 13:45:01------------- 
+
+-------------Warn at 04/13/2017 13:48:38------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 13:48:38------------- 
+
+-------------Error at 04/13/2017 13:48:43------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 13:48:43------------- 
+
+-------------Error at 04/13/2017 13:48:43------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 13:48:43------------- 
+
+-------------Error at 04/13/2017 13:48:43------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 13:48:43------------- 
+
+-------------Error at 04/13/2017 13:48:43------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 13:48:43------------- 
+
+-------------Error at 04/13/2017 13:48:43------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 13:48:43------------- 
+
+-------------Error at 04/13/2017 13:48:52------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 13:48:52------------- 
+
+-------------Warn at 04/13/2017 14:45:07------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 04/13/2017 14:45:07------------- 
+
+-------------Error at 04/13/2017 14:45:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 04/13/2017 14:45:12------------- 
+
+-------------Error at 04/13/2017 14:45:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 04/13/2017 14:45:12------------- 
+
+-------------Error at 04/13/2017 14:45:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 04/13/2017 14:45:12------------- 
+
+-------------Error at 04/13/2017 14:45:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 04/13/2017 14:45:12------------- 
+
+-------------Error at 04/13/2017 14:45:12------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 04/13/2017 14:45:12------------- 
+
+-------------Error at 04/13/2017 14:45:20------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 04/13/2017 14:45:20------------- 
+

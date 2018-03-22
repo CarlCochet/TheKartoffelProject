@@ -1,0 +1,393 @@
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\43_to_44.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\44_to_45.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\49_to_50.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\50_to_51.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\51_to_52.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\52_to_53.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\53_to_54.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\58_to_59.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\59_to_60.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\60_to_61.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\61_to_62.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\62_to_63.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\63_to_64.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\64_to_65.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\66_to_67.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\67_to_68.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\68_to_69.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\69_to_70.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\70_to_71.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\71_to_72.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\72_to_73.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\73_to_74.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Owin.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\TreeSharp.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SwfLib.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SwfLib.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\43_to_44.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\44_to_45.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\49_to_50.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\50_to_51.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\51_to_52.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\52_to_53.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\53_to_54.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\58_to_59.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\59_to_60.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\60_to_61.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\61_to_62.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\62_to_63.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\63_to_64.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\64_to_65.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\66_to_67.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\67_to_68.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\68_to_69.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\69_to_70.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\70_to_71.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\71_to_72.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\72_to_73.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\73_to_74.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\TreeSharp.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\43_to_44.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\44_to_45.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\49_to_50.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\50_to_51.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\51_to_52.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\52_to_53.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\53_to_54.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\58_to_59.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\59_to_60.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\60_to_61.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\61_to_62.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\62_to_63.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\63_to_64.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\64_to_65.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\66_to_67.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\67_to_68.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\68_to_69.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\69_to_70.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\70_to_71.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\71_to_72.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\72_to_73.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\73_to_74.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\NLog.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\TreeSharp.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\43_to_44.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\44_to_45.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\49_to_50.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\50_to_51.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\51_to_52.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\52_to_53.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\53_to_54.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\58_to_59.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\59_to_60.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\60_to_61.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\61_to_62.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\62_to_63.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\63_to_64.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\64_to_65.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\66_to_67.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\67_to_68.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\68_to_69.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\69_to_70.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\70_to_71.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\71_to_72.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\72_to_73.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\73_to_74.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\NLog.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Owin.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\TreeSharp.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\43_to_44.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\44_to_45.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\49_to_50.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\50_to_51.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\51_to_52.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\52_to_53.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\53_to_54.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\58_to_59.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\59_to_60.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\60_to_61.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\61_to_62.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\62_to_63.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\63_to_64.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\64_to_65.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\66_to_67.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\67_to_68.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\68_to_69.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\69_to_70.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\70_to_71.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\71_to_72.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\72_to_73.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\sql_update\73_to_74.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\NLog.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\TreeSharp.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\bin\x64\Debug\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\x64\Debug\Stump.GUI.WorldConsole.pdb

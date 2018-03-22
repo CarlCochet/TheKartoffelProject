@@ -1,0 +1,22 @@
+﻿<Configuration>
+  <DBSynchroniser>
+    <Program>
+      <!--Editable as Running : False-->
+      <Variable name="WorldDatabaseConfiguration" serialized="true">
+        <DatabaseConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <User>root</User>
+          <Password />
+          <DbName>stump_world</DbName>
+          <Host>localhost</Host>
+          <ProviderName>MySql.Data.MySqlClient</ProviderName>
+        </DatabaseConfiguration>
+      </Variable>
+      <!--Editable as Running : True-->
+      <Variable name="SpecificLanguage" serialized="false">fr</Variable>
+      <!--Editable as Running : True-->
+      <Variable name="DofusCustomPath" serialized="false">C:\Users\Alexandra\Desktop\dofus geraxi</Variable>
+      <!--Editable as Running : True-->
+      <Variable name="DecryptionKey" serialized="false">649ae451ca33ec53bbcbcc33becf15f4</Variable>
+    </Program>
+  </DBSynchroniser>
+</Configuration>

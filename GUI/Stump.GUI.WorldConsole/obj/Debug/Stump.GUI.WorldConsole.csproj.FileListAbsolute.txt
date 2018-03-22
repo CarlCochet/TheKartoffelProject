@@ -1,0 +1,386 @@
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Azote\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\43_to_44.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\44_to_45.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\49_to_50.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\50_to_51.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\51_to_52.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\52_to_53.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\53_to_54.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\58_to_59.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\59_to_60.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\60_to_61.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\61_to_62.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\62_to_63.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\63_to_64.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\64_to_65.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\66_to_67.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\67_to_68.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\68_to_69.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\69_to_70.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\70_to_71.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\71_to_72.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\72_to_73.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\sql_update\73_to_74.sql
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\Accord.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+F:\Users\Luis Mercado\Desktop\AZOTE\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+F:\Users\Luis Mercado\Desktop\AZOTE\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\43_to_44.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\44_to_45.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\49_to_50.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\50_to_51.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\51_to_52.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\52_to_53.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\53_to_54.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\58_to_59.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\59_to_60.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\60_to_61.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\61_to_62.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\62_to_63.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\63_to_64.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\64_to_65.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\66_to_67.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\67_to_68.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\68_to_69.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\69_to_70.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\70_to_71.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\71_to_72.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\72_to_73.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\73_to_74.sql
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\Accord.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\Accord.dll.config
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Dotruz 2.40.2\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Dotruz 2.40.2\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+E:\Escritorio\azurerepo\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+E:\Escritorio\azurerepo\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\43_to_44.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\44_to_45.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\49_to_50.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\50_to_51.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\51_to_52.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\52_to_53.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\53_to_54.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\58_to_59.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\59_to_60.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\60_to_61.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\61_to_62.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\62_to_63.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\63_to_64.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\64_to_65.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\66_to_67.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\67_to_68.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\68_to_69.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\69_to_70.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\70_to_71.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\71_to_72.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\72_to_73.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\sql_update\73_to_74.sql
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\Accord.dll.config
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+E:\Escritorio\azurerepo\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+E:\Escritorio\azurerepo\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+E:\Escritorio\azurerepo\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\azur\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\azur\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\azur\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\43_to_44.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\44_to_45.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\49_to_50.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\50_to_51.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\51_to_52.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\52_to_53.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\53_to_54.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\58_to_59.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\59_to_60.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\60_to_61.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\61_to_62.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\62_to_63.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\63_to_64.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\64_to_65.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\66_to_67.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\67_to_68.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\68_to_69.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\69_to_70.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\70_to_71.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\71_to_72.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\72_to_73.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\sql_update\73_to_74.sql
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Accord.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Run\Debug\WorldServer\Stump.GUI.WorldConsole.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.exe
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\GUI\Stump.GUI.WorldConsole\obj\Debug\Stump.GUI.WorldConsole.pdb

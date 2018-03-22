@@ -1,0 +1,687 @@
+[Warn] <05/31/2017 08:03:33> Exceptions not handled cause Debugger is attatched
+[Info] <05/31/2017 08:03:40> Initializing Configuration...
+[Info] <05/31/2017 08:03:44> Initialize Task Pool
+[Info] <05/31/2017 08:03:44> Register Plugins...
+[Info] <05/31/2017 08:03:56> Loading Plugins...
+[Info] <05/31/2017 08:03:57> Initializing Database...
+[Info] <05/31/2017 08:03:57> Opening Database...
+[Info] <05/31/2017 08:04:05> Register Messages...
+[Info] <05/31/2017 08:04:05> Register Packet Handlers...
+[Info] <05/31/2017 08:04:05> Register Commands...
+[Info] <05/31/2017 08:04:05> Initialize 'AutoAnnounceManager'
+[Info] <05/31/2017 08:04:05> Initialize 'ApproachHandler'
+[Info] <05/31/2017 08:04:05> Initialize 'ChatManager'
+[Info] <05/31/2017 08:04:05> Register id providers
+[Info] <05/31/2017 08:04:05> Initialize 'TextManager'
+[Info] <05/31/2017 08:04:07> Initialize DataManagers
+[Info] <05/31/2017 08:04:07> Initialize 'BreedManager'
+[Info] <05/31/2017 08:04:07> Initialize 'EffectManager'
+[Info] <05/31/2017 08:04:07> Initialize 'SpellManager'
+[Info] <05/31/2017 08:04:08> Initialize 'CellTriggerManager'
+[Info] <05/31/2017 08:04:08> Initialize 'ItemManager'
+[Info] <05/31/2017 08:04:12> Initialize 'PetManager'
+[Info] <05/31/2017 08:04:12> Initialize 'TeleportPotionManager'
+[Info] <05/31/2017 08:04:12> Initialize 'BidHouseManager'
+[Info] <05/31/2017 08:04:12> Initialize 'RuneManager'
+[Info] <05/31/2017 08:04:12> Initialize 'InteractiveManager'
+[Info] <05/31/2017 08:05:58> Initialize 'IdolManager'
+[Info] <05/31/2017 08:05:58> Initialize 'ChallengeManager'
+[Info] <05/31/2017 08:05:59> Initialize 'ExperienceManager'
+[Info] <05/31/2017 08:05:59> Initialize 'TinselManager'
+[Info] <05/31/2017 08:05:59> Initialize 'BrainManager'
+[Info] <05/31/2017 08:05:59> Initialize 'MongoLogger'
+[Info] <05/31/2017 08:05:59> Initialize 'JobManager'
+[Info] <05/31/2017 08:05:59> Initialize 'RuneManager'
+[Info] <05/31/2017 08:05:59> Initialize 'ArenaManager'
+[Info] <05/31/2017 08:05:59> Initialize 'NpcManager'
+[Info] <05/31/2017 08:06:00> Initialize 'GuildManager'
+[Info] <05/31/2017 08:06:01> Initialize 'MountManager'
+[Info] <05/31/2017 08:06:01> Initialize 'MonsterManager'
+[Info] <05/31/2017 08:06:02> Initialize 'MerchantManager'
+[Info] <05/31/2017 08:06:02> Initialize 'World'
+[Info] <05/31/2017 08:06:03> Load maps...
+[Info] <05/31/2017 08:06:16> Load maps scrolls...
+[Info] <05/31/2017 08:06:16> Load sub areas...
+[Info] <05/31/2017 08:06:16> Load areas...
+[Info] <05/31/2017 08:06:16> Load super areas...
+[Info] <05/31/2017 08:06:17> Spawn npcs ...
+[Info] <05/31/2017 08:06:17> Spawn interactives ...
+[Info] <05/31/2017 08:06:17> Spawn cell triggers ...
+[Info] <05/31/2017 08:06:17> Spawn monsters ...
+[Info] <05/31/2017 08:06:19> Spawn merchants ...
+[Info] <05/31/2017 08:06:19> Initialize 'AchievementManager'
+[Info] <05/31/2017 08:06:20> Initialize 'PaddockManager'
+[Info] <05/31/2017 08:06:20> Initialize 'TaxCollectorManager'
+[Info] <05/31/2017 08:06:20> Synchronize id providers
+[Info] <05/31/2017 08:06:20> Initialize 'QuestManager'
+[Info] <05/31/2017 08:06:20> Initialize 'WebServer'
+[Info] <05/31/2017 08:06:20> Start Auto-Save Cyclic Task
+[Info] <05/31/2017 08:06:20> Starting Console Handler Interface...
+[Info] <05/31/2017 08:06:20> Starting IPC Communications ...
+[Info] <05/31/2017 08:06:20> Start listening on port : 3467...
+[Debug] <05/31/2017 08:06:26> TaskPool 'IO Task Pool' update lagged (58ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 08:06:30> Attempt connection
+[Info] <05/31/2017 08:06:30> IPC connection etablished
+[Debug] <05/31/2017 08:06:31> TaskPool 'IPCAccessor Task Pool' update lagged (947ms) (msg:0, timers:1/3)
+[Info] <05/31/2017 08:06:32> Access to auth. server granted
+[Debug] <05/31/2017 08:06:32> TaskPool 'IPCAccessor Task Pool' update lagged (299ms) (msg:1, timers:0/3)
+[Debug] <05/31/2017 08:06:32> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <05/31/2017 08:06:32> TaskPool 'IO Task Pool' update lagged (267ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 08:06:32> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Debug] <05/31/2017 08:06:35> Client request ticket FVETKLXCAYWPUGCJAMNKOIIFLVKIUVZS
+[Debug] <05/31/2017 08:06:35> TaskPool 'IO Task Pool' update lagged (118ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 08:06:35> AuthenticationTicketMessage
+[Debug] <05/31/2017 08:06:36> TaskPool 'IO Task Pool' update lagged (202ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 08:06:36> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/31/2017 08:06:36> TaskPool 'IO Task Pool' update lagged (156ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 08:06:36> CharactersListRequestMessage
+[Debug] <05/31/2017 08:06:43> TaskPool 'IO Task Pool' update lagged (1121ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 08:06:43> CharacterSelectionMessage
+[Info] <05/31/2017 08:06:45> Area 'Tainéla (4)' started
+[Debug] <05/31/2017 08:06:45> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 08:06:46> Area 'Tainéla (4)' update lagged (168ms) (msg:39ms, timers:128ms, timerProc:35/69)
+[Debug] <05/31/2017 08:06:48> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 08:06:48> Area 'Tainéla (4)' update lagged (70ms) (msg:71ms, timers:0ms, timerProc:0/64)
+[Debug] <05/31/2017 08:06:56> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 08:06:57> Area 'Tainéla (4)' update lagged (64ms) (msg:0ms, timers:64ms, timerProc:0/64)
+[Debug] <05/31/2017 08:06:57> TaskPool 'IO Task Pool' update lagged (65ms) (msg:0, timers:0/5)
+[Debug] <05/31/2017 08:07:08> Area 'Tainéla (4)' update lagged (81ms) (msg:81ms, timers:0ms, timerProc:0/64)
+[Debug] <05/31/2017 08:07:09> Received Unknown packet : HaapiApiKeyRequestMessage
+[Debug] <05/31/2017 08:07:17> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:07:21> Area 'Tainéla (4)' stopped
+[Info] <05/31/2017 08:07:21> Area 'Amakna (0)' started
+[Debug] <05/31/2017 08:07:21> Area 'Tainéla (4)' update lagged (201ms) (msg:201ms, timers:0ms, timerProc:0/64)
+[Debug] <05/31/2017 08:07:21> Area 'Amakna (0)' update lagged (154ms) (msg:4ms, timers:149ms, timerProc:1039/1983)
+[Debug] <05/31/2017 08:07:21> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:07:27> Area 'Amakna (0)' stopped
+[Debug] <05/31/2017 08:07:28> Area 'Amakna (0)' update lagged (396ms) (msg:394ms, timers:2ms, timerProc:469/1983)
+[Info] <05/31/2017 08:07:30> Area 'Amakna (0)' started
+[Debug] <05/31/2017 08:08:02> Area 'Amakna (0)' update lagged (31559ms) (msg:31481ms, timers:78ms, timerProc:1244/1983)
+[Debug] <05/31/2017 08:08:10> Area 'Amakna (0)' update lagged (240ms) (msg:240ms, timers:0ms, timerProc:4/1984)
+[Debug] <05/31/2017 08:08:21> Area 'Amakna (0)' update lagged (156ms) (msg:155ms, timers:0ms, timerProc:2/1984)
+[Debug] <05/31/2017 08:08:39> Area 'Amakna (0)' update lagged (71ms) (msg:0ms, timers:71ms, timerProc:1008/1983)
+[Info] <05/31/2017 08:09:21> Saving world ...
+[Info] <05/31/2017 08:09:21> World server saved ! (556 ms)
+[Debug] <05/31/2017 08:09:21> TaskPool 'IO Task Pool' update lagged (562ms) (msg:0, timers:1/5)
+[Debug] <05/31/2017 08:09:21> TaskPool 'IO Task Pool' update lagged (65ms) (msg:122, timers:0/5)
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Debug] <05/31/2017 08:09:23> Stump.Server.WorldServer.Game.Items.BidHouse.BidHouseItem+<>c__DisplayClass13_0.<Save>b__0
+[Info] <05/31/2017 08:10:31> Area 'Amakna (0)' stopped
+[Info] <05/31/2017 08:10:32> Area 'Amakna (0)' started
+[Debug] <05/31/2017 08:10:50> Area 'Amakna (0)' update lagged (15832ms) (msg:15561ms, timers:270ms, timerProc:1151/1109)
+[Debug] <05/31/2017 08:10:55> Area 'Amakna (0)' update lagged (51ms) (msg:51ms, timers:0ms, timerProc:1/1079)
+[Debug] <05/31/2017 08:10:57> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:11:05> Area 'Amakna (0)' stopped
+[Info] <05/31/2017 08:11:05> Area 'Île de Sakaï (49)' started
+[Debug] <05/31/2017 08:11:05> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:11:12> Area 'Île de Sakaï (49)' stopped
+[Info] <05/31/2017 08:11:13> Area 'Île de Sakaï (49)' started
+[Debug] <05/31/2017 08:11:39> Area 'Île de Sakaï (49)' update lagged (24259ms) (msg:24203ms, timers:57ms, timerProc:26/52)
+[Debug] <05/31/2017 08:12:00> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:12:01> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <05/31/2017 08:12:21> Area 'Île de Sakaï (49)' update lagged (88ms) (msg:87ms, timers:0ms, timerProc:19/51)
+[Info] <05/31/2017 08:12:21> Saving world ...
+[Info] <05/31/2017 08:12:21> World server saved ! (20 ms)
+[Info] <05/31/2017 08:12:24> Area 'Île de Sakaï (49)' stopped
+[Info] <05/31/2017 08:12:24> Area 'Île de Frigost (48)' started
+[Debug] <05/31/2017 08:12:24> Area 'Île de Frigost (48)' update lagged (153ms) (msg:4ms, timers:148ms, timerProc:2241/2175)
+[Debug] <05/31/2017 08:12:24> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:13:00> Area 'Île de Frigost (48)' update lagged (209ms) (msg:209ms, timers:0ms, timerProc:0/2175)
+[Debug] <05/31/2017 08:13:01> Area 'Île de Frigost (48)' update lagged (69ms) (msg:0ms, timers:69ms, timerProc:1090/2175)
+[Debug] <05/31/2017 08:13:06> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:13:15> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:13:17> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:13:20> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:13:27> Area 'Île de Frigost (48)' stopped
+[Info] <05/31/2017 08:13:29> Area 'Île de Frigost (48)' started
+[Debug] <05/31/2017 08:13:44> Area 'Île de Frigost (48)' update lagged (13628ms) (msg:13559ms, timers:69ms, timerProc:1119/2177)
+[Debug] <05/31/2017 08:14:07> Received Unknown packet : PrismsListRegisterMessage
+[Debug] <05/31/2017 08:14:10> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:14:19> Area 'Île de Frigost (48)' stopped
+[Info] <05/31/2017 08:14:20> Area 'Île de Frigost (48)' started
+[Debug] <05/31/2017 08:14:42> Area 'Île de Frigost (48)' update lagged (20840ms) (msg:20549ms, timers:292ms, timerProc:1417/1289)
+[Debug] <05/31/2017 08:15:19> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:15:21> Saving world ...
+[Info] <05/31/2017 08:15:21> World server saved ! (51 ms)
+[Debug] <05/31/2017 08:15:21> TaskPool 'IO Task Pool' update lagged (54ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 08:15:31> Area 'Île de Frigost (48)' stopped
+[Info] <05/31/2017 08:15:31> Area 'Archipel de Vulkania (50)' started
+[Debug] <05/31/2017 08:15:31> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 08:15:39> Area 'Archipel de Vulkania (50)' stopped
+[Info] <05/31/2017 08:15:41> Area 'Archipel de Vulkania (50)' started
+[Debug] <05/31/2017 08:15:57> Area 'Archipel de Vulkania (50)' update lagged (13785ms) (msg:13778ms, timers:8ms, timerProc:125/255)
+[Info] <05/31/2017 08:18:21> Saving world ...
+[Info] <05/31/2017 08:18:21> World server saved ! (27 ms)
+[Info] <05/31/2017 08:21:21> Saving world ...
+[Info] <05/31/2017 08:21:21> World server saved ! (13 ms)
+[Debug] <05/31/2017 08:22:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:24:22> Saving world ...
+[Info] <05/31/2017 08:24:22> World server saved ! (17 ms)
+[Debug] <05/31/2017 08:27:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:27:22> Saving world ...
+[Info] <05/31/2017 08:27:22> World server saved ! (29 ms)
+[Info] <05/31/2017 08:30:22> Saving world ...
+[Info] <05/31/2017 08:30:22> World server saved ! (9 ms)
+[Debug] <05/31/2017 08:32:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:33:22> Saving world ...
+[Info] <05/31/2017 08:33:22> World server saved ! (16 ms)
+[Debug] <05/31/2017 08:33:22> TaskPool 'IO Task Pool' update lagged (491ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 08:36:22> Saving world ...
+[Info] <05/31/2017 08:36:22> World server saved ! (15 ms)
+[Debug] <05/31/2017 08:37:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:39:22> Saving world ...
+[Info] <05/31/2017 08:39:22> World server saved ! (12 ms)
+[Debug] <05/31/2017 08:42:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:42:22> Saving world ...
+[Info] <05/31/2017 08:42:22> World server saved ! (32 ms)
+[Info] <05/31/2017 08:45:22> Saving world ...
+[Info] <05/31/2017 08:45:22> World server saved ! (28 ms)
+[Debug] <05/31/2017 08:47:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:48:23> Saving world ...
+[Info] <05/31/2017 08:48:23> World server saved ! (15 ms)
+[Info] <05/31/2017 08:51:23> Saving world ...
+[Info] <05/31/2017 08:51:23> World server saved ! (41 ms)
+[Debug] <05/31/2017 08:52:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:54:23> Saving world ...
+[Info] <05/31/2017 08:54:23> World server saved ! (29 ms)
+[Debug] <05/31/2017 08:57:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 08:57:23> Saving world ...
+[Info] <05/31/2017 08:57:23> World server saved ! (31 ms)
+[Info] <05/31/2017 09:00:23> Saving world ...
+[Info] <05/31/2017 09:00:23> World server saved ! (14 ms)
+[Debug] <05/31/2017 09:02:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:03:23> Saving world ...
+[Info] <05/31/2017 09:03:23> World server saved ! (25 ms)
+[Info] <05/31/2017 09:06:23> Saving world ...
+[Info] <05/31/2017 09:06:23> World server saved ! (16 ms)
+[Debug] <05/31/2017 09:07:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:09:23> Saving world ...
+[Info] <05/31/2017 09:09:23> World server saved ! (35 ms)
+[Debug] <05/31/2017 09:12:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:12:23> Saving world ...
+[Info] <05/31/2017 09:12:23> World server saved ! (20 ms)
+[Info] <05/31/2017 09:15:23> Saving world ...
+[Info] <05/31/2017 09:15:23> World server saved ! (41 ms)
+[Debug] <05/31/2017 09:17:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:18:23> Saving world ...
+[Info] <05/31/2017 09:18:23> World server saved ! (13 ms)
+[Info] <05/31/2017 09:21:23> Saving world ...
+[Info] <05/31/2017 09:21:23> World server saved ! (20 ms)
+[Debug] <05/31/2017 09:22:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:24:23> Saving world ...
+[Info] <05/31/2017 09:24:23> World server saved ! (21 ms)
+[Debug] <05/31/2017 09:27:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:27:23> Saving world ...
+[Info] <05/31/2017 09:27:23> World server saved ! (34 ms)
+[Info] <05/31/2017 09:30:23> Saving world ...
+[Info] <05/31/2017 09:30:23> World server saved ! (34 ms)
+[Debug] <05/31/2017 09:32:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:33:23> Saving world ...
+[Info] <05/31/2017 09:33:23> World server saved ! (34 ms)
+[Info] <05/31/2017 09:36:23> Saving world ...
+[Info] <05/31/2017 09:36:23> World server saved ! (13 ms)
+[Debug] <05/31/2017 09:37:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:39:23> Saving world ...
+[Info] <05/31/2017 09:39:24> World server saved ! (11 ms)
+[Debug] <05/31/2017 09:42:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:42:24> Saving world ...
+[Info] <05/31/2017 09:42:24> World server saved ! (23 ms)
+[Info] <05/31/2017 09:45:24> Saving world ...
+[Info] <05/31/2017 09:45:24> World server saved ! (15 ms)
+[Debug] <05/31/2017 09:47:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:48:24> Saving world ...
+[Info] <05/31/2017 09:48:24> World server saved ! (9 ms)
+[Info] <05/31/2017 09:51:24> Saving world ...
+[Info] <05/31/2017 09:51:24> World server saved ! (15 ms)
+[Debug] <05/31/2017 09:52:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:54:24> Saving world ...
+[Info] <05/31/2017 09:54:24> World server saved ! (16 ms)
+[Debug] <05/31/2017 09:57:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 09:57:24> Saving world ...
+[Info] <05/31/2017 09:57:24> World server saved ! (17 ms)
+[Info] <05/31/2017 10:00:24> Saving world ...
+[Info] <05/31/2017 10:00:24> World server saved ! (16 ms)
+[Debug] <05/31/2017 10:02:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:03:24> Saving world ...
+[Info] <05/31/2017 10:03:24> World server saved ! (9 ms)
+[Info] <05/31/2017 10:06:24> Saving world ...
+[Info] <05/31/2017 10:06:24> World server saved ! (30 ms)
+[Debug] <05/31/2017 10:07:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:09:24> Saving world ...
+[Info] <05/31/2017 10:09:24> World server saved ! (12 ms)
+[Debug] <05/31/2017 10:10:06> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:12:24> Saving world ...
+[Info] <05/31/2017 10:12:24> World server saved ! (28 ms)
+[Info] <05/31/2017 10:15:24> Saving world ...
+[Info] <05/31/2017 10:15:24> World server saved ! (15 ms)
+[Debug] <05/31/2017 10:17:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:18:24> Saving world ...
+[Info] <05/31/2017 10:18:24> World server saved ! (30 ms)
+[Info] <05/31/2017 10:21:24> Saving world ...
+[Info] <05/31/2017 10:21:24> World server saved ! (22 ms)
+[Debug] <05/31/2017 10:22:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:24:24> Saving world ...
+[Info] <05/31/2017 10:24:24> World server saved ! (12 ms)
+[Debug] <05/31/2017 10:27:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:27:24> Saving world ...
+[Info] <05/31/2017 10:27:24> World server saved ! (27 ms)
+[Info] <05/31/2017 10:30:24> Saving world ...
+[Info] <05/31/2017 10:30:24> World server saved ! (21 ms)
+[Debug] <05/31/2017 10:32:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:33:24> Saving world ...
+[Info] <05/31/2017 10:33:25> World server saved ! (15 ms)
+[Info] <05/31/2017 10:36:25> Saving world ...
+[Info] <05/31/2017 10:36:25> World server saved ! (28 ms)
+[Debug] <05/31/2017 10:37:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:39:25> Saving world ...
+[Info] <05/31/2017 10:39:25> World server saved ! (16 ms)
+[Debug] <05/31/2017 10:42:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:42:25> Saving world ...
+[Info] <05/31/2017 10:42:25> World server saved ! (13 ms)
+[Info] <05/31/2017 10:45:25> Saving world ...
+[Info] <05/31/2017 10:45:25> World server saved ! (11 ms)
+[Debug] <05/31/2017 10:47:13> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:48:25> Saving world ...
+[Info] <05/31/2017 10:48:25> World server saved ! (12 ms)
+[Info] <05/31/2017 10:52:54> Saving world ...
+[Debug] <05/31/2017 10:52:55> Area 'Archipel de Vulkania (50)' update lagged (122ms) (msg:0ms, timers:121ms, timerProc:128/128)
+[Info] <05/31/2017 10:52:55> World server saved ! (626 ms)
+[Debug] <05/31/2017 10:52:55> TaskPool 'IO Task Pool' update lagged (654ms) (msg:0, timers:5/5)
+[Debug] <05/31/2017 10:52:55> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:55:55> Saving world ...
+[Info] <05/31/2017 10:55:55> World server saved ! (88 ms)
+[Debug] <05/31/2017 10:55:55> TaskPool 'IO Task Pool' update lagged (90ms) (msg:0, timers:1/5)
+[Debug] <05/31/2017 10:57:55> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 10:58:55> Saving world ...
+[Info] <05/31/2017 10:58:55> World server saved ! (67 ms)
+[Debug] <05/31/2017 10:58:55> TaskPool 'IO Task Pool' update lagged (70ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 11:09:09> Saving world ...
+[Info] <05/31/2017 11:09:10> World server saved ! (72 ms)
+[Debug] <05/31/2017 11:09:10> TaskPool 'IO Task Pool' update lagged (134ms) (msg:1, timers:5/5)
+[Debug] <05/31/2017 11:09:10> ReloginTokenRequestMessage
+[Info] <05/31/2017 11:09:10> Area 'Archipel de Vulkania (50)' stopped
+[Debug] <05/31/2017 11:09:11> TaskPool 'IO Task Pool' update lagged (549ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:09:11> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0
+[Debug] <05/31/2017 11:09:16> Client request ticket JNZZWFEBVWCUGPQVMBVIPBCBXWWYDGNA
+[Debug] <05/31/2017 11:09:17> TaskPool 'IO Task Pool' update lagged (88ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:09:17> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/31/2017 11:09:33> Received Unknown packet : BasicStatWithDataMessage
+[Debug] <05/31/2017 11:09:33> TaskPool 'IO Task Pool' update lagged (181ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:09:33> CharacterCreationRequestMessage
+[Info] <05/31/2017 11:12:10> Saving world ...
+[Info] <05/31/2017 11:12:10> World server saved ! (1 ms)
+[Debug] <05/31/2017 11:12:56> Client request ticket VVGJYATEVVLPNGAODGYCZKFDNEIDWHFW
+[Debug] <05/31/2017 11:12:56> TaskPool 'IO Task Pool' update lagged (60ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:12:57> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Info] <05/31/2017 11:15:10> Saving world ...
+[Info] <05/31/2017 11:15:10> World server saved ! (3 ms)
+[Debug] <05/31/2017 11:17:50> TaskPool 'IO Task Pool' update lagged (52ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:17:50> CharacterSelectionMessage
+[Info] <05/31/2017 11:17:52> Area 'Archipel de Vulkania (50)' started
+[Debug] <05/31/2017 11:17:52> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 11:17:52> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 11:17:53> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 11:18:01> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <05/31/2017 11:18:10> Saving world ...
+[Info] <05/31/2017 11:18:10> World server saved ! (115 ms)
+[Debug] <05/31/2017 11:18:10> TaskPool 'IO Task Pool' update lagged (118ms) (msg:0, timers:1/5)
+[Debug] <05/31/2017 11:18:12> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:18:19> Area 'Archipel de Vulkania (50)' stopped
+[Info] <05/31/2017 11:18:19> Area 'Pandala Neutre (19)' started
+[Debug] <05/31/2017 11:18:20> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:19:08> Area 'Pandala Neutre (19)' stopped
+[Info] <05/31/2017 11:19:10> Area 'Pandala Neutre (19)' started
+[Debug] <05/31/2017 11:19:15> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 11:21:10> Saving world ...
+[Info] <05/31/2017 11:21:10> World server saved ! (120 ms)
+[Debug] <05/31/2017 11:21:10> TaskPool 'IO Task Pool' update lagged (124ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 11:24:10> Saving world ...
+[Info] <05/31/2017 11:24:10> World server saved ! (79 ms)
+[Debug] <05/31/2017 11:24:10> TaskPool 'IO Task Pool' update lagged (85ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 11:27:10> Saving world ...
+[Info] <05/31/2017 11:27:10> World server saved ! (85 ms)
+[Debug] <05/31/2017 11:27:10> TaskPool 'IO Task Pool' update lagged (88ms) (msg:0, timers:1/5)
+[Debug] <05/31/2017 11:29:10> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 11:30:09> Area 'Pandala Neutre (19)' stopped
+[Debug] <05/31/2017 11:30:09> TaskPool 'IO Task Pool' update lagged (69ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:30:09> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0
+[Info] <05/31/2017 11:30:10> Saving world ...
+[Info] <05/31/2017 11:30:10> World server saved ! (1 ms)
+[Debug] <05/31/2017 11:30:15> Client request ticket QYQNVDUVVXBOEYKXWYSQINLMUKGHBWMX
+[Info] <05/31/2017 11:32:26> Area 'Pandala Neutre (19)' started
+[Debug] <05/31/2017 11:32:26> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 11:32:26> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 11:32:26> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 11:32:28> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <05/31/2017 11:32:38> Area 'Pandala Neutre (19)' stopped
+[Debug] <05/31/2017 11:32:38> TaskPool 'IO Task Pool' update lagged (63ms) (msg:1, timers:1/5)
+[Debug] <05/31/2017 11:32:38> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0
+[Debug] <05/31/2017 11:32:43> Client request ticket DOLHHVCLXWKFWFIWGMMWRHNXYOISTCUZ
+[Debug] <05/31/2017 11:32:44> TaskPool 'IO Task Pool' update lagged (53ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:32:44> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/31/2017 11:33:02> Received Unknown packet : BasicStatWithDataMessage
+[Debug] <05/31/2017 11:33:03> Character Dupeguku created
+[Debug] <05/31/2017 11:33:03> TaskPool 'IO Task Pool' update lagged (418ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:33:03> CharacterCreationRequestMessage
+[Debug] <05/31/2017 11:33:03> TaskPool 'IO Task Pool' update lagged (82ms) (msg:1, timers:1/5)
+[Debug] <05/31/2017 11:33:03> CharacterSelectionMessage
+[Info] <05/31/2017 11:33:05> Area 'Saharach (61)' started
+[Debug] <05/31/2017 11:33:05> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 11:33:05> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 11:33:05> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 11:33:08> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <05/31/2017 11:33:10> Saving world ...
+[Info] <05/31/2017 11:33:10> World server saved ! (10 ms)
+[Debug] <05/31/2017 11:33:17> Area 'Saharach (61)' update lagged (118ms) (msg:118ms, timers:0ms, timerProc:119/239)
+[Debug] <05/31/2017 11:33:30> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:33:33> Area 'Saharach (61)' stopped
+[Info] <05/31/2017 11:33:33> Area 'Plaines de Cania (8)' started
+[Debug] <05/31/2017 11:33:33> Area 'Plaines de Cania (8)' update lagged (236ms) (msg:5ms, timers:231ms, timerProc:2627/2627)
+[Debug] <05/31/2017 11:33:34> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:33:42> Area 'Plaines de Cania (8)' stopped
+[Info] <05/31/2017 11:33:44> Area 'Plaines de Cania (8)' started
+[Debug] <05/31/2017 11:33:49> Area 'Plaines de Cania (8)' update lagged (152ms) (msg:152ms, timers:0ms, timerProc:0/2630)
+[Debug] <05/31/2017 11:33:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:33:51> Area 'Plaines de Cania (8)' update lagged (175ms) (msg:175ms, timers:0ms, timerProc:0/2633)
+[Debug] <05/31/2017 11:33:55> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:33:55> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:33:55> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:33:55> Area 'Plaines de Cania (8)' update lagged (467ms) (msg:466ms, timers:0ms, timerProc:0/2645)
+[Debug] <05/31/2017 11:34:21> Area 'Plaines de Cania (8)' update lagged (111ms) (msg:84ms, timers:26ms, timerProc:1312/2631)
+[Debug] <05/31/2017 11:34:24> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <05/31/2017 11:34:28> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:34:35> Area 'Plaines de Cania (8)' stopped
+[Info] <05/31/2017 11:34:35> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:34:35> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 11:34:41> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:34:43> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:34:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:34:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:34:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:34:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:34:50> Area 'Astrub (18)' update lagged (58ms) (msg:58ms, timers:0ms, timerProc:0/650)
+[Info] <05/31/2017 11:35:23> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:35:26> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:35:32> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:35:32> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:35:32> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:35:32> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:35:32> Area 'Astrub (18)' update lagged (83ms) (msg:83ms, timers:0ms, timerProc:0/644)
+[Info] <05/31/2017 11:35:52> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:35:54> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:36:03> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:36:03> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:36:03> Last ReadyChecker was not disposed. (Stop Turn)
+[Info] <05/31/2017 11:36:10> Saving world ...
+[Info] <05/31/2017 11:36:10> World server saved ! (15 ms)
+[Info] <05/31/2017 11:39:31> Saving world ...
+[Info] <05/31/2017 11:39:31> World server saved ! (27 ms)
+[Debug] <05/31/2017 11:39:31> Area 'Astrub (18)' update lagged (121ms) (msg:0ms, timers:121ms, timerProc:321/324)
+[Info] <05/31/2017 11:39:31> Area 'Astrub (18)' stopped
+[Debug] <05/31/2017 11:39:34> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 11:39:34> Area 'Astrub (18)' started
+[Info] <05/31/2017 11:40:12> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:40:13> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:40:18> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:40:18> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:40:18> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:40:18> Last ReadyChecker was not disposed. (Stop Turn)
+[Warn] <05/31/2017 11:43:09> Exceptions not handled cause Debugger is attatched
+[Info] <05/31/2017 11:43:17> Initializing Configuration...
+[Info] <05/31/2017 11:43:21> Initialize Task Pool
+[Info] <05/31/2017 11:43:21> Register Plugins...
+[Info] <05/31/2017 11:43:36> Loading Plugins...
+[Info] <05/31/2017 11:43:37> Initializing Database...
+[Info] <05/31/2017 11:43:37> Opening Database...
+[Info] <05/31/2017 11:43:40> Register Messages...
+[Info] <05/31/2017 11:43:41> Register Packet Handlers...
+[Info] <05/31/2017 11:43:41> Register Commands...
+[Info] <05/31/2017 11:43:41> Initialize 'AutoAnnounceManager'
+[Info] <05/31/2017 11:43:41> Initialize 'ApproachHandler'
+[Info] <05/31/2017 11:43:41> Initialize 'ChatManager'
+[Info] <05/31/2017 11:43:41> Register id providers
+[Info] <05/31/2017 11:43:41> Initialize 'TextManager'
+[Info] <05/31/2017 11:43:42> Initialize DataManagers
+[Info] <05/31/2017 11:43:42> Initialize 'BreedManager'
+[Info] <05/31/2017 11:43:42> Initialize 'EffectManager'
+[Info] <05/31/2017 11:43:43> Initialize 'SpellManager'
+[Info] <05/31/2017 11:43:44> Initialize 'CellTriggerManager'
+[Info] <05/31/2017 11:43:44> Initialize 'ItemManager'
+[Info] <05/31/2017 11:43:48> Initialize 'PetManager'
+[Info] <05/31/2017 11:43:48> Initialize 'TeleportPotionManager'
+[Info] <05/31/2017 11:43:48> Initialize 'BidHouseManager'
+[Info] <05/31/2017 11:43:48> Initialize 'RuneManager'
+[Info] <05/31/2017 11:43:48> Initialize 'InteractiveManager'
+[Info] <05/31/2017 11:46:25> Initialize 'IdolManager'
+[Info] <05/31/2017 11:46:26> Initialize 'ChallengeManager'
+[Info] <05/31/2017 11:46:26> Initialize 'ExperienceManager'
+[Info] <05/31/2017 11:46:26> Initialize 'TinselManager'
+[Info] <05/31/2017 11:46:26> Initialize 'BrainManager'
+[Info] <05/31/2017 11:46:26> Initialize 'MongoLogger'
+[Info] <05/31/2017 11:46:26> Initialize 'JobManager'
+[Info] <05/31/2017 11:46:26> Initialize 'RuneManager'
+[Info] <05/31/2017 11:46:26> Initialize 'ArenaManager'
+[Info] <05/31/2017 11:46:26> Initialize 'NpcManager'
+[Info] <05/31/2017 11:46:27> Initialize 'GuildManager'
+[Info] <05/31/2017 11:46:27> Initialize 'MountManager'
+[Info] <05/31/2017 11:46:28> Initialize 'MonsterManager'
+[Info] <05/31/2017 11:46:29> Initialize 'MerchantManager'
+[Info] <05/31/2017 11:46:29> Initialize 'World'
+[Info] <05/31/2017 11:46:29> Load maps...
+[Debug] <05/31/2017 11:46:35> TaskPool 'Arena' update lagged (325ms) (msg:0, timers:0/1)
+[Info] <05/31/2017 11:46:54> Load maps scrolls...
+[Info] <05/31/2017 11:46:54> Load sub areas...
+[Info] <05/31/2017 11:46:54> Load areas...
+[Info] <05/31/2017 11:46:54> Load super areas...
+[Info] <05/31/2017 11:46:54> Spawn npcs ...
+[Info] <05/31/2017 11:46:55> Spawn interactives ...
+[Info] <05/31/2017 11:46:55> Spawn cell triggers ...
+[Info] <05/31/2017 11:46:55> Spawn monsters ...
+[Info] <05/31/2017 11:46:57> Spawn merchants ...
+[Info] <05/31/2017 11:46:57> Initialize 'AchievementManager'
+[Info] <05/31/2017 11:46:58> Initialize 'PaddockManager'
+[Info] <05/31/2017 11:46:58> Initialize 'TaxCollectorManager'
+[Info] <05/31/2017 11:46:58> Synchronize id providers
+[Info] <05/31/2017 11:46:58> Initialize 'QuestManager'
+[Info] <05/31/2017 11:46:58> Initialize 'WebServer'
+[Info] <05/31/2017 11:46:59> Start Auto-Save Cyclic Task
+[Info] <05/31/2017 11:46:59> Starting Console Handler Interface...
+[Info] <05/31/2017 11:46:59> Starting IPC Communications ...
+[Info] <05/31/2017 11:46:59> Start listening on port : 3467...
+[Debug] <05/31/2017 11:47:04> TaskPool 'IO Task Pool' update lagged (104ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 11:47:09> Attempt connection
+[Info] <05/31/2017 11:47:09> IPC connection etablished
+[Debug] <05/31/2017 11:47:12> TaskPool 'IPCAccessor Task Pool' update lagged (3728ms) (msg:0, timers:1/3)
+[Info] <05/31/2017 11:47:16> Access to auth. server granted
+[Debug] <05/31/2017 11:47:17> TaskPool 'IPCAccessor Task Pool' update lagged (481ms) (msg:1, timers:0/3)
+[Debug] <05/31/2017 11:47:17> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <05/31/2017 11:47:17> TaskPool 'IO Task Pool' update lagged (624ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:47:17> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Debug] <05/31/2017 11:48:33> Client request ticket KQYQKVQCKAXDTPFDKPEOOBGZUEKERNDX
+[Debug] <05/31/2017 11:48:33> TaskPool 'IO Task Pool' update lagged (162ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:48:33> AuthenticationTicketMessage
+[Debug] <05/31/2017 11:48:34> TaskPool 'IO Task Pool' update lagged (515ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:48:34> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/31/2017 11:48:34> TaskPool 'IO Task Pool' update lagged (229ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:48:34> CharactersListRequestMessage
+[Debug] <05/31/2017 11:48:49> TaskPool 'IO Task Pool' update lagged (2024ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 11:48:49> CharacterSelectionMessage
+[Info] <05/31/2017 11:48:55> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:48:55> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 11:48:55> Area 'Astrub (18)' update lagged (292ms) (msg:11ms, timers:280ms, timerProc:491/629)
+[Debug] <05/31/2017 11:48:56> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 11:48:56> Area 'Astrub (18)' update lagged (196ms) (msg:196ms, timers:0ms, timerProc:2/629)
+[Debug] <05/31/2017 11:48:59> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 11:49:04> Area 'Astrub (18)' update lagged (113ms) (msg:113ms, timers:0ms, timerProc:0/629)
+[Debug] <05/31/2017 11:49:04> Received Unknown packet : HaapiApiKeyRequestMessage
+[Info] <05/31/2017 11:49:11> Area 'Astrub (18)' stopped
+[Debug] <05/31/2017 11:49:12> Area 'Astrub (18)' update lagged (729ms) (msg:729ms, timers:0ms, timerProc:6/630)
+[Info] <05/31/2017 11:49:15> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:49:15> Area 'Astrub (18)' update lagged (89ms) (msg:0ms, timers:88ms, timerProc:339/631)
+[Debug] <05/31/2017 11:49:17> Area 'Astrub (18)' update lagged (624ms) (msg:624ms, timers:0ms, timerProc:1/632)
+[Debug] <05/31/2017 11:49:22> Area 'Astrub (18)' update lagged (769ms) (msg:769ms, timers:0ms, timerProc:4/633)
+[Debug] <05/31/2017 11:49:23> Area 'Astrub (18)' update lagged (276ms) (msg:276ms, timers:0ms, timerProc:0/635)
+[Debug] <05/31/2017 11:49:24> Area 'Astrub (18)' update lagged (58ms) (msg:57ms, timers:0ms, timerProc:1/637)
+[Info] <05/31/2017 11:49:59> Saving world ...
+[Info] <05/31/2017 11:50:00> World server saved ! (582 ms)
+[Debug] <05/31/2017 11:50:00> TaskPool 'IO Task Pool' update lagged (590ms) (msg:0, timers:2/5)
+[Debug] <05/31/2017 11:52:27> Area 'Astrub (18)' update lagged (112ms) (msg:0ms, timers:111ms, timerProc:320/325)
+[Debug] <05/31/2017 11:52:41> Received Unknown packet : NotificationUpdateFlagMessage
+[Debug] <05/31/2017 11:52:55> Area 'Astrub (18)' update lagged (95ms) (msg:95ms, timers:0ms, timerProc:0/330)
+[Info] <05/31/2017 11:53:00> Saving world ...
+[Info] <05/31/2017 11:53:00> World server saved ! (14 ms)
+[Info] <05/31/2017 11:53:01> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:53:04> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:53:15> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:53:15> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:53:15> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:53:15> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:53:15> Area 'Astrub (18)' update lagged (117ms) (msg:117ms, timers:0ms, timerProc:0/349)
+[Info] <05/31/2017 11:54:05> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:54:06> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:54:10> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:11> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:11> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:11> Last ReadyChecker was not disposed. (Stop Turn)
+[Info] <05/31/2017 11:54:30> Area 'Astrub (18)' stopped
+[Info] <05/31/2017 11:54:44> Area 'Astrub (18)' started
+[Debug] <05/31/2017 11:54:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Debug] <05/31/2017 11:54:50> Last ReadyChecker was not disposed. (Stop Turn)
+[Info] <05/31/2017 11:56:00> Saving world ...
+[Info] <05/31/2017 11:56:00> World server saved ! (28 ms)
+[Warn] <05/31/2017 12:41:06> Exceptions not handled cause Debugger is attatched
+[Info] <05/31/2017 12:41:14> Initializing Configuration...
+[Info] <05/31/2017 12:41:16> Initialize Task Pool
+[Info] <05/31/2017 12:41:16> Register Plugins...
+[Info] <05/31/2017 12:41:25> Loading Plugins...
+[Info] <05/31/2017 12:41:26> Initializing Database...
+[Info] <05/31/2017 12:41:26> Opening Database...
+[Info] <05/31/2017 12:41:27> Register Messages...
+[Info] <05/31/2017 12:41:27> Register Packet Handlers...
+[Info] <05/31/2017 12:41:27> Register Commands...
+[Info] <05/31/2017 12:41:27> Initialize 'AutoAnnounceManager'
+[Info] <05/31/2017 12:41:27> Initialize 'ApproachHandler'
+[Info] <05/31/2017 12:41:27> Initialize 'ChatManager'
+[Info] <05/31/2017 12:41:27> Register id providers
+[Info] <05/31/2017 12:41:28> Initialize 'TextManager'
+[Info] <05/31/2017 12:41:29> Initialize DataManagers
+[Info] <05/31/2017 12:41:29> Initialize 'BreedManager'
+[Info] <05/31/2017 12:41:29> Initialize 'EffectManager'
+[Info] <05/31/2017 12:41:29> Initialize 'SpellManager'
+[Info] <05/31/2017 12:41:30> Initialize 'CellTriggerManager'
+[Info] <05/31/2017 12:41:30> Initialize 'ItemManager'
+[Info] <05/31/2017 12:41:34> Initialize 'PetManager'
+[Info] <05/31/2017 12:41:34> Initialize 'TeleportPotionManager'
+[Info] <05/31/2017 12:41:34> Initialize 'BidHouseManager'
+[Info] <05/31/2017 12:41:34> Initialize 'RuneManager'
+[Info] <05/31/2017 12:41:34> Initialize 'InteractiveManager'
+[Info] <05/31/2017 12:44:45> Initialize 'IdolManager'
+[Info] <05/31/2017 12:44:46> Initialize 'ChallengeManager'
+[Info] <05/31/2017 12:44:46> Initialize 'ExperienceManager'
+[Info] <05/31/2017 12:44:47> Initialize 'TinselManager'
+[Info] <05/31/2017 12:44:47> Initialize 'BrainManager'
+[Info] <05/31/2017 12:44:47> Initialize 'MongoLogger'
+[Info] <05/31/2017 12:44:47> Initialize 'JobManager'
+[Info] <05/31/2017 12:44:48> Initialize 'RuneManager'
+[Info] <05/31/2017 12:44:48> Initialize 'ArenaManager'
+[Info] <05/31/2017 12:44:48> Initialize 'NpcManager'
+[Info] <05/31/2017 12:44:48> Initialize 'GuildManager'
+[Info] <05/31/2017 12:44:50> Initialize 'MountManager'
+[Info] <05/31/2017 12:44:50> Initialize 'MonsterManager'
+[Info] <05/31/2017 12:44:53> Initialize 'MerchantManager'
+[Info] <05/31/2017 12:44:53> Initialize 'World'
+[Info] <05/31/2017 12:44:53> Load maps...
+[Info] <05/31/2017 12:45:07> Load maps scrolls...
+[Info] <05/31/2017 12:45:07> Load sub areas...
+[Info] <05/31/2017 12:45:08> Load areas...
+[Info] <05/31/2017 12:45:08> Load super areas...
+[Info] <05/31/2017 12:45:08> Spawn npcs ...
+[Info] <05/31/2017 12:45:08> Spawn interactives ...
+[Info] <05/31/2017 12:45:08> Spawn cell triggers ...
+[Info] <05/31/2017 12:45:08> Spawn monsters ...
+[Info] <05/31/2017 12:45:10> Spawn merchants ...
+[Info] <05/31/2017 12:45:10> Initialize 'AchievementManager'
+[Info] <05/31/2017 12:45:10> Initialize 'PaddockManager'
+[Info] <05/31/2017 12:45:10> Initialize 'TaxCollectorManager'
+[Info] <05/31/2017 12:45:10> Synchronize id providers
+[Info] <05/31/2017 12:45:11> Initialize 'QuestManager'
+[Info] <05/31/2017 12:45:11> Initialize 'WebServer'
+[Info] <05/31/2017 12:45:11> Start Auto-Save Cyclic Task
+[Info] <05/31/2017 12:45:11> Starting Console Handler Interface...
+[Info] <05/31/2017 12:45:11> Starting IPC Communications ...
+[Info] <05/31/2017 12:45:11> Start listening on port : 3467...
+[Debug] <05/31/2017 12:45:16> TaskPool 'IO Task Pool' update lagged (55ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 12:45:21> Attempt connection
+[Info] <05/31/2017 12:45:21> IPC connection etablished
+[Debug] <05/31/2017 12:45:22> TaskPool 'IPCAccessor Task Pool' update lagged (1240ms) (msg:0, timers:1/3)
+[Info] <05/31/2017 12:45:23> Access to auth. server granted
+[Debug] <05/31/2017 12:45:23> TaskPool 'IPCAccessor Task Pool' update lagged (261ms) (msg:1, timers:0/3)
+[Debug] <05/31/2017 12:45:24> Stump.Server.WorldServer.Core.IPC.IPCAccessor+<>c__DisplayClass79_0.<BuildMessage>b__0
+[Debug] <05/31/2017 12:45:24> TaskPool 'IO Task Pool' update lagged (270ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:45:24> Stump.Server.WorldServer.Game.Accounts.AccountManager.LoadUserGroups
+[Debug] <05/31/2017 12:45:46> Client request ticket KPLLKWKVMYUUHHDIYFGOWRUUHPHHGWRN
+[Debug] <05/31/2017 12:45:47> TaskPool 'IO Task Pool' update lagged (245ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:45:47> Stump.Server.WorldServer.Handlers.Approach.ApproachHandler+<>c__DisplayClass5_0.<HandleAuthenticationTicketMessage>b__2
+[Debug] <05/31/2017 12:45:47> TaskPool 'IO Task Pool' update lagged (71ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:45:47> CharactersListRequestMessage
+[Debug] <05/31/2017 12:45:51> TaskPool 'IO Task Pool' update lagged (1303ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:45:51> CharacterSelectionMessage
+[Info] <05/31/2017 12:46:00> Area 'Astrub (18)' started
+[Debug] <05/31/2017 12:46:00> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 12:46:01> Area 'Astrub (18)' update lagged (95ms) (msg:13ms, timers:81ms, timerProc:330/629)
+[Debug] <05/31/2017 12:46:01> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 12:46:02> Area 'Astrub (18)' update lagged (404ms) (msg:404ms, timers:0ms, timerProc:0/629)
+[Debug] <05/31/2017 12:46:08> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 12:46:15> Area 'Astrub (18)' update lagged (97ms) (msg:97ms, timers:0ms, timerProc:0/629)
+[Debug] <05/31/2017 12:46:15> Received Unknown packet : HaapiApiKeyRequestMessage
+[Debug] <05/31/2017 12:46:25> Area 'Astrub (18)' update lagged (118ms) (msg:0ms, timers:119ms, timerProc:319/629)
+[Info] <05/31/2017 12:46:28> Area 'Astrub (18)' stopped
+[Debug] <05/31/2017 12:46:28> Area 'Astrub (18)' update lagged (83ms) (msg:81ms, timers:2ms, timerProc:24/629)
+[Debug] <05/31/2017 12:46:28> TaskPool 'IO Task Pool' update lagged (71ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:46:28> Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.<PerformLoggout>b__634_0
+[Debug] <05/31/2017 12:46:34> Client request ticket IWBXKLXQEPGSUSSWPCEEBADBXBXNABQP
+[Debug] <05/31/2017 12:47:25> Received Unknown packet : BasicStatWithDataMessage
+[Debug] <05/31/2017 12:47:26> Character Orecete created
+[Debug] <05/31/2017 12:47:26> TaskPool 'IO Task Pool' update lagged (464ms) (msg:1, timers:0/5)
+[Debug] <05/31/2017 12:47:26> CharacterCreationRequestMessage
+[Info] <05/31/2017 12:47:28> Area 'Saharach (61)' started
+[Debug] <05/31/2017 12:47:28> Received Unknown packet : SpouseGetInformationsMessage
+[Debug] <05/31/2017 12:47:28> Received Unknown packet : SequenceNumberMessage
+[Debug] <05/31/2017 12:47:28> Received Unknown packet : ClientKeyMessage
+[Debug] <05/31/2017 12:47:32> Received Unknown packet : HaapiApiKeyRequestMessage
+[Debug] <05/31/2017 12:47:53> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 12:48:00> Area 'Saharach (61)' stopped
+[Info] <05/31/2017 12:48:00> Area 'Astrub (18)' started
+[Debug] <05/31/2017 12:48:00> Area 'Astrub (18)' update lagged (64ms) (msg:2ms, timers:62ms, timerProc:629/630)
+[Debug] <05/31/2017 12:48:00> Received Unknown packet : PrismsListRegisterMessage
+[Info] <05/31/2017 12:48:06> Area 'Astrub (18)' stopped
+[Debug] <05/31/2017 12:48:07> Area 'Astrub (18)' update lagged (816ms) (msg:815ms, timers:1ms, timerProc:318/630)
+[Info] <05/31/2017 12:48:10> Area 'Astrub (18)' started
+[Info] <05/31/2017 12:48:11> Saving world ...
+[Info] <05/31/2017 12:48:11> World server saved ! (215 ms)
+[Debug] <05/31/2017 12:48:11> TaskPool 'IO Task Pool' update lagged (223ms) (msg:0, timers:2/5)
+[Debug] <05/31/2017 12:48:13> Area 'Astrub (18)' update lagged (885ms) (msg:883ms, timers:2ms, timerProc:318/632)
+[Debug] <05/31/2017 12:48:16> Area 'Astrub (18)' update lagged (563ms) (msg:561ms, timers:2ms, timerProc:318/632)
+[Debug] <05/31/2017 12:48:33> Area 'Astrub (18)' update lagged (251ms) (msg:251ms, timers:0ms, timerProc:0/635)
+[Debug] <05/31/2017 12:48:33> Area 'Astrub (18)' update lagged (55ms) (msg:55ms, timers:0ms, timerProc:0/637)
+[Debug] <05/31/2017 12:49:14> Area 'Astrub (18)' update lagged (59ms) (msg:59ms, timers:0ms, timerProc:0/635)
+[Debug] <05/31/2017 12:49:33> Area 'Astrub (18)' update lagged (59ms) (msg:0ms, timers:59ms, timerProc:2/609)
+[Debug] <05/31/2017 12:49:54> Area 'Astrub (18)' update lagged (100ms) (msg:100ms, timers:0ms, timerProc:1/489)
+[Debug] <05/31/2017 12:50:25> Received Unknown packet : NotificationUpdateFlagMessage
+[Info] <05/31/2017 12:51:11> Saving world ...
+[Info] <05/31/2017 12:51:11> World server saved ! (42 ms)
+[Debug] <05/31/2017 12:51:11> TaskPool 'IO Task Pool' update lagged (51ms) (msg:0, timers:1/5)
+[Info] <05/31/2017 12:54:11> Saving world ...
+[Info] <05/31/2017 12:54:11> World server saved ! (27 ms)
+[Info] <05/31/2017 12:57:12> Saving world ...
+[Info] <05/31/2017 12:57:12> World server saved ! (11 ms)

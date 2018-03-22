@@ -1,0 +1,362 @@
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\TreeSharp.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SwfLib.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SwfLib.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+C:\Users\Imran\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\TreeSharp.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\NLog.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\protobuf-net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\TreeSharp.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\zlib.net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\Azote\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csprojResolveAssemblyReference.cache
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.csproj.CoreCompileInputs.cache
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\obj\x64\Debug\Stump.Server.WorldServer.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.WorldServer.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Accord.Statistics.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Owin.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Core.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.ORM.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Microsoft.Owin.Hosting.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Bson.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MongoDB.Driver.Core.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\MySql.Data.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.pdb
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\SharpRaven.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Net.Http.Formatting.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\System.Web.Http.Owin.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\Troschuetz.Random.xml
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\de\Troschuetz.Random.resources.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\es\Troschuetz.Random.resources.dll
+E:\Escritorio\azure242\Server\Stump.Server.WorldServer\bin\x64\Debug\fr\Troschuetz.Random.resources.dll

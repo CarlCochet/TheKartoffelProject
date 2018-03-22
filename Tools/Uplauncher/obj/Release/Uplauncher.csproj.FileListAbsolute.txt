@@ -1,0 +1,10 @@
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Release\Uplauncher.exe
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Release\Uplauncher.pdb
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.csprojResolveAssemblyReference.cache
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.Form1.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.OptionsForm.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.Properties.Resources.resources
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.csproj.GenerateResource.Cache
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.exe
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\obj\Release\Uplauncher.pdb
+C:\Users\tifou\Documents\Visual Studio 2015\Projects\Shadow\Uplauncher\bin\Release\MaterialSkin.dll

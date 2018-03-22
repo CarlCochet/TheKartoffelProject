@@ -1,0 +1,70 @@
+﻿<Window x:Class="WorldEditor.Editors.Files.D2P.D2PEditor"
+        Height="450" Width="600" MinWidth="600" Title="{Binding Title}" 
+        Closing="Window_Closing" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:itoc="clr-namespace:WorldEditor.Helpers.Converters"
+        xmlns:D2P="clr-namespace:WorldEditor.Editors.Files.D2P">
+        
+    <Window.Resources>
+        <itoc:IsTypeOfConverter x:Key="IsTypeOfConverter" />
+        <itoc:EmptyIfZeroConverter x:Key="EmptyIfZeroConverter" />
+    </Window.Resources>
+    <DockPanel LastChildFill="True">
+        <UniformGrid DockPanel.Dock="Top" Rows="1" HorizontalAlignment="Left">
+            <Button Margin="3" Command="{Binding AddFileCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Margin="0,0,3,0" Height="16" Source="/WorldEditor;component/Images/add.png" Stretch="Fill" Width="16" />
+                    <TextBlock TextWrapping="Wrap" TextBlock.TextAlignment="Center">Add a file</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Margin="3" Command="{Binding RemoveFileCommand}" CommandParameter="{Binding ElementName=FilesGrid, Path=SelectedItems}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Margin="0,0,3,0" Height="16" Source="/WorldEditor;component/Images/delete.png" Stretch="Fill" Width="16" />
+                    <TextBlock TextWrapping="Wrap" TextBlock.TextAlignment="Center">Remove</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Margin="3" Command="{Binding ExtractCommand}" CommandParameter="{Binding ElementName=FilesGrid, Path=SelectedItems}">
+                <TextBlock Text="Extract to ..." TextWrapping="Wrap" TextBlock.TextAlignment="Center" />
+            </Button>
+            <Button Margin="3" Command="{Binding ExtractAllCommand}">
+                <TextBlock Text="Extract all to ..." TextWrapping="Wrap" TextBlock.TextAlignment="Center" />
+            </Button>
+            <Button Margin="3" Command="{Binding SaveCommand}">
+                <TextBlock Text="Save" TextWrapping="Wrap" TextBlock.TextAlignment="Center" />
+            </Button>
+            <Button Margin="3" Command="{Binding SaveAsCommand}">
+                <TextBlock Text="Save as ..." TextWrapping="Wrap" TextBlock.TextAlignment="Center" />
+            </Button>
+        </UniformGrid>
+        <DataGrid Name="FilesGrid" DockPanel.Dock="Bottom" MouseDoubleClick="MouseDoubleClickHandler" CanUserAddRows="False" CanUserDeleteRows="False" VirtualizingPanel.IsVirtualizing="True" AutoGenerateColumns="False" AlternatingRowBackground="#FFDCEAF8" HorizontalScrollBarVisibility="Disabled" GridLinesVisibility="None" HeadersVisibility="Column" HorizontalAlignment="Stretch" SelectionUnit="FullRow" EnableRowVirtualization="True" AllowDrop="True" ItemsSource="{Binding Rows}" SelectedCellsChanged="FilesGrid_SelectedCellsChanged" PreviewDragEnter="FilesGrid_PreviewDragEnter" Drop="FilesGrid_Drop">
+            <DataGrid.InputBindings>
+                <KeyBinding Key="Delete" Command="{Binding RemoveFileCommand}" CommandParameter="{Binding ElementName=FilesGrid, Path=SelectedItems}" />
+                <KeyBinding Key="Back" Command="{Binding RemoveFileCommand}" CommandParameter="{Binding ElementName=FilesGrid, Path=SelectedItems}" />
+            </DataGrid.InputBindings>
+            <DataGrid.CellStyle>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Setter Property="Control.BorderThickness" Value="0" />
+                </Style>
+            </DataGrid.CellStyle>
+            <DataGrid.Columns>
+                <DataGridTemplateColumn IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Name="FileTypeIcon" Source="/WorldEditor;component/Images/page_white.png" />
+                            <DataTemplate.Triggers>
+                                <DataTrigger Value="true" Binding="{Binding Converter={StaticResource IsTypeOfConverter}, ConverterParameter={x:Type D2P:D2PFolderRow}}">
+                                    <Setter TargetName="FileTypeIcon" Property="Image.Source" Value="/WorldEditor;component/Images/folder.png" />
+                                </DataTrigger>
+                            </DataTemplate.Triggers>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Name" IsReadOnly="True" Width="100*" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="File Type" IsReadOnly="True" Width="Auto" Binding="{Binding Type}" />
+                <DataGridTextColumn Header="Size" IsReadOnly="True" Width="Auto" Binding="{Binding Size, Converter={StaticResource EmptyIfZeroConverter}}" />
+                <DataGridTextColumn Header="Container" IsReadOnly="True" Width="Auto" Binding="{Binding Container}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>

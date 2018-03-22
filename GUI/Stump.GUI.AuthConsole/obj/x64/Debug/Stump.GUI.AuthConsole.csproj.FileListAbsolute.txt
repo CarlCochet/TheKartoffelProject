@@ -1,0 +1,233 @@
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\18_to_19.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\20_to_21.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\1_to_2.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\21_to_22.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\22_to_23.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\23_to_24.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\swf_patchs\AuthPatch.swf
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\17_to_18.sql
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\18_to_19.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\20_to_21.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\1_to_2.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\21_to_22.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\22_to_23.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\23_to_24.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\swf_patchs\AuthPatch.swf
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\17_to_18.sql
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Imran\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\18_to_19.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\20_to_21.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\1_to_2.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\21_to_22.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\22_to_23.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\23_to_24.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\swf_patchs\AuthPatch.swf
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\17_to_18.sql
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\NLog.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\18_to_19.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\20_to_21.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\1_to_2.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\21_to_22.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\22_to_23.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\23_to_24.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\swf_patchs\AuthPatch.swf
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\17_to_18.sql
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\NLog.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Administrator\Desktop\Azote\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\18_to_19.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\20_to_21.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\1_to_2.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\21_to_22.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\22_to_23.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\23_to_24.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\swf_patchs\AuthPatch.swf
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\sql_update\17_to_18.sql
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\NLog.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\protobuf-net.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.AuthServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Administrator\Desktop\emu2 avec commande vie\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.AuthConsole\bin\x64\Debug\Stump.GUI.AuthConsole.exe.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.pdb

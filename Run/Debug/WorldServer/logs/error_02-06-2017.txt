@@ -1,0 +1,5 @@
+-------------Warn at 06/02/2017 14:09:30------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/02/2017 14:09:30------------- 
+

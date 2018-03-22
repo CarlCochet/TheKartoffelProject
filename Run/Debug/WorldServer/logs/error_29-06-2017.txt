@@ -1,0 +1,733 @@
+-------------Warn at 06/29/2017 13:22:18------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/29/2017 13:22:18------------- 
+
+-------------Error at 06/29/2017 13:22:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/29/2017 13:22:26------------- 
+
+-------------Error at 06/29/2017 13:22:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/29/2017 13:22:26------------- 
+
+-------------Error at 06/29/2017 13:22:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/29/2017 13:22:26------------- 
+
+-------------Error at 06/29/2017 13:22:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/29/2017 13:22:26------------- 
+
+-------------Error at 06/29/2017 13:22:26------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/29/2017 13:22:26------------- 
+
+-------------Error at 06/29/2017 13:22:32------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/29/2017 13:22:32------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437117 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=454041 : map 140316 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=503643 : map 17826562 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=472493 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463586 : map 81528321 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463601 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463596 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463602 : map 80216578 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463604 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463603 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463605 : map 80216064 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463648 : map 80216068 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463600 : map 80218626 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463588 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:33------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463589 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:24:33------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463597 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463599 : map 81529345 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=468401 : map 135974 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=446881 : map 135976 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437761 : map 134440 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437762 : map 41420800 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437763 : map 41420802 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484928 : map 143652 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464698 : map 144681 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484930 : map 142616 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=481490 : map 141079 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464618 : map 143160 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437757 : map 133901 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:34------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=434053 : map 24379394 doesn't exist 
+-------------Error at 06/29/2017 13:24:34------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437131 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=414099 : map 143902 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458525 : map 65012481 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458524 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458523 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438193 : map 17925 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438195 : map 47187970 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438194 : map 47188994 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=443352 : map 144145 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:24:35------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463651 : map 80740865 doesn't exist 
+-------------Error at 06/29/2017 13:24:35------------- 
+
+-------------Error at 06/29/2017 13:25:06------------- 
+ Stump.Server.BaseServer.Network.HandledMessage`1.Execute -> 
+	[Handler : CharacterSelectionMessage] Force disconnection of client <127.0.0.1> (test1) : System.ArgumentException: Un élément avec la même clé a déjà été ajouté.
+   à System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   à System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.AddCriterion(AbstractCriterion criterion) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 444
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.OnAchievementCompleted(AchievementTemplate achievement) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 410
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.CompleteAchievement(AchievementTemplate achievement) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 144
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.AddCriterion(AbstractCriterion criterion) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 447
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.ManageIncrementalCriterions[T](T& criterion) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 431
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.ManageCriterions() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 419
+   à Stump.Server.WorldServer.Game.Achievements.PlayerAchievement.LoadAchievements() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Achievements\PlayerAchievement.cs:ligne 95
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.LoadRecord() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3858
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.CommonCharacterSelection(WorldClient client, CharacterRecord character) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 216
+   à Stump.Server.WorldServer.Handlers.Characters.CharacterHandler.HandleCharacterSelectionMessage(WorldClient client, CharacterSelectionMessage message) dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Handlers\Characters\CharacterChoiceHandler.cs:ligne 59
+   à Stump.Core.Threading.Message3`3.Execute() dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 389
+   à Stump.Server.BaseServer.Network.HandledMessage`1.Execute() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.BaseServer\Network\HandledMessage.cs:ligne 26 
+-------------Error at 06/29/2017 13:25:06------------- 
+
+-------------Error at 06/29/2017 13:25:06------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3821
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 191 
+-------------Error at 06/29/2017 13:25:06------------- 
+
+-------------Error at 06/29/2017 13:25:06------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3821
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 191 
+-------------Error at 06/29/2017 13:25:06------------- 
+
+-------------Error at 06/29/2017 13:25:06------------- 
+ Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback -> 
+	Failed to execute message Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow : System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à Stump.Server.WorldServer.Game.Actors.RolePlay.Characters.Character.SaveNow() dans C:\Users\Phantom\Desktop\Dofu\Azote\Server\Stump.Server.WorldServer\Game\Actors\RolePlay\Characters\Character.cs:ligne 3821
+   à Stump.Core.Threading.Message.Execute() dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\Messages.cs:ligne 70
+   à Stump.Core.Threading.SelfRunningTaskPool.ProcessCallback(Object state) dans C:\Users\Phantom\Desktop\Dofu\Azote\Core\Stump.Core\Threading\SelfRunningTaskPool.cs:ligne 191 
+-------------Error at 06/29/2017 13:25:06------------- 
+
+-------------Warn at 06/29/2017 13:26:15------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/29/2017 13:26:15------------- 
+
+-------------Error at 06/29/2017 13:26:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/29/2017 13:26:20------------- 
+
+-------------Error at 06/29/2017 13:26:20------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/29/2017 13:26:20------------- 
+
+-------------Error at 06/29/2017 13:26:21------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/29/2017 13:26:21------------- 
+
+-------------Error at 06/29/2017 13:26:21------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/29/2017 13:26:21------------- 
+
+-------------Error at 06/29/2017 13:26:21------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/29/2017 13:26:21------------- 
+
+-------------Error at 06/29/2017 13:26:28------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/29/2017 13:26:28------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437117 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=454041 : map 140316 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=503643 : map 17826562 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=472493 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463586 : map 81528321 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463601 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463596 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463602 : map 80216578 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463604 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463603 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463605 : map 80216064 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463648 : map 80216068 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463600 : map 80218626 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463588 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463589 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463597 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463599 : map 81529345 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=468401 : map 135974 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=446881 : map 135976 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437761 : map 134440 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437762 : map 41420800 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437763 : map 41420802 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484928 : map 143652 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464698 : map 144681 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484930 : map 142616 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=481490 : map 141079 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464618 : map 143160 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437757 : map 133901 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=434053 : map 24379394 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437131 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=414099 : map 143902 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458525 : map 65012481 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458524 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458523 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438193 : map 17925 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438195 : map 47187970 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438194 : map 47188994 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=443352 : map 144145 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Error at 06/29/2017 13:28:07------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463651 : map 80740865 doesn't exist 
+-------------Error at 06/29/2017 13:28:07------------- 
+
+-------------Warn at 06/29/2017 13:39:46------------- 
+ Stump.Server.BaseServer.ServerBase.Initialize -> 
+	Exceptions not handled cause Debugger is attatched 
+-------------Warn at 06/29/2017 13:39:46------------- 
+
+-------------Error at 06/29/2017 13:39:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Cannot found the class 'Stump.Server.WorldServer.Commands.Commands.ItemListCommand', is the assembly loaded ? 
+-------------Error at 06/29/2017 13:39:53------------- 
+
+-------------Error at 06/29/2017 13:39:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Idols.IdolInventory.MaxActiveIdols' doesn't exist 
+-------------Error at 06/29/2017 13:39:53------------- 
+
+-------------Error at 06/29/2017 13:39:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Bank.PricePerItem' doesn't exist 
+-------------Error at 06/29/2017 13:39:53------------- 
+
+-------------Error at 06/29/2017 13:39:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxInventoryKamas' doesn't exist 
+-------------Error at 06/29/2017 13:39:53------------- 
+
+-------------Error at 06/29/2017 13:39:53------------- 
+ Stump.Core.Xml.Config.XmlConfig.AssignValuesFromNodes -> 
+	Field or property 'Stump.Server.WorldServer.Game.Items.Player.Inventory.MaxPresets' doesn't exist 
+-------------Error at 06/29/2017 13:39:53------------- 
+
+-------------Error at 06/29/2017 13:40:02------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 06/29/2017 13:40:02------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437117 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=454041 : map 140316 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=503643 : map 17826562 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=472493 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463586 : map 81528321 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463601 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463596 : map 80218116 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463602 : map 80216578 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463604 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463603 : map 80216066 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463605 : map 80216064 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463648 : map 80216068 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463600 : map 80218626 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463588 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463589 : map 81527299 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463597 : map 81527297 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463599 : map 81529345 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=468401 : map 135974 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=446881 : map 135976 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437761 : map 134440 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437762 : map 41420800 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437763 : map 41420802 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484928 : map 143652 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464698 : map 144681 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=484930 : map 142616 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=481490 : map 141079 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=464618 : map 143160 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437757 : map 133901 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=434053 : map 24379394 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=437131 : map 143372 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=414099 : map 143902 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458525 : map 65012481 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458524 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=458523 : map 65013505 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438193 : map 17925 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438195 : map 47187970 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=438194 : map 47188994 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=443352 : map 144145 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+
+-------------Error at 06/29/2017 13:42:47------------- 
+ Stump.Server.WorldServer.Game.World.SpawnInteractives -> 
+	Cannot spawn interactive id=463651 : map 80740865 doesn't exist 
+-------------Error at 06/29/2017 13:42:47------------- 
+

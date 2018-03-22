@@ -1,0 +1,993 @@
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\NLog.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\protobuf-net.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\NLog.pdb
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\protobuf-net.pdb
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\protobuf-net.xml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\App.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Program Files (x86)\Gyazo\bolo\Dofus\Xeo77-erezia-emu-e6325ab888c1\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\SwfLib.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Azote\Tools\WorldEditor\bin\Debug\SwfLib.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\NLog.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\protobuf-net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Imran\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\NLog.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\protobuf-net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Phantom\Desktop\Dofu\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\NLog.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\protobuf-net.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\protobuf-net.xml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\Azote\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\NLog.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\protobuf-net.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\protobuf-net.xml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Pictures\Documents\ÉMULATION\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\zlib.net.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\NLog.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\protobuf-net.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\protobuf-net.xml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\App.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\App.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\MainWindow.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+F:\Users\Luis Mercado\Desktop\AZOTE\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\zlib.net.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\NLog.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\protobuf-net.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\protobuf-net.xml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\App.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\App.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\MainWindow.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+F:\Users\Luis Mercado\Desktop\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\App.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Dotruz 2.40.2\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Dotruz 2.40.2\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\zlib.net.dll
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+E:\Escritorio\azurerepo\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\App.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\App.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\MainWindow.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+E:\Escritorio\azurerepo\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\azur\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Full debug stump 2.42\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 debug\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 maj\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.exe.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\MySql.Data.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.ORM.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zlib.net.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.ORM.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\MySql.Data.xml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.pdb
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\Stump.Core.dll.config
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\LoadingWindow.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\App.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2I\D2IEditor.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\D2OEditor.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\EditorDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Langs\LangEditor.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\LoadingWindow.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\SearchDialog.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor_MarkupCompile.lref
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Config\ConfigDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2O\Template.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\D2P\D2PEditor.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\EffectEditorDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\IconSelectionDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Editors\Items\ItemEditor.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Helpers\Controls\I18NTextBox.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\Items\ItemSearchDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Search\SearchDialog.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\Themes\Generic.baml
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.g.resources
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Alexandra\Desktop\MAJ\Geraxi 2.42 MAJ 18-03-18\Tools\WorldEditor\obj\Debug\WorldEditor.pdb
